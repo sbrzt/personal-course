@@ -6,7 +6,7 @@ import pandas as pd
 from course import bibliothecae as bib
 from course import data, stats
 from course.checking import RESULTS
-from course.checks import s1_1, s1_2, s1_3, s1_4
+from course.checks.draft import s1_1, s1_2, s1_3, s1_4
 
 
 def status(lesson, n):

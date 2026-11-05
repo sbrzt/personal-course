@@ -6,7 +6,7 @@ authors:
   - family-names: Barzaghi
     given-names: Sebastian
     affiliation: University of Bologna
-version: 0.1.0
+version: 0.2.0
 license:
   - CC-BY-4.0
   - MIT

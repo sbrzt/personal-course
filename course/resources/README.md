@@ -1,5 +1,8 @@
 # Bundled data
 
+- `bibliothecae/`: the Bibliothecae.it tables (articles, references, authors and the links between them), with their own README.
+- `commedia.txt`: the text of Dante's *Commedia*, described below.
+
 ## commedia.txt
 
 Dante Alighieri, *La Divina Commedia* (Inferno, Purgatorio, Paradiso; 100 cantos). The text is in the public domain.

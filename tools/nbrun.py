@@ -57,6 +57,8 @@ def execute(nb, cwd: Path, timeout: int = 900):
     # make the course package importable from any folder, installed or not
     paths = [str(ROOT)] + [p for p in os.environ.get("PYTHONPATH", "").split(os.pathsep) if p]
     os.environ["PYTHONPATH"] = os.pathsep.join(dict.fromkeys(paths))
+    # sliders run once with their starting values, so their output is kept in the notebook
+    os.environ.setdefault("COURSE_STATIC", "1")
     nb = with_results_cell(nb)
     client = NotebookClient(nb, timeout=timeout, kernel_name="python3", allow_errors=True,
                             resources={"metadata": {"path": str(cwd)}})

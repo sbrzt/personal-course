@@ -19,6 +19,8 @@ project:
     - statistics
     - bibliometrics
     - metascience
+  numbering:
+    equation: false
   exclude:
     - README.md
     - answers/**
@@ -27,17 +29,15 @@ project:
     - tests/**
     - course/**
     - _build/**
+    - lessons/phase-s/first-draft/**
   toc:
     - file: index.md
     - file: how-to.md
     - file: lessons/phase-s/phase-s.md
       children:
-        - title: S1 · Describing data and the bibliometric laws
+        - title: Part 0 · The maths toolkit
           children:
-            - file: lessons/phase-s/s1-1-centre-spread-shape.ipynb
-            - file: lessons/phase-s/s1-2-concentration-association.ipynb
-            - file: lessons/phase-s/s1-3-heavy-tails-laws.ipynb
-            - file: lessons/phase-s/s1-4-project-bibliothecae.ipynb
+            - file: lessons/phase-s/s0-1-reading-formulas.ipynb
     - file: about.md
 site:
   template: book-theme

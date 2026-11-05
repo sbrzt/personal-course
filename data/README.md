@@ -1,22 +1,5 @@
-# Private data
+# Local data
 
-Git ignores everything in this folder except this file, so data placed here never reach the public repository.
+Git ignores everything in this folder except this file. Put here any data you want to use in a notebook without committing it.
 
-## Bibliothecae.it
-
-Put the seven CSV files from `bib_data_output.zip` in `data/bibliothecae/`, or the zip itself in `data/`:
-
-```text
-data/
-├── README.md
-└── bibliothecae/
-    ├── articles.csv
-    ├── article_authors.csv
-    ├── references.csv
-    ├── reference_authors.csv
-    ├── relations_article_author.csv
-    ├── relations_article_reference.csv
-    └── relations_reference_author.csv
-```
-
-`course.data.bibliothecae()` looks, in order, at the path you pass it, at the environment variable `BIBLIOTHECAE_DATA`, and then at `data/bibliothecae/`, `data/bib_data_output.zip` and `bib_data_output.zip` in the current folder and each folder above it. If it finds nothing, it returns a simulated stand-in with the same tables and columns, and says so.
+The Bibliothecae.it tables do not need to be here: they ship with the course, in `course/resources/bibliothecae/`, and `course.data.bibliothecae()` loads them. To load another version of them instead (for example an updated export), pass its folder or zip to `course.data.bibliothecae(path)`, or set the environment variable `BIBLIOTHECAE_DATA` to it.

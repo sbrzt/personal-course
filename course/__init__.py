@@ -7,9 +7,11 @@ Modules
 -------
 stats     reference versions of the statistics the lessons teach
 models    simulations, such as Price's cumulative-advantage model
-data      the lesson datasets, and the loader for the Bibliothecae.it data
+data      the lesson datasets, including the Bibliothecae.it tables
 plots     small plotting helpers with a shared style
-checks    one module of exercise checks per lesson
+widgets   sliders for exploring an idea (a still frame on the course site)
+bibliothecae  standard views of the Bibliothecae.it tables
+checks    one module of exercise checks per lesson (checks.draft: the first S1)
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
