@@ -1,8 +1,7 @@
 """Datasets for the lessons.
 
-Simulated datasets are seeded, so everyone gets the same numbers. The text of
-the Commedia ships with the package. The Bibliothecae.it data stay on your
-computer: see `bibliothecae()`.
+The Bibliothecae.it tables and the text of the Commedia ship with the package.
+Simulated datasets are seeded, so everyone gets the same numbers.
 """
 
 from __future__ import annotations
@@ -22,7 +21,7 @@ from . import models
 
 __all__ = [
     "reference_counts", "citation_counts", "refs_and_cites", "oa_articles",
-    "authorship", "journal_counts", "commedia", "bibliothecae", "Corpus",
+    "authorship", "journal_counts", "commedia", "bibliothecae", "Corpus", "demo_corpus",
 ]
 
 
@@ -136,13 +135,6 @@ TABLES = {
     "reference_author": "relations_reference_author.csv",
 }
 
-HOW_TO_ADD = """\
-To use your own data, put the seven CSV files from bib_data_output.zip (or the
-zip itself) in the folder data/bibliothecae/ of your copy of the course, or
-set the environment variable BIBLIOTHECAE_DATA to their folder or zip. In
-JupyterLite, drag the zip into the file browser, next to this notebook."""
-
-
 @dataclass
 class Corpus:
     """The Bibliothecae.it tables, as pandas DataFrames of strings."""
@@ -160,7 +152,7 @@ class Corpus:
 
     def __repr__(self) -> str:
         sizes = ", ".join(f"{k}={len(getattr(self, k)):,}" for k in TABLES)
-        kind = "DEMO (simulated)" if self.demo else "real"
+        kind = "DEMO (simulated)" if self.demo else "Bibliothecae.it"
         return f"Corpus[{kind}] from {self.source}\n  {sizes}"
 
 
@@ -193,48 +185,30 @@ def _from_zip(path: Path) -> Corpus | None:
     return Corpus(**tables, source=str(path))
 
 
-def _candidates(path=None):
-    if path:
-        yield Path(path)
-    if os.environ.get("BIBLIOTHECAE_DATA"):
-        yield Path(os.environ["BIBLIOTHECAE_DATA"])
-    here = Path.cwd()
-    package_root = Path(__file__).resolve().parent.parent
-    for base in [here, *here.parents, package_root]:
-        yield base / "data" / "bibliothecae"
-        yield base / "data" / "bib_data_output.zip"
-        yield base / "bib_data_output.zip"
+@functools.lru_cache(maxsize=1)
+def _bundled_tables() -> dict:
+    folder = resources.files("course").joinpath("resources/bibliothecae")
+    return {k: _read_csv(io.BytesIO(folder.joinpath(f).read_bytes())) for k, f in TABLES.items()}
 
 
-def bibliothecae(path=None, demo_if_missing: bool = True) -> Corpus:
-    """Load the Bibliothecae.it tables, or a simulated stand-in if they are missing.
+def bibliothecae(path=None) -> Corpus:
+    """Load the Bibliothecae.it tables.
 
-    Looks in `path`, then $BIBLIOTHECAE_DATA, then data/bibliothecae/ (a folder
-    of CSVs) or data/bib_data_output.zip in the current folder and its parents.
-    With demo_if_missing=True, returns a simulated corpus with the same columns
-    instead of failing, so the notebook still runs; its `demo` attribute is True.
+    By default this is the copy that ships with the course, in
+    course/resources/bibliothecae/ (see the README there). To load another
+    version, pass a folder of CSVs or a zip as `path`, or set the environment
+    variable BIBLIOTHECAE_DATA. Each call returns fresh copies of the tables, so
+    changing one in a notebook never changes what the next call returns.
     """
-    seen = set()
-    for cand in _candidates(path):
-        try:
-            key = cand.resolve()
-        except OSError:
-            continue
-        if key in seen:
-            continue
-        seen.add(key)
-        corpus = None
-        if cand.is_dir():
-            corpus = _from_dir(cand)
-        elif cand.is_file() and cand.suffix == ".zip":
-            corpus = _from_zip(cand)
-        if corpus is not None:
-            return corpus
-    if not demo_if_missing:
-        raise FileNotFoundError("Bibliothecae.it data not found.\n" + HOW_TO_ADD)
-    print("ℹ️  Bibliothecae.it data not found, so this notebook uses a SIMULATED stand-in.\n"
-          "   Its numbers are made up; only the code carries over.\n\n" + HOW_TO_ADD)
-    return demo_corpus()
+    target = path or os.environ.get("BIBLIOTHECAE_DATA")
+    if target:
+        p = Path(target)
+        corpus = _from_dir(p) if p.is_dir() else _from_zip(p) if p.suffix == ".zip" else None
+        if corpus is None:
+            raise FileNotFoundError(f"no Bibliothecae.it tables found in {p}")
+        return corpus
+    tables = {k: v.copy() for k, v in _bundled_tables().items()}
+    return Corpus(**tables, source="the copy bundled with the course")
 
 
 # A simulated corpus with the same columns as the real one ----------------------------------

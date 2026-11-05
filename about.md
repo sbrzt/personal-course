@@ -10,6 +10,7 @@ The curriculum, the lessons, the `course` package and the checks were drafted wi
 
 - Lesson text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - Code (the `course` package, the tools, the tests and the code in the notebooks): [MIT](https://opensource.org/license/mit).
+- Bibliothecae\.it tables: CC BY 4.0, crediting Bibliothecae\.it for the reference lists and Wikidata (CC0) for the article metadata; see `course/resources/bibliothecae/README.md`.
 - *La Divina Commedia*: public domain; see `course/resources/README.md` for the source of the text.
 
 ## Built with

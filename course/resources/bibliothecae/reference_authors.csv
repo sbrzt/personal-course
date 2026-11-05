@@ -1,0 +1,3938 @@
+author,name
+AUTH0001,Cristina Bambini
+AUTH0002,Tatiana Wakefield
+AUTH0003,Elena Baldoni
+AUTH0004,Steve J. Bell
+AUTH0005,Attilio Mauro Caproni
+AUTH0006,Alberto Cevolini
+AUTH0007,Sandra Di Majo
+AUTH0008,Maria Gregorio
+AUTH0009,Anna Manfron
+AUTH0010,Gloria Manghetti
+AUTH0011,Sebastiano Martelli
+AUTH0012,Juliana Mazzocchi
+AUTH0013,Tiziana Possemato
+AUTH0014,Roberto Delle Donne
+AUTH0015,Paola Ricciardi
+AUTH0016,Cecilia Calabri
+AUTH0017,Gerardo Sangermano
+AUTH0018,Anna Lisa Schino
+AUTH0019,Maria Senatore Polisetti
+AUTH0020,Laura Testoni
+AUTH0021,Anna Rosa Venturi
+AUTH0022,Giuliana Zagra
+AUTH0023,Aleida Assmann
+AUTH0024,Edward M. Corrado
+AUTH0025,Heather Moulaison Sandy
+AUTH0026,Silvio Peroni
+AUTH0027,Francesca Tomasi
+AUTH0028,Fabio Vitali
+AUTH0029,Francesca Mambelli
+AUTH0030,Digital Preservation
+AUTH0031,Digital Preservation Coalition
+AUTH0032,Aldo Gangemi
+AUTH0033,Brian Lavoie
+AUTH0034,Richard Gartner
+AUTH0035,John Garrett
+AUTH0036,Donald Waters
+AUTH0037,Ciro Mattia Gonano
+AUTH0038,Sarah Higgins
+AUTH0039,Alessandro Pratesi
+AUTH0040,Inge Reist
+AUTH0041,David Farneth
+AUTH0042,Samuel Stein
+AUTH0043,Remigius Weda
+AUTH0044,Seamus Ross
+AUTH0045,Kenneth Thibodeau
+AUTH0046,Colin Webb
+AUTH0047,Luigi Balduzzi
+AUTH0048,Edoardo Barbieri
+AUTH0049,Antonella Barzazi
+AUTH0050,Giovanni Battista Bezzi
+AUTH0051,Elie Bikerman
+AUTH0052,Girolamo Bonoli
+AUTH0053,Rosa Maria Borraccini
+AUTH0054,Roberto Rusconi
+AUTH0055,Giorgio Caravale
+AUTH0056,Giordano Castellani
+AUTH0057,Guglielmo Cavallo
+AUTH0058,Luca Ceriotti
+AUTH0059,Ettore Contarini
+AUTH0060,Carlo De Frede
+AUTH0061,Romeo De Maio
+AUTH0062,Lorenzo Di Lenardo
+AUTH0063,Marc Dykmans
+AUTH0064,Gregorio Farulli
+AUTH0065,Daniela Fasanella
+AUTH0066,Carlo M. Fiorentino
+AUTH0067,Agostino Fortunio
+AUTH0068,Ugo Fossa
+AUTH0069,Sara Cambrini
+AUTH0070,Gigliola Fragnito
+AUTH0071,Vittorio Frajese
+AUTH0072,Antonio Gabbrielli
+AUTH0073,Daniela Parassi
+AUTH0074,Paul F. Grendler
+AUTH0075,Henrike Holsing
+AUTH0076,Mario Infelise
+AUTH0077,Erwin Iserloh
+AUTH0078,Italo Mario Laracca
+AUTH0079,Alessandro Ledda
+AUTH0080,Volker Leppin
+AUTH0081,Piero Lucchi
+AUTH0082,Placido Lugano
+AUTH0083,Marco Mazzotti
+AUTH0084,Samuele Megli
+AUTH0085,Giovanni Benedetto Mittarelli
+AUTH0086,Giorgio Montecchi
+AUTH0087,Pio Paschini
+AUTH0088,Serafino Pasolini
+AUTH0089,Elisabetta Patrizi
+AUTH0090,Giovanni Battista Penco
+AUTH0091,Giorgio Picasso
+AUTH0092,Carlo Polgrossi
+AUTH0093,Giovanni Pozzi-Luciana Pedroia
+AUTH0094,Adriano Prosperi
+AUTH0095,Silvano Razzi
+AUTH0096,Elisa Rebellato
+AUTH0097,Franz Heinrich Reusch
+AUTH0098,Marielisa Rossi
+AUTH0099,Ugo Rozzo
+AUTH0100,Graziano Ruffini
+AUTH0101,Roger E. Stoddard
+AUTH0102,Alfredo Tallandini
+AUTH0103,Angelo Turchini
+AUTH0104,Domenico Vaccolini
+AUTH0105,Monica Viero
+AUTH0106,Giuseppina Zappella
+AUTH0107,Uwe Wolff
+AUTH0108,Edmondo De Amicis
+AUTH0109,Pasquale Fornari
+AUTH0110,David Livingstone
+AUTH0111,Henri Mouhot
+AUTH0112,François Edouard Raynal
+AUTH0113,Pietro Savio
+AUTH0114,Henry Morton Stanley
+AUTH0115,Bruno Ambrella
+AUTH0116,Giorgio Bacci
+AUTH0117,Guido Baglioni
+AUTH0118,Angela Bianchini
+AUTH0119,Pino Boero
+AUTH0120,Carmine De Luca
+AUTH0121,Viola Cagninelli
+AUTH0122,Livia Caravello
+AUTH0123,Maria Carazzi
+AUTH0124,Enzo Catarsi
+AUTH0125,Roger Chartier
+AUTH0126,Adriana Chemello
+AUTH0127,Louis Chevalier
+AUTH0128,Giorgio Chiosso
+AUTH0129,Mariella Colin
+AUTH0130,Darwin
+AUTH0131,Ester De Fort
+AUTH0132,Loretta De Franceschi
+AUTH0133,Robert Fox
+AUTH0134,Giovanni Gavazzi Spech
+AUTH0135,Giovanni Genovesi
+AUTH0136,Paola Govoni
+AUTH0137,Leslie Howsam
+AUTH0138,Adrian Johns
+AUTH0139,Carlo G. Lacaita
+AUTH0140,Silvio Lanaro
+AUTH0141,Martin Lyons
+AUTH0142,Elisa Marazzi
+AUTH0143,Raphaël Muller
+AUTH0144,Andrew O’Malley
+AUTH0145,Isabelle Olivero
+AUTH0146,Maria Iolanda Palazzolo
+AUTH0147,Sara Mori
+AUTH0148,Giorigo Bacci
+AUTH0149,Giovanni Ragone
+AUTH0150,Daniel Raichvarg
+AUTH0151,Jean Jacques
+AUTH0152,Pietro Redondi
+AUTH0153,Laura Ricci
+AUTH0154,Ricciarda Ricorda
+AUTH0155,Giuseppe Ricuperati
+AUTH0156,Jonathan Rose
+AUTH0157,Francesco Surdich
+AUTH0158,Fabio Targhetta
+AUTH0159,Guido Verucci
+AUTH0160,Reinhard Wittmann
+AUTH0161,American Library Association. Catalog Code Revision Committee
+AUTH0162,American Library Association. Publication Section
+AUTH0163,James G. Barnwell
+AUTH0164,Michael Carpenter
+AUTH0165,Melvil Dewey
+AUTH0166,Charles Fenly
+AUTH0167,Charles C. Jewett
+AUTH0168,Markus Krajewski
+AUTH0169,Seymour Lubetzky
+AUTH0170,Dorothy May Norris
+AUTH0171,The Publishers’ Weekly
+AUTH0172,Herbert Putnam
+AUTH0173,S. R. Ranganathan
+AUTH0174,E. Goldston
+AUTH0175,Shiyali Ramamrita Ranganathan
+AUTH0176,W. Boyd Rayward
+AUTH0177,Matthew Reidsma
+AUTH0178,Edith Scott
+AUTH0179,Giovanni Solimine
+AUTH0180,Wayne A. Wiegand
+AUTH0181,William Frederick Poole
+AUTH0182,Lorenzo Amadei
+AUTH0183,Agata C. Amato Mangiameli
+AUTH0184,Associazione Nazionale Archivistica Italiana
+AUTH0185,Sara Bentivegna
+AUTH0186,Giorgetta Bonfiglio Dosio
+AUTH0187,Gianfranco Brevetto
+AUTH0188,Luca Bucculiero
+AUTH0189,Roberto Cafferata
+AUTH0190,Vincenzo Calabrò
+AUTH0191,Andrea Carbone
+AUTH0192,Paola Carucci
+AUTH0193,Sabino Cassese
+AUTH0194,Andrea Ciulla
+AUTH0195,Sergio Contessa
+AUTH0196,Pasquale Costanzo
+AUTH0197,Virgilio De Angelis
+AUTH0198,Raffaele De Felice
+AUTH0199,Piero De Risi
+AUTH0200,Francesca Di Donato
+AUTH0201,Luciana Duranti
+AUTH0202,Fernanda Faini
+AUTH0203,Sergio Festa
+AUTH0204,Antonietta Folino
+AUTH0205,Massimo Severo Giannini
+AUTH0206,Linda Giuva
+AUTH0207,Enrico Guastapane
+AUTH0208,Maria Guercio
+AUTH0209,Maria Paola Guerra
+AUTH0210,Michele Iaselli
+AUTH0211,Raffaele Lauro
+AUTH0212,Gabriele Lazzi
+AUTH0213,Elio Lodolini
+AUTH0214,Andrea Maggipinto
+AUTH0215,Luciano Mauriello
+AUTH0216,Antonio Mazzei
+AUTH0217,Maria Antonietta Mazzola
+AUTH0218,Claudio Meoli
+AUTH0219,Federica Meta
+AUTH0220,Giovanni Michetti
+AUTH0221,Carlo Mosca
+AUTH0222,Roberta Nannucci
+AUTH0223,Paolo Padoin
+AUTH0224,Gianni Penzo Doria
+AUTH0225,Stefano Pigliapoco
+AUTH0226,Stefania Puddu
+AUTH0227,Pierluigi Ridolfi
+AUTH0228,Vita Rizzo
+AUTH0229,Andrea Rocchi
+AUTH0230,Antonio Romiti
+AUTH0231,Gaetano Salvemini
+AUTH0232,Gaetano Santucci
+AUTH0233,Valerio Sarcone
+AUTH0234,Giuseppe Saredo
+AUTH0235,Maurizio Savoja
+AUTH0236,Maria Spagnolo
+AUTH0237,Giovanna Tosatti
+AUTH0238,Caterina Valia
+AUTH0239,Enzo Vicari
+AUTH0240,Roberto De Pol
+AUTH0241,Manfred Koschlig
+AUTH0242,Uberto Limentani
+AUTH0243,Emma Louise Maier
+AUTH0244,Alberto Martino
+AUTH0245,Pietro Aretino
+AUTH0246,Maria Grazia Bellorini
+AUTH0247,Gustavo Bertoli
+AUTH0248,Fabio Massimo Bertolo
+AUTH0249,Mark B. Bland
+AUTH0250,Francisco Delicado
+AUTH0251,Kate De Rycker
+AUTH0252,Enrico Garavelli
+AUTH0253,Marco Giola
+AUTH0254,Piero Lorenzoni
+AUTH0255,Giampietro Marconi
+AUTH0256,Sonia Massai
+AUTH0257,Paola Ottolenghi
+AUTH0258,Alessandra Petrina
+AUTH0259,Duncan Salkeld
+AUTH0260,John Tedeschi
+AUTH0261,Soko Tomita
+AUTH0262,Denis B. Woodfield
+AUTH0263,Katja Zornetta
+AUTH0264,Federico Zuliani
+AUTH0265,Charles A. Cutter
+AUTH0266,Tom Delsey
+AUTH0267,Ákos Domanovszky
+AUTH0268,Michael Gorman
+AUTH0269,Carlo Bianchi
+AUTH0270,Leonard Jolley
+AUTH0271,Diego Maltese
+AUTH0272,Daniel Martínez-Ávila
+AUTH0273,Richard Smiraglia
+AUTH0274,Hur-Li Lee
+AUTH0275,Melodie Fox
+AUTH0276,Heather Lea Moulaison
+AUTH0277,Felicity Dykas
+AUTH0278,John M. Budd
+AUTH0279,Julia Pettee
+AUTH0280,Elaine Svenonius
+AUTH0281,James Tait
+AUTH0282,Eva Verona
+AUTH0283,Patrick Wilson
+AUTH0284,Martin Heidegger
+AUTH0285,Rudolf Blum
+AUTH0286,Gerald Bramley
+AUTH0287,Kristian Jensen
+AUTH0288,K. A. Manley
+AUTH0289,A. N. L. Munby
+AUTH0290,William Arthur Mumford
+AUTH0291,Michael J. Ramsden
+AUTH0292,John V. Richardson Jr.
+AUTH0293,John Windle
+AUTH0294,Karma Pippin
+AUTH0295,Ernest Abadal
+AUTH0296,Roberto Beccaria
+AUTH0297,Gaetano Dato
+AUTH0298,Rudj Gorian
+AUTH0299,Pasola Paesano
+AUTH0300,Giuseppe Slaviero
+AUTH0301,Intekhab Alam
+AUTH0302,Jeffrey Beall
+AUTH0303,Hélène Bosc
+AUTH0304,Stevan Harnad
+AUTH0305,Ming Chen
+AUTH0306,Yunfei Du
+AUTH0307,Antonella De Robbio
+AUTH0308,S. B. Gosh
+AUTH0309,Anup Kumar Das
+AUTH0310,Mohan L. Jamdade
+AUTH0311,Anna-Lena Johansson
+AUTH0312,Ingela Wahlgren
+AUTH0313,David Kramer
+AUTH0314,Ramesh Kuri
+AUTH0315,Ramdas Lihitkar
+AUTH0316,Shalini R. Lihitkar
+AUTH0317,Asish Maity
+AUTH0318,Soumen Teli
+AUTH0319,Andrea Marchitelli
+AUTH0320,Paola Galimberti
+AUTH0321,Andrea Bollini
+AUTH0322,Dominic Mitchell
+AUTH0323,Bhaskar Mukherjee
+AUTH0324,Heather Piwowar
+AUTH0325,Jason Priem
+AUTH0326,Vincent Larivière
+AUTH0327,Juan Pablo Alperin
+AUTH0328,Lisa Matthias
+AUTH0329,Bree Norlander
+AUTH0330,Ashley Farley
+AUTH0331,Jevin West
+AUTH0332,Stefanie Haustein
+AUTH0333,Shamprasad M. Pujar
+AUTH0334,Priyanka Pulla
+AUTH0335,Richard Rogers
+AUTH0336,Reyaz Rufai
+AUTH0337,Sumeer Gul
+AUTH0338,Tariq Ahmad Shah
+AUTH0339,Jyotshna Sahoo
+AUTH0340,Tuni Birtia
+AUTH0341,Basudev Mohanty
+AUTH0342,Leena Shah
+AUTH0343,Vrushali Dandawate
+AUTH0344,Sridhar Gutam
+AUTH0345,Jagtar Singh
+AUTH0346,G. Stephen
+AUTH0347,T. Balamurogan
+AUTH0348,Peter Suber
+AUTH0349,Jonathan P. Tennant
+AUTH0350,François Waldner
+AUTH0351,Damien C. Jacques
+AUTH0352,Paola Masuzzo
+AUTH0353,Lauren B. Collister
+AUTH0354,Chris H. J. Hartgerink
+AUTH0355,Kotti Thavamani
+AUTH0356,Jingfeng Xia
+AUTH0357,Shunbo Yuan
+AUTH0358,Weina Hua
+AUTH0359,Éric Archambault
+AUTH0360,Didier Amyot
+AUTH0361,Philippe Deschamps
+AUTH0362,Aurore Nicol
+AUTH0363,François Provencher
+AUTH0364,Lise Rebout
+AUTH0365,Guillaume Roberge
+AUTH0366,Decan Butler
+AUTH0367,Anna Maria Tammaro
+AUTH0368,Faye Chadwell
+AUTH0369,Shan C. Sutton
+AUTH0370,European Commission
+AUTH0371,Kubilay Kaptan
+AUTH0372,Albert Krewinkel
+AUTH0373,Robert Winkler
+AUTH0374,Vincent Larivère
+AUTH0375,Philippe Mongeon
+AUTH0376,Library Publishing Coalition
+AUTH0377,Sarah Kalikman Lippincott
+AUTH0378,Magazzini Digitali
+AUTH0379,Open Citations
+AUTH0380,Science Europe
+AUTH0381,Jeroen Sondervan
+AUTH0382,Fleur Stigter
+AUTH0383,Alma Swan
+AUTH0384,Maria Laura Vignocchi
+AUTH0385,Elena Giglia
+AUTH0386,Tyler Walters
+AUTH0387,Wellcome Trust
+AUTH0388,Inge Werner
+AUTH0389,Alberto Baccini
+AUTH0390,Jonathan Furner
+AUTH0391,Elea Giménez-Toledo
+AUTH0392,Jorge Mañana-Rodríguez
+AUTH0393,Tim C. E. Engels
+AUTH0394,Peter Ingwersen
+AUTH0395,Janne Pölönen
+AUTH0396,Gunnar Sivertsen
+AUTH0397,Frederik T. Verleysen
+AUTH0398,Alesia A. Zuccala
+AUTH0399,Diana M. Hicks
+AUTH0400,Paul Wouters
+AUTH0401,Michèle Lamont
+AUTH0402,Yves Gingras
+AUTH0403,Étienne Vignola-Gagné
+AUTH0404,Henk F. Moed
+AUTH0405,Michael Ochsner
+AUTH0406,Sven Hug
+AUTH0407,Ioana Galleron
+AUTH0408,Daniel Torres-Salinas
+AUTH0409,Nicolás Robinson-García
+AUTH0410,Álvaro Cabezas-Clavijo
+AUTH0411,Evaristo Jiménez-Contreras
+AUTH0412,Ulisse Aldrovandi
+AUTH0413,Valerio Altimari
+AUTH0414,Giovanna Falcone
+AUTH0415,Eugenio Battisti
+AUTH0416,Tammaro De Marinis
+AUTH0417,Giovanni Fantuzzi
+AUTH0418,Carola Ferrari
+AUTH0419,Antonietta Pintor
+AUTH0420,Marco Antonio Ginanni
+AUTH0421,Marinela Haxhiraj
+AUTH0422,Oreste Mattirolo
+AUTH0423,Paola Mazza
+AUTH0424,Mauro Mei
+AUTH0425,Massimo Moretti
+AUTH0426,Giulia Semenza
+AUTH0427,Enrico Narducci
+AUTH0428,Giuseppe Olmi
+AUTH0429,Lucia Tongiorgi Tomasi
+AUTH0430,Giovanni Rita
+AUTH0431,Cristina Scappini
+AUTH0432,Maria Pia Torricelli
+AUTH0433,Albano Sorbelli
+AUTH0434,Fiammetta Terlizzi
+AUTH0435,Sandra Tugnoli Pattaro
+AUTH0436,Emerenziana Vaccaro
+AUTH0437,Cecilia Angeletti
+AUTH0438,Dimitri Brunetti
+AUTH0439,Rosaria Campioni
+AUTH0440,Nazareno Pisauri
+AUTH0441,Angela Cavarra
+AUTH0442,Gloria Cirocchi
+AUTH0443,Carlo Federici
+AUTH0444,Maria Luisa Garroni
+AUTH0445,Anna Maria Giorgetti
+AUTH0446,Domenico Gnoli
+AUTH0447,Henry Martin
+AUTH0448,Luigi Piccioni
+AUTH0449,Paola Puglisi
+AUTH0450,Fiorella Romano
+AUTH0451,Affò Ireneo
+AUTH0452,Giannetto Avanzi
+AUTH0453,Luigi Balsamo
+AUTH0454,Pierangelo Bellettini
+AUTH0455,Ugo Bellocchi
+AUTH0456,Berengo Marino
+AUTH0457,Renato Bertacchini
+AUTH0458,Martino Capucci
+AUTH0459,Martino Cappucci
+AUTH0460,Valerio Castronovo
+AUTH0461,Giuseppe Cavazzuti
+AUTH0462,Renzo Cremante
+AUTH0463,Andrea Cristiani
+AUTH0464,Flavia Cristiano
+AUTH0465,Marco Cuaz
+AUTH0466,Marzio Dall’Acqua
+AUTH0467,Luca Danzi
+AUTH0468,Giorgio De Gregori
+AUTH0469,Simonetta Buttò
+AUTH0470,Cesare De Michelis
+AUTH0471,Johann Albert Fabricius
+AUTH0472,Francesco Fattorello
+AUTH0473,Fattorello Francesco
+AUTH0474,Ugo Foscolo
+AUTH0475,Giuseppe Fumagalli
+AUTH0476,Giuliano Gaeta
+AUTH0477,Gardair Jean Michel
+AUTH0478,Dario Generali
+AUTH0479,Carla Giunchedi
+AUTH0480,Elisa Grignani
+AUTH0481,Paolo Golinelli
+AUTH0482,Silvia Grassi Fiorentino
+AUTH0483,Claudio Griggio
+AUTH0484,Giovanna Gronda
+AUTH0485,Hatin Eugène
+AUTH0486,Christian Juncker
+AUTH0487,Louise-Noëlle Malclès
+AUTH0488,Maurizio Mamiani
+AUTH0489,Fortunato Mandelli
+AUTH0490,Michele Maylender
+AUTH0491,Gaetano Melzi
+AUTH0492,Arnaldo Momigliano
+AUTH0493,Giuseppe Montalenti
+AUTH0494,Attilio Mori
+AUTH0495,Paolo Murialdi
+AUTH0496,Giulio Natali
+AUTH0497,Francesco Negri
+AUTH0498,Giuseppe Ottino
+AUTH0499,Giorgio Panizza
+AUTH0500,Maria Pia Paoli
+AUTH0501,Carlo Pellegrini
+AUTH0502,Alessandra Pesante
+AUTH0503,Krzysztof Pomian
+AUTH0504,Elena Pozzebon
+AUTH0505,Gian Paolo Romagnani
+AUTH0506,Sebastiano Rumor
+AUTH0507,Rosanna Saccardo
+AUTH0508,Sabba Fiammetta
+AUTH0509,Donato Scioscioli
+AUTH0510,Lucinda Spera
+AUTH0511,Fabrizio Vannini
+AUTH0512,Vittorio Vettori
+AUTH0513,Antonio Francesco Vezzosi
+AUTH0514,Françoise Waquet
+AUTH0515,Valentina Zedda
+AUTH0516,Paola Bernasconi
+AUTH0517,Guido Biagi
+AUTH0518,Alberto Cavaglion
+AUTH0519,Angela Adriana Cavarra
+AUTH0520,Gianfranco Crupi
+AUTH0521,Carlo Frati
+AUTH0522,Salvatore Gaetani
+AUTH0523,Maria Teresa Miconi
+AUTH0524,Elisabetta Papone
+AUTH0525,Giancarlo Petrella
+AUTH0526,Giovanna Petti Balbi
+AUTH0527,Francesca Pizzetti
+AUTH0528,Maria Sciascia
+AUTH0529,Francesca Tamburlini
+AUTH0530,Gianfranco Tortorelli
+AUTH0531,Bibliotheca Bigotiana
+AUTH0532,Bibliotheca Colbertina
+AUTH0533,Bibliotheca Fayana
+AUTH0534,Bibliotheca D. Joannis Giraud
+AUTH0535,Bibliotheca Hemmiana
+AUTH0536,Bibliotheca Telleriana
+AUTH0537,Jacques Charles Brunet
+AUTH0538,Denis François Camusat
+AUTH0539,Maria Grazia Ceccarelli
+AUTH0540,Guillaume-François Debure
+AUTH0541,Giuseppe Farinelli
+AUTH0542,Ermanno Paccagnini
+AUTH0543,Giovanni Santambrogio
+AUTH0544,Angela Ida Villa
+AUTH0545,Gary Kates
+AUTH0546,Daniel Georg Morhof
+AUTH0547,Graham Pollard
+AUTH0548,Albert Ehrman
+AUTH0549,Renzo Ragghianti
+AUTH0550,Alessandro Savorelli
+AUTH0551,The Spectator
+AUTH0552,Burkhard Gotthelf Struve
+AUTH0553,Elisabetta Camerlo
+AUTH0554,Carlo Carotti
+AUTH0555,Severino Cesari
+AUTH0556,Anna D’Agostino
+AUTH0557,Le Edizioni Einaudi 1933-2018
+AUTH0558,Angelo Fortunato Formiggini
+AUTH0559,Francesca Lolli
+AUTH0560,Luisa Mangoni
+AUTH0561,Milano Libri 1962/2012
+AUTH0562,Bruno Oreffice
+AUTH0563,Gioia Sebastiani
+AUTH0564,Cesare Segre
+AUTH0565,Nicola Tranfaglia
+AUTH0566,Giuliano Vigini
+AUTH0567,American Library Association
+AUTH0568,Dorothy Anderson
+AUTH0569,Michael Barkun
+AUTH0570,Whitney R. Cross
+AUTH0571,Lawrence Foster
+AUTH0572,Charles A. Fyffe
+AUTH0573,William Torrey Harris
+AUTH0574,Edward G. Holley
+AUTH0575,Carlile Aylmer Macartney
+AUTH0576,David L. Rowe
+AUTH0577,Nathaniel Bradstreet Shurtleff
+AUTH0578,Herbert Coblans
+AUTH0579,Josiane Seniè-Demeurisse
+AUTH0580,Regina Marteleto
+AUTH0581,El Yousfi Hanane
+AUTH0582,Pierre Frieden
+AUTH0583,Martha Macedo Kerr Pinheiro
+AUTH0584,Icleia Thiesen
+AUTH0585,Jean Meyriat
+AUTH0586,Jean Viet
+AUTH0587,Dominique Saintville
+AUTH0588,Antoine Provansal
+AUTH0589,Josiane Senié-Demeurisse
+AUTH0590,Sabine Roux
+AUTH0591,Else Bogel
+AUTH0592,Elger Blühm
+AUTH0593,Reinhart Siegert
+AUTH0594,Jürgen Beyer
+AUTH0595,Dazu Gerd-Josef Bötte
+AUTH0596,Thomas Bürger
+AUTH0597,Claudia Fabian
+AUTH0598,Rupert Schaab
+AUTH0599,Barbara Schneider-Kempf
+AUTH0600,Heiner Schnelling
+AUTH0601,Manfred Thaller
+AUTH0602,Dazu Severin Corsten
+AUTH0603,Uwe Dierolf
+AUTH0604,Michael Mönnich
+AUTH0605,Claudia Fabian [Hrsg.]
+AUTH0606,Klaus Garber
+AUTH0607,Gert Hagelweide
+AUTH0608,Klaus-Dieter Herbst
+AUTH0609,Klaus-Dieter Herbst (Hrsg.)
+AUTH0610,Joachim Kirchner
+AUTH0611,Christoph Köhler
+AUTH0612,Esther-Beate Körber
+AUTH0613,Dazu Gisela Möncke
+AUTH0614,Dazu Wolfgang Müller
+AUTH0615,Peter Stein
+AUTH0616,Johannes Weber
+AUTH0617,Carlos Alberto Araujo
+AUTH0618,Anibal Bragança
+AUTH0619,Ana Paula Sampaio Caldeira
+AUTH0620,Cesar Augusto Castro
+AUTH0621,Georgete Medleg Rodrigues
+AUTH0622,Jacques Lafaye
+AUTH0623,Carlos Soares Neves
+AUTH0624,Nanci Oddone
+AUTH0625,Eliane Braga Oliveira
+AUTH0626,Raissa Mota Castro
+AUTH0627,Paul Otlet
+AUTH0628,Lilia Moritz Schwartz
+AUTH0629,Pedro Tota
+AUTH0630,David Werner Amram
+AUTH0631,Francis Barham
+AUTH0632,Zipora Baruchson
+AUTH0633,Shifra Baruchson-Arbib
+AUTH0634,Biblia. Hebraea
+AUTH0635,Jesús Martínez De Bujanda
+AUTH0636,Charles Brunet
+AUTH0637,Stephen G. Burnett
+AUTH0638,Giulio Busi
+AUTH0639,Saverio Campanini
+AUTH0640,Maria Cochetti
+AUTH0641,Deutsche Biographische Enzyklopädie
+AUTH0642,Giovanni Bernardo De Rossi
+AUTH0643,Aubrey Diller
+AUTH0644,Henry Dominique Saffrey
+AUTH0645,Leendert Gerrit Westerink
+AUTH0646,Faithful Narratives. Historians
+AUTH0647,Hans Fischer
+AUTH0648,Aron Freimann
+AUTH0649,Martin Germann
+AUTH0650,Rachel Heuberger
+AUTH0651,Abraam Iudaei [Ibn Ezra
+AUTH0652,Seth Jerchower
+AUTH0653,Heidi G. Lerner
+AUTH0654,Marie-Hyacinthe Laurent
+AUTH0655,Urs. B. Leu
+AUTH0656,Sandra Weidmann. Heinrich Bullingers Privatbibliothek. In Heinrich Bullinger Werke. Erste Abteilung
+AUTH0657,Israel Mehlman
+AUTH0658,Abraham Mei Habermann
+AUTH0659,Paul Nelles
+AUTH0660,David H. Price
+AUTH0661,Boris Repschinski
+AUTH0662,François Secret
+AUTH0663,Moses A Shulvass
+AUTH0664,Robert Singerman
+AUTH0665,Giuliano Tamani
+AUTH0666,Fernand Van Ortroy
+AUTH0667,Hans H. Wellisch
+AUTH0668,Hans Widmann
+AUTH0669,Helmut Zedelmaier
+AUTH0670,Francesco Zorzi
+AUTH0671,Christoph Zürcher
+AUTH0672,Francesca Abbozzo
+AUTH0673,Antonio Maria Adorisio
+AUTH0674,Stefano Andretta
+AUTH0675,Tiziana Biganti
+AUTH0676,Fernand Benoît
+AUTH0677,Corrado Bozzoni
+AUTH0678,Giovanni Carbonara
+AUTH0679,Gianpiero Brunelli
+AUTH0680,Antonino Caleca
+AUTH0681,Flavia Cantatore
+AUTH0682,Paolo Cortesi
+AUTH0683,Irene Fosi Polverini
+AUTH0684,François Fossier
+AUTH0685,Laura Galli
+AUTH0686,Laura Gigli
+AUTH0687,Guido Lana
+AUTH0688,Judith Lange
+AUTH0689,Elvio Lunghi
+AUTH0690,Outi Merisalo
+AUTH0691,Pietro Messina
+AUTH0692,Ludwig Von Pastor
+AUTH0693,Marcella Peruzzi
+AUTH0694,Armando Petrucci
+AUTH0695,Alberto Maria Sartore
+AUTH0696,Fausto Sciurpa
+AUTH0697,Marcello Simonetta
+AUTH0698,Alessandra Tiroli
+AUTH0699,Stefano Zamponi
+AUTH0700,Accademia Nazionale Dei Lincei
+AUTH0701,Javier Alvarado Planas
+AUTH0702,Alarico Barbagli
+AUTH0703,Federico Barbierato
+AUTH0704,Fernando Jesús Bouza Alvarez
+AUTH0705,Marco Cavarzere
+AUTH0706,Maxime Chevalier
+AUTH0707,Benedetto Croce
+AUTH0708,Luciana Cuppo
+AUTH0709,Miguel De Cervantes Saavedra
+AUTH0710,Marcelin Defourneaux
+AUTH0711,Jean Delumeau
+AUTH0712,Daniela Fattori
+AUTH0713,Sergio Fernàndez López
+AUTH0714,Anne Jacobson Schutte
+AUTH0715,Michele Jacoviello
+AUTH0716,Sandro Landi
+AUTH0717,Nicola Longo
+AUTH0718,Pasquale Lopez
+AUTH0719,Antonio Márquez
+AUTH0720,José Pardo Tomás
+AUTH0721,Geoffrey Parker
+AUTH0722,Paolo Procaccioli
+AUTH0723,Raffaele Puddu
+AUTH0724,Milena Sabato
+AUTH0725,Rodolfo Savelli
+AUTH0726,Edoardo Tortarolo
+AUTH0727,M. Chatelet
+AUTH0728,Marie-Madeleine Compère
+AUTH0729,Gianfranco Contini
+AUTH0730,Gustave Dupont-Ferrier
+AUTH0731,Paul Oskar Kristeller
+AUTH0732,Antonio Iurilli
+AUTH0733,Luana Salvarani
+AUTH0734,Stefano Allegrezza
+AUTH0735,Kelly J. Applegate
+AUTH0736,Ilaria Barbanti
+AUTH0737,Giovanni Bruno
+AUTH0738,Jessica Bushey
+AUTH0739,Maria Mata Caravaca
+AUTH0740,Viola Annie-Marie
+AUTH0741,Carlo Ceresa
+AUTH0742,Valerio Mosca
+AUTH0743,Gabriella Serratrice
+AUTH0744,Daniela Siccardi
+AUTH0745,Roberto Cerri
+AUTH0746,Robin Chandler
+AUTH0747,Bill Landis
+AUTH0748,Bradley Westbrook
+AUTH0749,Enzo Ciarravano
+AUTH0750,Caterina Del Vivo
+AUTH0751,Patricia C. Franks
+AUTH0752,Ingrid Germani
+AUTH0753,Nadia Giacomini
+AUTH0754,Roberto Grassi
+AUTH0755,Salvatore Vassallo
+AUTH0756,Tommaso M. Lazzari.
+AUTH0757,Eugenio Lo Sardo
+AUTH0758,Lev Manovich
+AUTH0759,Kott Mark A. Matienzo
+AUTH0760,Katherine Kott
+AUTH0761,Leonardo Musci
+AUTH0762,Paul Nieuwenhuysen
+AUTH0763,Luca Pieraccini
+AUTH0764,Cecilia Poggetti
+AUTH0765,Francesca Ricci
+AUTH0766,Nathanial Smith
+AUTH0767,Lisa Spiro
+AUTH0768,Richard M. Stallman
+AUTH0769,Peter Van Garderen
+AUTH0770,Stefano Vitali
+AUTH0771,Enrico Bertacchini
+AUTH0772,Giovanni De Gregorio
+AUTH0773,Fabio Di Gianmarco
+AUTH0774,Valeria Falce
+AUTH0775,Francesca Ferrari
+AUTH0776,Pietro Greco
+AUTH0777,David Lankes
+AUTH0778,Lawrence Lessig
+AUTH0779,Michele Lo Foco
+AUTH0780,Daniela Laurenti
+AUTH0781,Rosa Maiello
+AUTH0782,Jordi Molas-Gallart
+AUTH0783,Laura Moscati
+AUTH0784,Henry Paton
+AUTH0785,Michelle Paulson
+AUTH0786,Julia Reda
+AUTH0787,Mark Rose
+AUTH0788,Walter Santagata
+AUTH0789,Michele Santoro
+AUTH0790,Concetta Velotto
+AUTH0791,Carla Angeleri
+AUTH0792,Giampiero Costa
+AUTH0793,Giuseppe Baretta
+AUTH0794,Grazia Maria Griffini
+AUTH0795,Roberto Cicala
+AUTH0796,Valerio S. Rossi
+AUTH0797,Pietro De Marchi
+AUTH0798,Guido Pedrojetta
+AUTH0799,Michele Ferrario
+AUTH0800,Diana Rüesch
+AUTH0801,Gian Carlo Ferretti
+AUTH0802,Carlo Emilio Gadda
+AUTH0803,Dante Isella
+AUTH0804,Niccolò Reverdini
+AUTH0805,Laura Novati
+AUTH0806,Camillo Sbarbaro
+AUTH0807,Vanni Scheiwiller
+AUTH0808,Giovanni Bergamin
+AUTH0809,Anna Lucarelli
+AUTH0810,Susanna Giaccai
+AUTH0811,Pierfranco Minsenti
+AUTH0812,Mirco Modolo
+AUTH0813,Luca Martinelli
+AUTH0814,Andrea Zanni
+AUTH0815,Alistar Cameron Crombie
+AUTH0816,Lewis Mumford
+AUTH0817,Mario Cortellazzo
+AUTH0818,Paolo Zolli
+AUTH0819,Romano Alberti
+AUTH0820,Andrea Alciato
+AUTH0821,Daniel Arasse
+AUTH0822,Claudie Balavoine
+AUTH0823,Guido Baldassarri
+AUTH0824,Filippo Baldinucci
+AUTH0825,Daniello Bartoli
+AUTH0826,Michele Battagia
+AUTH0827,Jean Baudoin
+AUTH0828,Giovan Pietro Bellori
+AUTH0829,Walter Benjamin
+AUTH0830,Linda Borean
+AUTH0831,Marco Boschini
+AUTH0832,Valeriano Bozal
+AUTH0833,Joachim Camerarius
+AUTH0834,Giovanni Careri
+AUTH0835,Guido Casoni
+AUTH0836,Nicolas Caussin
+AUTH0837,Richard Cavell
+AUTH0838,Isabella Cecchini
+AUTH0839,Jean-Marc Chatelain
+AUTH0840,Robert J. Clements
+AUTH0841,Paolo D’Angelo
+AUTH0842,Lodovico Dolce
+AUTH0843,Anton Francesco Doni
+AUTH0844,Irene Favaretto
+AUTH0845,Albert Flamen
+AUTH0846,David Freedberg
+AUTH0847,Rosemary Freeman
+AUTH0848,Marc Fumaroli
+AUTH0849,Antoine Gombaud
+AUTH0850,Edward Grasman
+AUTH0851,Algridas Julien Greimas
+AUTH0852,Pasquale Guaragnella
+AUTH0853,Daniël Heinsius
+AUTH0854,Geoffrey Dudley Hobson
+AUTH0855,Holger Homann
+AUTH0856,Hadrianus Junius
+AUTH0857,Giovanni Paolo Lomazzo
+AUTH0858,Giulio Mancini
+AUTH0859,Damiano Maraffi
+AUTH0860,José Antonio Maravall
+AUTH0861,Hessel Miedema
+AUTH0862,Ernesto Milano
+AUTH0863,Michael Moriarty
+AUTH0864,Michelangelo Muraro
+AUTH0865,Georg Kaspar Nagler
+AUTH0866,Walter J. Ong
+AUTH0867,Henricus Oraeus
+AUTH0868,Erwin Panofsky
+AUTH0869,Philostratus Lemnius
+AUTH0870,Paolo Pino
+AUTH0871,Édouard Pommier
+AUTH0872,Francesco Pona
+AUTH0873,Justus Reifenberg
+AUTH0874,Cesare Ripa
+AUTH0875,Arthur H. Robinson
+AUTH0876,Barbara Bartz Petchenik
+AUTH0877,Johannes Sambucus
+AUTH0878,Francesco Sansovino
+AUTH0879,Alison Saunders
+AUTH0880,Dora Thornton
+AUTH0881,Paolo Ulvioni
+AUTH0882,Pierio Valeriano
+AUTH0883,Giorgio Vasari
+AUTH0884,Enea Vico
+AUTH0885,Federico Zuccari
+AUTH0886,Genevieve Warwick
+AUTH0887,Jean Wirth
+AUTH0888,Simona Bagaglia
+AUTH0889,Innocenzio Battaglini
+AUTH0890,Giacomo Bersotti
+AUTH0891,Giovanni Bonello
+AUTH0892,Ettore Calzolari
+AUTH0893,Marco Ciampolini
+AUTH0894,Walter Corelli
+AUTH0895,Maria Gabriella Donati Guerrieri
+AUTH0896,Barbara Gelli
+AUTH0897,Alessandra Oddi Baglioni
+AUTH0898,Augusto Pompeo
+AUTH0899,Giulio Prunaj
+AUTH0900,Marc’Antonio Salvucci
+AUTH0901,Giovanna Sapori
+AUTH0902,Stephen C. Spiteri
+AUTH0903,Erminia Ardissino
+AUTH0904,Monica Bochetta
+AUTH0905,Ferrante Borsetti
+AUTH0906,Gabriele Bucchi
+AUTH0907,Floriana Calitti
+AUTH0908,Lorenzo Carpanè
+AUTH0909,Mario Chiesa
+AUTH0910,Paola Cosentino
+AUTH0911,Giovanni Mario Crescimbeni
+AUTH0912,Maria Antonietta De Angelis
+AUTH0913,Valeria Della Valle
+AUTH0914,Alessandra Farinelli Toselli
+AUTH0915,Donatella Frioli
+AUTH0916,Werner L. Gundersheimer
+AUTH0917,Marie Madeleine Lebreton
+AUTH0918,Luigi Fiorani
+AUTH0919,Marco Leone
+AUTH0920,Mario Marzola
+AUTH0921,Vincenzo Nannucci
+AUTH0922,Christian Coppens
+AUTH0923,Carlo Pancera
+AUTH0924,Ivo Perić
+AUTH0925,Michael B. Petrovich
+AUTH0926,Angelo Alberto Piatti
+AUTH0927,Lucio Puttin
+AUTH0928,Francesco Saverio Quadrio
+AUTH0929,Giovanni Ricci
+AUTH0930,Danilo Romei
+AUTH0931,Giovanni Battista Sajanello
+AUTH0932,Silvana Seidel Menchi
+AUTH0933,Piero Antonio Serassi
+AUTH0934,Luigi Ughi
+AUTH0935,Cesare Vasoli
+AUTH0936,Giuseppe Vedova
+AUTH0937,Luke Wadding
+AUTH0938,Danilo Zardin
+AUTH0939,Gabriella Zavan
+AUTH0940,Giuseppe Isidoro Arneudo
+AUTH0941,Adolfo Avetta
+AUTH0942,Francesco Cosentini
+AUTH0943,Luigi D’Ancona
+AUTH0944,Giuseppe Deabate
+AUTH0945,Mario Ferrigni
+AUTH0946,Giulia Fornaciari
+AUTH0947,A. Franchini
+AUTH0948,Carlo Malagola
+AUTH0949,Alfredo Melani
+AUTH0950,Carlo Moriondo
+AUTH0951,Alfonso Panzetta
+AUTH0952,Lorenzo Pegolo
+AUTH0953,Giuseppe Rondani
+AUTH0954,Emilio Soave
+AUTH0955,Gianni Zunino
+AUTH0956,Catharina Busjan
+AUTH0957,Lisa Gidley
+AUTH0958,Joachim Günter
+AUTH0959,Marion Janzin
+AUTH0960,Silvia Hartmann
+AUTH0961,Albert Kapr
+AUTH0962,Christina Killius
+AUTH0963,Karl Klingspor
+AUTH0964,Ernst Martin
+AUTH0965,Gerhard Paul
+AUTH0966,Gian Enrico Rusconi
+AUTH0967,Jürgen Spitzmüller
+AUTH0968,Christian Vogel
+AUTH0969,Hans-Jürgen Wolf
+AUTH0970,Christian Bec
+AUTH0971,Gustav Becker
+AUTH0972,Rudolf Beer
+AUTH0973,Maria Bertola
+AUTH0974,Henri Bresc
+AUTH0975,Léopold V. Delisle
+AUTH0976,Marcello Del Piazzo
+AUTH0977,Albert Derolez
+AUTH0978,Angela Dressen
+AUTH0979,Sheila Edmunds
+AUTH0980,Charles B. Faulhaber
+AUTH0981,Giovanni Fiesoli
+AUTH0982,Luciano Gargan
+AUTH0983,Theodor Gottlieb
+AUTH0984,Susan Hagen Cavanaugh
+AUTH0985,István Hlavácek
+AUTH0986,Neil Ripley Ker
+AUTH0987,Anja I. Lehtinen
+AUTH0988,Giuseppe Lombardi
+AUTH0989,I
+AUTH0990,Mittelalterliche Bibliothekskataloge Österreichs
+AUTH0991,I (Supplement)
+AUTH0992,V
+AUTH0993,Donatella Nebbiai
+AUTH0994,Emil Olmer
+AUTH0995,Tryggvi J. Oleson
+AUTH0996,Agostino Paravicini Bagliani
+AUTH0997,Monica Pedralli
+AUTH0998,Manuel José Pedraza Gracia
+AUTH0999,Cesare Scalon
+AUTH1000,Armando Felice Verde
+AUTH1001,Jeanne Vielliard
+AUTH1002,Otto Walde
+AUTH1003,Stefano Arieti
+AUTH1004,Alessandro Grilli
+AUTH1005,Giorgio Boatti
+AUTH1006,Giorgio Cosmacini
+AUTH1007,Guido Dagnini
+AUTH1008,Miriam Focaccia
+AUTH1009,Helmut Goetz
+AUTH1010,Leonello Manzi
+AUTH1011,Bartolo Nigrisoli
+AUTH1012,Pietro Nigrisoli
+AUTH1013,Sherwin B. Nuland
+AUTH1014,Romano Pasi
+AUTH1015,Luciano Sterpellone
+AUTH1016,Giuseppe Avarucci
+AUTH1017,Saverio Bellomo
+AUTH1018,Thomas Berger
+AUTH1019,Paolo Bertolini
+AUTH1020,Francesco Pergoli Campanelli
+AUTH1021,Giovan Girolamo Carli
+AUTH1022,Giovanni Chiodi
+AUTH1023,Gaetano Colli
+AUTH1024,Pompeo Compagnoni
+AUTH1025,Giuliana D’Amelio
+AUTH1026,Luca Fanciulli
+AUTH1027,Donatella Fioretti
+AUTH1028,Antonio Galeazzo Galeazzi
+AUTH1029,Jordina Gort Oliver
+AUTH1030,Floriano Grimaldi
+AUTH1031,Cristiano Lorenzi
+AUTH1032,Antonello Mattone
+AUTH1033,Patricia E. Noble
+AUTH1034,Livarius Oliger
+AUTH1035,Cesare Olschki
+AUTH1036,Gianluca Orsola
+AUTH1037,Giacomo Leopardi
+AUTH1038,Francesco Pirani
+AUTH1039,Serafino Prete
+AUTH1040,Vito Punzi
+AUTH1041,Francesco Maria Raffaelli
+AUTH1042,Filippo Raffaelli
+AUTH1043,Gianni Santucci
+AUTH1044,Emanuele Sella
+AUTH1045,Giovanni De Francisci Gerbino
+AUTH1046,Cristina Tagliaferri
+AUTH1047,Giampiero Todini
+AUTH1048,Filippo Vassalli
+AUTH1049,Marcello Verdenelli
+AUTH1050,Giuseppe Antonio Vogel
+AUTH1051,Concetta Bianca
+AUTH1052,Olindo Guerrini
+AUTH1053,Società Bibliografica Toscana
+AUTH1054,Ingetraut Dahlberg
+AUTH1055,Alan Gilchrist
+AUTH1056,Birger Hjørland
+AUTH1057,Mathieu Andro
+AUTH1058,Emmanuelle Asselin
+AUTH1059,Marc Maisonneuve
+AUTH1060,Mario Costa
+AUTH1061,Schubert Foo
+AUTH1062,Juliet L. Hardesty
+AUTH1063,Jason Kucsma
+AUTH1064,Kevin Reiss
+AUTH1065,Angela Sidman
+AUTH1066,Rubén Alcaraz Martínez
+AUTH1067,Elisabetta Modena
+AUTH1068,Vanessa Neblett
+AUTH1069,Shane Roopnarine
+AUTH1070,Cecilia Prete
+AUTH1071,Linda Rath
+AUTH1072,Peter Sefton
+AUTH1073,Francesca Zanella
+AUTH1074,Allgemeine Deutsche Biographie
+AUTH1075,Aldo Manuzio
+AUTH1076,Fernanda Ascarelli
+AUTH1077,Marco Menato
+AUTH1078,Henri Baudrier
+AUTH1079,Domenico Bernoni
+AUTH1080,Luciana Branciani
+AUTH1081,Giovanni Andrea Bussi
+AUTH1082,Craig Callendorf
+AUTH1083,Gabriele Paolo Carosi
+AUTH1084,Annaclara Cataldi Palau
+AUTH1085,Francesco Citti
+AUTH1086,G. Scott Clemons
+AUTH1087,Harry George Fletcher
+AUTH1088,Manlio Dazzi
+AUTH1089,Tobias Daniels
+AUTH1090,Carlo Dionisotti
+AUTH1091,Lamberto Donati
+AUTH1092,Erasmus Roterodamus
+AUTH1093,Conor Fahy
+AUTH1094,Carlo Fumagalli
+AUTH1095,Ludwig Kaemmerer
+AUTH1096,Lotte Hellinga
+AUTH1097,Friedrich Lippmann
+AUTH1098,Sergio Samek Ludovici
+AUTH1099,Tiziana Manzini
+AUTH1100,Rita Mattocci
+AUTH1101,Ester Pastorello
+AUTH1102,Tiziana Plebani
+AUTH1103,Antoine Augustin Renouard
+AUTH1104,Philippe Renouard
+AUTH1105,Camillo Scaccia Scarafoni
+AUTH1106,Piero Scapecchi
+AUTH1107,Victor Scholderer
+AUTH1108,Konstantinos Sp. Staikos
+AUTH1109,Tiziana Sterza
+AUTH1110,Paolo Tinti
+AUTH1111,Alexandre Vanautgaerden
+AUTH1112,Patrizia Franciosi Rossi
+AUTH1113,Dennis E. Rhodes
+AUTH1114,Corrado Marciani
+AUTH1115,Marina Venier
+AUTH1116,Massimiliano Bassetti
+AUTH1117,Chierici Regolari Minimi
+AUTH1118,Codices Vaticani Latini
+AUTH1119,Assunta Di Sante
+AUTH1120,Antonio Manfredi
+AUTH1121,Sebastiano Gentile
+AUTH1122,Gabriella Pomaro
+AUTH1123,Andreina Rita
+AUTH1124,Friedrich Nestler
+AUTH1125,Gabriel Naudé
+AUTH1126,Wolfgang Adam
+AUTH1127,Siegrid Westphal (Hg.)
+AUTH1128,Jan Assmann
+AUTH1129,Marc Baratin
+AUTH1130,Christian Jacob (Hg.)
+AUTH1131,Umberto Eco
+AUTH1132,Elmar Mittler
+AUTH1133,Harald Weinrich
+AUTH1134,Jürgen Wertheimer
+AUTH1135,Giuseppe Ammendola
+AUTH1136,Rossella Caffo
+AUTH1137,Maria Carla Cavagnis Sotgiu
+AUTH1138,Franca Cerone
+AUTH1139,Serena Molfese
+AUTH1140,Luigi Crocetti
+AUTH1141,Isa De Pinedo
+AUTH1142,Cristina Magliano
+AUTH1143,Tommaso Giordano
+AUTH1144,Claudio Leombroni
+AUTH1145,Giovanna Mazzola Merola
+AUTH1146,Susanna Peruginelli
+AUTH1147,Corrado Pettenati
+AUTH1148,Antonio Scolari
+AUTH1149,Franco Toni
+AUTH1150,Angela Vinay
+AUTH1151,Francesco Barberi
+AUTH1152,Giuseppe Maino
+AUTH1153,Lucia Broccoli
+AUTH1154,Prospero Rivi
+AUTH1155,Veronica Fantin
+AUTH1156,Virginia Ferrara
+AUTH1157,Oreste Ferrari
+AUTH1158,Neil Harris
+AUTH1159,Claudia Leoncini
+AUTH1160,Rosaria Maria Servello
+AUTH1161,Andrea Maggioli
+AUTH1162,Salvatore Muzzi
+AUTH1163,Corrado Ricci
+AUTH1164,Guido Zucchini
+AUTH1165,Maria Sicco
+AUTH1166,Michael Tugio
+AUTH1167,Nazzareno Zanni
+AUTH1168,Giulia Barone
+AUTH1169,Fabiana Baudo
+AUTH1170,Pietro Bellini
+AUTH1171,Michela Benetazzo
+AUTH1172,Enzo Bentivoglio
+AUTH1173,Simonetta Valtieri
+AUTH1174,Fabio Benzi
+AUTH1175,Rossella Bianchi
+AUTH1176,Paola Bonfadini
+AUTH1177,Stefano Calonaci
+AUTH1178,Laura Carlino
+AUTH1179,Goffredo Dotti
+AUTH1180,Anna Cavallaro
+AUTH1181,Camilla Cavicchi
+AUTH1182,Nico Ciampelli
+AUTH1183,Marco D’Agostino
+AUTH1184,Arnalda Dallaj
+AUTH1185,Martin Davies
+AUTH1186,Maurice Dejonghe
+AUTH1187,Andrea Donello
+AUTH1188,Anna Esposito
+AUTH1189,Paola Farenga
+AUTH1190,Stefano Fenaroli
+AUTH1191,Lorenzo Finocchi Ghersi
+AUTH1192,Stephen N. Fliegel
+AUTH1193,Gaudenz Freuler
+AUTH1194,Federico Gallo
+AUTH1195,Maria Luisa Gatti Perer
+AUTH1196,Germano Gualdo
+AUTH1197,Paola Guerrini
+AUTH1198,David Gutiérrez
+AUTH1199,Alison Knowles Frazier
+AUTH1200,Giorgio Leone
+AUTH1201,Corrado Maggioni
+AUTH1202,Natalina Mannino
+AUTH1203,Francesca Manzari
+AUTH1204,Giordana Mariani Canova
+AUTH1205,Bruno Marinelli
+AUTH1206,Antonella Mazzon
+AUTH1207,Anna Melograni
+AUTH1208,Ilaria Miarelli Mariani
+AUTH1209,Maria Richiello
+AUTH1210,Pier Luigi Mulas
+AUTH1211,Otto Pächt
+AUTH1212,Jonathan James Graham Alexander
+AUTH1213,Ilaria Pagani
+AUTH1214,Lisa Passaglia Bauman
+AUTH1215,David Aurelio Perini
+AUTH1216,Giulia Petrucci
+AUTH1217,Eva Ponzi
+AUTH1218,Alessandro Quinzi
+AUTH1219,Daniela Ronchetti
+AUTH1220,Maurizio Sangalli
+AUTH1221,Leandra Scappaticci
+AUTH1222,Elisabetta Sciarra
+AUTH1223,Lucrezia Signorello
+AUTH1224,Letizia Stefani
+AUTH1225,Wendy A. Stein
+AUTH1226,Federica Toniolo
+AUTH1227,Annamaria Torroncelli
+AUTH1228,Andrea Valentini
+AUTH1229,Maria Antonietta Visceglia
+AUTH1230,Laura Zabeo
+AUTH1231,Massimiliano Albanese
+AUTH1232,Rosalia Bigliardi Parlapiano
+AUTH1233,Francesco Bonasera
+AUTH1234,Salvatore Bongi
+AUTH1235,Giovanni Battista Bronzini
+AUTH1236,Tullio Bulgarelli
+AUTH1237,Sandro Bulgarelli
+AUTH1238,Carlo Capra
+AUTH1239,Enrica Conversazioni
+AUTH1240,Augusto De Ferrari
+AUTH1241,Donatino Domini
+AUTH1242,Elena Federici
+AUTH1243,Cinzia Fortuzzi
+AUTH1244,Eugenio Garin
+AUTH1245,Antonio Gianandrea
+AUTH1246,Rosa Lupoli
+AUTH1247,Giorgio Mangani
+AUTH1248,Alessandra Mercantini
+AUTH1249,Alcibiade Moretti
+AUTH1250,Lucia Merolla
+AUTH1251,Domenico Musti
+AUTH1252,Claudio Mutini
+AUTH1253,Gian Leopoldo Piccardi
+AUTH1254,Carlo Pongetti
+AUTH1255,Amedeo Quondam
+AUTH1256,Rosa Salzberg
+AUTH1257,Marco Santoro
+AUTH1258,Chiara Micol Schiona
+AUTH1259,Enrico Stumpo
+AUTH1260,Giulio Cesare Tosi
+AUTH1261,Giuseppina Totaro
+AUTH1262,Gianluca Albergoni
+AUTH1263,Richard Altick
+AUTH1264,Paolo Bagnoli
+AUTH1265,Valentino Baldacci
+AUTH1266,Marino Berengo
+AUTH1267,Giampietro Berti
+AUTH1268,Fabia Borroni
+AUTH1269,Umberto Carpi
+AUTH1270,Goffredo Casalis
+AUTH1271,Eustachio Cassola
+AUTH1272,Antonio Chiavistelli
+AUTH1273,Raffaele Ciampini
+AUTH1274,Salvatore Costanzo
+AUTH1275,Laura Desideri
+AUTH1276,Chiara De Vecchis
+AUTH1277,Brendan Dooley
+AUTH1278,A. Frènes
+AUTH1279,Jurgen Habermas
+AUTH1280,Thomas Kelly
+AUTH1281,Giuseppe La Farina
+AUTH1282,Raffaello Lambruschini
+AUTH1283,Tommaso Locatelli
+AUTH1284,Luigi Mascilli Migliorini
+AUTH1285,Omero Masnovo
+AUTH1286,Fabrizio Mena
+AUTH1287,Alessio Narbone
+AUTH1288,Letizia Pagliai
+AUTH1289,Françoise Parent-Lardeur
+AUTH1290,Daniel Roche
+AUTH1291,Ranieri Schippisi
+AUTH1292,Mark Towsey
+AUTH1293,Adriano Viarengo
+AUTH1294,Alessandro Volpi
+AUTH1295,Aleida Assman
+AUTH1296,Emanuele Atzori
+AUTH1297,Filippo Maria Battaglia
+AUTH1298,Camillo Brezzi
+AUTH1299,Han Byung-Chul
+AUTH1300,Antonio Calabrò
+AUTH1301,Eleonora Cardinale
+AUTH1302,Lucia Cataldo
+AUTH1303,Cristina Cenedella
+AUTH1304,Klaus Kempf
+AUTH1305,Marco La Rosa
+AUTH1306,Maria Rosaria Napolitano
+AUTH1307,Francesca Nemore
+AUTH1308,Massimo Negri
+AUTH1309,Augusto Palombini
+AUTH1310,Perrotta Mario
+AUTH1311,Lorenzo Pezzica
+AUTH1312,Studio Azzurro
+AUTH1313,Marco Belpoliti
+AUTH1314,Roberto Calasso
+AUTH1315,Anna Ferrando
+AUTH1316,Claudio Magris
+AUTH1317,Bruno Pischedda
+AUTH1318,Ranieri Polese
+AUTH1319,Bonita Cleri
+AUTH1320,Feliciano Paoli
+AUTH1321,Warren Boutcher
+AUTH1322,Fiorella De Simone
+AUTH1323,Simone Zambardino
+AUTH1324,Sabine Eiche
+AUTH1325,Chiara Faia
+AUTH1326,Pirro Antonio Ferraro
+AUTH1327,Luigi Moranti
+AUTH1328,Maria Moranti
+AUTH1329,Angelo Rocca
+AUTH1330,Fert Sangiorgi
+AUTH1331,Francesco Spina
+AUTH1332,Tommaso Valenti
+AUTH1333,Mario Canino
+AUTH1334,Germana Ernst
+AUTH1335,Hanno-Walter Kruft
+AUTH1336,Gianluca Montinaro
+AUTH1337,Marco Palma
+AUTH1338,Marino Zorzi
+AUTH1339,Bernardino Baldi
+AUTH1340,Alessandro Barbero
+AUTH1341,Michele Bernardini
+AUTH1342,Marinella Bonvini Mazzanti
+AUTH1343,Luca Emilio Brancati
+AUTH1344,Grazia Calegari
+AUTH1345,Giulia Calvi
+AUTH1346,Cecil H. Clough
+AUTH1347,Nello Forti Grazzini
+AUTH1348,Torquato Tasso
+AUTH1349,Jeannine Guérin Dalle Mese
+AUTH1350,Mario Luni
+AUTH1351,Alessandro Luzio
+AUTH1352,Rodolfo Reiner
+AUTH1353,Antonio Menniti Ippolito
+AUTH1354,Giovanni Santi
+AUTH1355,Federicomaria Muccioli
+AUTH1356,Eugenia Paulicelli
+AUTH1357,Giorgio Riello
+AUTH1358,Gianvittorio Signorotto
+AUTH1359,Elisa Tosi Brandi
+AUTH1360,Pietro Belmonte
+AUTH1361,Modesta Dal Pozzo
+AUTH1362,Ottavio Finetti
+AUTH1363,Filippo Gesualdo
+AUTH1364,Andrea Ghetti
+AUTH1365,Orazio Lombardelli
+AUTH1366,Alessandro Piccolomini
+AUTH1367,Isabella Sori
+AUTH1368,Xenia Von Tippelskirch
+AUTH1369,Bats Raphaelle
+AUTH1370,Cruz Alice M.
+AUTH1371,Farkas Meredith
+AUTH1372,Ferrieri Luca
+AUTH1373,Garcia C. A.
+AUTH1374,Calkins Doman
+AUTH1375,Good Joseph
+AUTH1376,Critical Librarianship
+AUTH1377,Jaeger Paul
+AUTH1378,Taylor Natalie G.
+AUTH1379,Gorham Ursula
+AUTH1380,Sarin Lindsay
+AUTH1381,Shilton Katie
+AUTH1382,Koepfler Jes
+AUTH1383,Lilley Spencer
+AUTH1384,Mathiesen Kay
+AUTH1385,Mehra Bharat
+AUTH1386,Rioux Kevin
+AUTH1387,Albright Kendra
+AUTH1388,Meliti Francesco
+AUTH1389,Morriello Rossana
+AUTH1390,Mortensen Annabelle
+AUTH1391,Rubin Richard
+AUTH1392,Rubin E. Rachel G.
+AUTH1393,Sonzini Valentina
+AUTH1394,Sardo Lucia
+AUTH1395,Crippa Giulia
+AUTH1396,Stillwell Christine
+AUTH1397,Lor Peter Johan
+AUTH1398,Voels Sarah
+AUTH1399,Winkelstein Julie Ann
+AUTH1400,Jason Beaird
+AUTH1401,Daniela Bondielli
+AUTH1402,Luigi Cerullo
+AUTH1403,Lingjiao Chen
+AUTH1404,Xiaoyang Chen
+AUTH1405,Xuan-Quy Dao
+AUTH1406,Meera A. Desai
+AUTH1407,Soussan Djamasbi
+AUTH1408,Pierluigi Feliciati
+AUTH1409,Emilio Ferrara
+AUTH1410,Luciano Floridi
+AUTH1411,Erich Gamma
+AUTH1412,Carlos A. Gomez-Uribe
+AUTH1413,Daniela Grana
+AUTH1414,Jordan Hoffmann
+AUTH1415,Patrick Lewis
+AUTH1416,Ziwei Ji
+AUTH1417,Jean Kaddour
+AUTH1418,Enkelejda Kasneci
+AUTH1419,Hyeyoung Ko
+AUTH1420,Erxue Min
+AUTH1421,Nils J. Nilsson
+AUTH1422,Heather O’Brien
+AUTH1423,Maria Grazia Pastura
+AUTH1424,Claudio Pavone
+AUTH1425,Roberto Pezzali
+AUTH1426,Christopher Prom
+AUTH1427,Stuart J. Russell
+AUTH1428,Kurt Shuster
+AUTH1429,Mirna Willer
+AUTH1430,Ziwei Xu
+AUTH1431,Elizabeth Yakel
+AUTH1432,Yue Zhang
+AUTH1433,Pai Zheng
+AUTH1434,Marina Benedetti
+AUTH1435,Anna Benvenuti
+AUTH1436,Anne Breton
+AUTH1437,Michail Bulgàkov
+AUTH1438,Ovidio Capitani
+AUTH1439,Gianfranco Folena
+AUTH1440,Gérard Genette
+AUTH1441,Carlo Ginzburg
+AUTH1442,Thomas Granier
+AUTH1443,Pavel Helan
+AUTH1444,Nicolaus Notabene [Sören Kierkegaard]
+AUTH1445,Laura Light
+AUTH1446,Sabina Magrini
+AUTH1447,Marilena Maniaci
+AUTH1448,Grado Giovanni Merlo
+AUTH1449,Alexander Patschovski
+AUTH1450,Chiara Ruzzier
+AUTH1451,František Šmahel
+AUTH1452,Elizabeth Solopova
+AUTH1453,Daniel Toti
+AUTH1454,Adriana Valerio
+AUTH1455,Davide Crepaldi
+AUTH1456,Robert Darnton
+AUTH1457,Stanislas Dehaene
+AUTH1458,Martyn Lyons
+AUTH1459,Andrea Nardi
+AUTH1460,Maryanne Wolf
+AUTH1461,Giovanni Colavizza
+AUTH1462,Puyu Yang
+AUTH1463,Maurizio Ferraris
+AUTH1464,Elisa Grimaldi
+AUTH1465,Fabio Metitieri
+AUTH1466,Gino Roncaglia
+AUTH1467,Rebekkah Smith Aldrich
+AUTH1468,Joan Martínez Alier
+AUTH1469,Zygmund Bauman
+AUTH1470,John Elkington
+AUTH1471,Jerry Harris
+AUTH1472,Bharat Mehra
+AUTH1473,Edgar Morin
+AUTH1474,Sam Moore
+AUTH1475,Glòria Pérez-Salmerón
+AUTH1476,Elly Schlein
+AUTH1477,Attilio Bartoli Langeli
+AUTH1478,Pietro Maranesi
+AUTH1479,Letizia Pellegrini
+AUTH1480,Romano Vecchiet
+AUTH1481,Blaise Cronin
+AUTH1482,Kathryn La Barre
+AUTH1483,Sven E. Hug
+AUTH1484,Michael Ochsner-Hans
+AUTH1485,Dieter Daniel
+AUTH1486,Elea Giménez Toledo
+AUTH1487,Carlos Miguel Tejada Artigas
+AUTH1488,Rebecca E. Lyons
+AUTH1489,Samantha J. Rayner
+AUTH1490,Jorge Mañana Rodríguez
+AUTH1491,Jennifer W. Thompson
+AUTH1492,John B. Thompson
+AUTH1493,Erez Aiden
+AUTH1494,Jean-Baptiste Michel
+AUTH1495,Nino Agostinetti
+AUTH1496,Roberto Busa
+AUTH1497,Silvano Cavazza
+AUTH1498,Giuliana De Simone
+AUTH1499,Fabon Dzogang
+AUTH1500,Stafford Lightman
+AUTH1501,Lucio Fabi
+AUTH1502,Vanni Feresin
+AUTH1503,Liliana Ferrari
+AUTH1504,Igor Filipi
+AUTH1505,Ilias Flaounas
+AUTH1506,Marco Turchi
+AUTH1507,Omar Ali
+AUTH1508,Nick Fyson
+AUTH1509,Tijl De Bie
+AUTH1510,Nick Mosdell
+AUTH1511,Justin Lewis
+AUTH1512,Robert Fogel
+AUTH1513,Geoffrey Elton
+AUTH1514,Roberto Franzosi
+AUTH1515,Gianluca De Fazio
+AUTH1516,Stefania Vicari
+AUTH1517,Shawn Graham
+AUTH1518,Ian Milligan
+AUTH1519,Scott Weingart
+AUTH1520,Catherine Horel
+AUTH1521,Ines Jerele
+AUTH1522,Tomaž Erjavec
+AUTH1523,Daša Pokorn
+AUTH1524,Alenka Kavčič-Čolić
+AUTH1525,Sen Jia
+AUTH1526,Saatviga Sudhahar
+AUTH1527,Cynthia Carter
+AUTH1528,Alks Kalc
+AUTH1529,Adam Kirsch
+AUTH1530,Giuseppe Veltri
+AUTH1531,James Thompson
+AUTH1532,Camillo Medeot
+AUTH1533,Yuan Kui Shen
+AUTH1534,Aviva Presser Aiden
+AUTH1535,Adrian Veres
+AUTH1536,Matthew K. Gray
+AUTH1537,The Google Books Team
+AUTH1538,Joseph P. Pickett
+AUTH1539,Dale Hoiberg
+AUTH1540,Dan Clancy
+AUTH1541,Peter Norvig
+AUTH1542,Jon Orwant
+AUTH1543,Steven Pinker
+AUTH1544,Martin A. Nowak
+AUTH1545,Erez Lieberman Aiden
+AUTH1546,Liliana Mlakar
+AUTH1547,Annalisa Turel
+AUTH1548,Franco Moretti
+AUTH1549,Bob Nicholson
+AUTH1550,Julius Petzholdt
+AUTH1551,Diego Redivo
+AUTH1552,Daria Spampinato
+AUTH1553,Henri-Louis Baudrier
+AUTH1554,The British Library
+AUTH1555,Lucien Febvre
+AUTH1556,Henri-Jean Martin
+AUTH1557,William A. Pettas
+AUTH1558,Paul Saenger
+AUTH1559,Valentina Sebastiani
+AUTH1560,Margaret M. Smith
+AUTH1561,Bayerische Staatsbibliothek
+AUTH1562,Carlo Vecce
+AUTH1563,Ivana Ait
+AUTH1564,Charles Moïse Briquet
+AUTH1565,Eugenio Burgio
+AUTH1566,Marco Carelli
+AUTH1567,Stefano Carrai
+AUTH1568,Lucia Castaldi
+AUTH1569,Elisa Chiti
+AUTH1570,Maria Grazia Ciccarello Blasi
+AUTH1571,Carlo Delcorno
+AUTH1572,Reka Forrai
+AUTH1573,Lucia Ghilli
+AUTH1574,Elisabetta Guerrieri
+AUTH1575,Paolo Guerrini
+AUTH1576,Eugenio Lazzareschi
+AUTH1577,Anselmo Lentini
+AUTH1578,Filipppo Liotta
+AUTH1579,Matteo Luti
+AUTH1580,Augusto Mancini
+AUTH1581,Gerardo Mansi
+AUTH1582,Giuseppe Marrani
+AUTH1583,Gabriella Milan
+AUTH1584,Marco Paoli
+AUTH1585,Manlio Pàstore Stocchi
+AUTH1586,Paolo Pelù
+AUTH1587,Silvia Rizzo
+AUTH1588,Giancarlo Savino
+AUTH1589,Julian Martín Abad
+AUTH1590,Marina Bersano Begey
+AUTH1591,Walter Arthur Copinger
+AUTH1592,Lin Colliard
+AUTH1593,Maria Costa
+AUTH1594,Tibulle Desbarreaux-Bernard
+AUTH1595,Pseudo Boezio
+AUTH1596,Amato Pietro Frutaz
+AUTH1597,Ludwig Friedrich Teodor Hain
+AUTH1598,Incunabula Short Title Catalogue
+AUTH1599,Francesco Malaguzzi
+AUTH1600,Marie Léontine Cathérine Pellechet
+AUTH1601,Marie-Louis Polain
+AUTH1602,Marie Pellechet
+AUTH1603,Lucien Quaglia
+AUTH1604,Alessandro Tedesco
+AUTH1605,Alberto Tinto
+AUTH1606,Massimiliano Albanese. Marliani
+AUTH1607,Diego Baldi. Conrad Gesner
+AUTH1608,Thomae Bartholini De Bibliothecae Incendio Dissertatio Ad Filios
+AUTH1609,Felice Battaglia
+AUTH1610,Stefan Bauer
+AUTH1611,Biblia Sacra Vulgatae Editionis Sixti Quinti Pont. Max. Jussu Recognita Atque Edita Romae ... 1593. Francofurti
+AUTH1612,Lester K. Born
+AUTH1613,Gustavo Brigante Colonna. Gli Orsini. Milano
+AUTH1614,Maurizio Buora
+AUTH1615,Angelo Capecci
+AUTH1616,Massimo Ceresa
+AUTH1617,Giuseppe Chiarelli
+AUTH1618,De Gruyter
+AUTH1619,Maria Cochetti. Gabriel Naudé
+AUTH1620,Petri Comestoris Historia Scholastica
+AUTH1621,Constantini Manassis Annales
+AUTH1622,Stellan Dahlgren. Emund Gripenhielm
+AUTH1623,Paola De Capua
+AUTH1624,Melchioris Guilandini Papyrus
+AUTH1625,Oratio De Bibliotheca Iulia. Qua Illustrißimo Principi
+AUTH1626,Herbert Jaumann. Spitzel
+AUTH1627,James A. Kellerman
+AUTH1628,Athanasius Kircher
+AUTH1629,Georg Olms
+AUTH1630,Athanasi Kircherii Obeliscus Pamphilius
+AUTH1631,Nicola Longo. Ciccarelli
+AUTH1632,Antiquitates Brunsuicenses
+AUTH1633,Chronicon M. Theodorici Engelhusii: Continens Res Ecclesiae Et Reipublicae
+AUTH1634,Chronicon Montis Sereni Sive Lauterbergense
+AUTH1635,Dissertatio De Sermone Hominis
+AUTH1636,Matthaei Parisiensis
+AUTH1637,Ambrogio Mazzoni
+AUTH1638,Gerhard Menk. Sagittarius
+AUTH1639,Johann Gottlieb Olearius
+AUTH1640,Lorenzo Perilli
+AUTH1641,Doctoris Gobellini Personae
+AUTH1642,Napoleone Pietrucci
+AUTH1643,Iulii Pollucis Onomasticon
+AUTH1644,John Reeves
+AUTH1645,Lovanio Rossi. Bonifacio Baldassarre
+AUTH1646,Giovanni Rossi. Panciroli
+AUTH1647,Augusto Rostagni
+AUTH1648,Josè Ruysschaert. Fulvio Orsini
+AUTH1649,Josè Ruysschaert. Albertini Francesco
+AUTH1650,Casparis Sagittarii
+AUTH1651,Alfredo Serrai. Ermeneutica
+AUTH1652,Alfredo Serrai. Gabriel Naudé
+AUTH1653,Sansoni. 1983
+AUTH1654,Gennaro Tallini
+AUTH1655,Elisa Tinelli
+AUTH1656,Giuseppe Trebbi
+AUTH1657,Roberto Weiss
+AUTH1658,Paul Zimmermann. Christoph Schrader
+AUTH1659,Paul Zimmermann. Schmidt
+AUTH1660,Paul Zimmermann. Mader
+AUTH1661,Joannis Zonarae
+AUTH1662,Antonella Alimento
+AUTH1663,Le Monnier
+AUTH1664,Elisa Boffa
+AUTH1665,Luciana Borri Cristelli
+AUTH1666,Anna Maria Burlini Calapaj
+AUTH1667,Patrizia Capuano
+AUTH1668,Furio Diaz
+AUTH1669,Andrea Lamberti
+AUTH1670,Maria Augusta Morelli Timpanaro
+AUTH1671,Renato Pasta
+AUTH1672,Fabio Tarzia
+AUTH1673,Angelico Aprosio
+AUTH1674,Stefano Martini
+AUTH1675,Francesco Zaverio Molfino
+AUTH1676,Giuseppe Silingardi
+AUTH1677,Francesco Zaverio
+AUTH1678,Augusto Antoniella
+AUTH1679,Giulio Battelli
+AUTH1680,Adolf Brenneke
+AUTH1681,Leopoldo Cassese
+AUTH1682,Giorgio Cencetti
+AUTH1683,Federico Chabod
+AUTH1684,Arnaldo D’Addario
+AUTH1685,Cornelis Dekker
+AUTH1686,Maria Pia Donato
+AUTH1687,Luigi Fiumi
+AUTH1688,Philip Hepworth
+AUTH1689,Piero Innocenti
+AUTH1690,Laura Manzoni
+AUTH1691,Roberto Navarrini
+AUTH1692,Francesco Novati
+AUTH1693,Antonio Panella
+AUTH1694,Hermann Rumschöttel
+AUTH1695,Paolo Sbalchiero
+AUTH1696,Sultana Lubna Alam
+AUTH1697,John Campbell
+AUTH1698,Julka Almquist
+AUTH1699,Juliana Culbert
+AUTH1700,Annie Downey
+AUTH1701,Joe Marquez
+AUTH1702,Laurence Bherer
+AUTH1703,Cécile Blatrix
+AUTH1704,Daren C. Brabham
+AUTH1705,Elise Breton
+AUTH1706,Daniel Cefaï
+AUTH1707,Marion Carrel
+AUTH1708,Julien Talpin
+AUTH1709,Nina Eliasoph
+AUTH1710,Paul Lichterman
+AUTH1711,Lisa Chupin
+AUTH1712,Damien Day
+AUTH1713,John Dewey
+AUTH1714,Gilles Éboli
+AUTH1715,Camille Goirand
+AUTH1716,Joëlle Kivits
+AUTH1717,Françoise Jabot
+AUTH1718,Richard David Lankes
+AUTH1719,Marie D. Martel
+AUTH1720,Alice Mazeaud
+AUTH1721,Marie-Hélène Sa Vilas Boas
+AUTH1722,Guy-El-Karim Berthomé
+AUTH1723,Pauline Moirez
+AUTH1724,Jean Philippe Moreux
+AUTH1725,Isabelle Josse
+AUTH1726,Jacques Rancière
+AUTH1727,Dork Zabunyan
+AUTH1728,Laurent Jeanpierre
+AUTH1729,Marquita Riel
+AUTH1730,Yannig Roth
+AUTH1731,Marieke Stein
+AUTH1732,Markus Strohmaier
+AUTH1733,Christian Körner
+AUTH1734,Roman Kern
+AUTH1735,Siek Toon Khoo
+AUTH1736,John Ainley
+AUTH1737,Alla Zollers
+AUTH1738,Petra Ausserlechner
+AUTH1739,Helmut Gritsch
+AUTH1740,Ludovicus Hain
+AUTH1741,Heinz Hauffe (Hg.)
+AUTH1742,Anton Hittmair
+AUTH1743,Gabriela Kompatscher
+AUTH1744,Gabriela Kompatscher Gufler
+AUTH1745,Friedrich Leithe
+AUTH1746,August Pirmin Lindner
+AUTH1747,Daniela Mairhofer
+AUTH1748,Walter Neuhauser
+AUTH1749,Claudia Schretter-Picker
+AUTH1750,Claudia Schretter
+AUTH1751,Sieglinde Sepp
+AUTH1752,Ludwig Sprung
+AUTH1753,Peter Zerlauth
+AUTH1754,Antonella Agnoli
+AUTH1755,Associazione Italiana Editori
+AUTH1756,Marc Augé
+AUTH1757,Cristina Bambini-Tatiana Wakefield
+AUTH1758,Virginia Carini Dainotti
+AUTH1759,Tullio De Mauro
+AUTH1760,Andrea Emiliani
+AUTH1761,Chiara Faggiolani
+AUTH1762,Chiara Faggiolani-Anna Galluzzi
+AUTH1763,Chiara Faggiolani-Giovanni Solimine
+AUTH1764,Alan Jacobs
+AUTH1765,Giovanni Lazzari
+AUTH1766,Tommaso Paiano-Roberta Montepeloso
+AUTH1767,Maria Gioia Tavoni-Anna Rosa Gentilini
+AUTH1768,Massimiliano Valerii
+AUTH1769,Enzo Bottasso
+AUTH1770,Fernando Venturini
+AUTH1771,Elisabetta Castro
+AUTH1772,Antonio Casu
+AUTH1773,Giacomo Cives
+AUTH1774,Guido Fagioli Vercellone
+AUTH1775,Silvio Furlani
+AUTH1776,Miguel Gotor
+AUTH1777,Mario Isnenghi
+AUTH1778,Gabriele Mazzitelli
+AUTH1779,David Menhennet
+AUTH1780,Raffaele Romanelli
+AUTH1781,Antonio Rovini
+AUTH1782,Matilde Serao
+AUTH1783,Albertina Vittoria
+AUTH1784,Matthew Battles
+AUTH1785,A. H. Chaplin
+AUTH1786,Nicholas Harris Nicolas
+AUTH1787,Antonio Panizzi
+AUTH1788,The Times
+AUTH1789,Raman Nair
+AUTH1790,Justo García Morales
+AUTH1791,Claire Guinchat
+AUTH1792,José López Yepes
+AUTH1793,Jaime Moll
+AUTH1794,José Simón Díaz
+AUTH1795,Suzanne Briet
+AUTH1796,Michael Buckland
+AUTH1797,Vannevar Bush
+AUTH1798,Jacques Le Goff
+AUTH1799,Niels Windfeld Lund
+AUTH1800,Walter Mignolo
+AUTH1801,S.R. Ranganathan
+AUTH1802,Luiz Rufino
+AUTH1803,Edward Said
+AUTH1804,Memorabilia Ranganathan. Bangalore
+AUTH1805,S. Parthasarathy
+AUTH1806,M.P. Satija
+AUTH1807,Jeffrey M. Wilhite
+AUTH1808,Enrico Pio Ardolino
+AUTH1809,Carlo Alfredo Bertella
+AUTH1810,Vittorio Camerani
+AUTH1811,Niccolò Mignemi
+AUTH1812,A. Ausfeld
+AUTH1813,D. Baldi
+AUTH1814,M. Berti
+AUTH1815,R. Blum
+AUTH1816,P. N. Bonamy
+AUTH1817,Plutarchi Chaeronensis Vitae Parallelae
+AUTH1818,L. Canfora
+AUTH1819,G. Carlucci
+AUTH1820,A. Caruso
+AUTH1821,Eiusdem D. Epiphanii Anacephaleosis
+AUTH1822,W. W. Fortenbaugh
+AUTH1823,L. Franco
+AUTH1824,Oxyrhynchus Papyri. Part X
+AUTH1825,Q. Septimii Florentis Tertulliani
+AUTH1826,Thomas Hendrickson
+AUTH1827,Scripturae Accidentibus
+AUTH1828,Ioann. Langii Lembergii
+AUTH1829,A. Meineke
+AUTH1830,Des Herrn Abt Millot
+AUTH1831,F. Montana
+AUTH1832,E. D. Moutsoulas
+AUTH1833,Klaus Nickau
+AUTH1834,G. Parthey
+AUTH1835,L. Quicherat
+AUTH1836,Publii Virgilii Maronis Appendix
+AUTH1837,J. Sitzler
+AUTH1838,G. Solaro
+AUTH1839,L. Tiberi
+AUTH1840,A. Tocco
+AUTH1841,Gerardi Ioannis Vossii Aristarchus
+AUTH1842,David Neil Bell
+AUTH1843,Ursmer Berlière
+AUTH1844,Ernest Berteaux
+AUTH1845,Ludwig Conrad Bethmann
+AUTH1846,Ambrosius M. Bogaerts
+AUTH1847,Em Cresens
+AUTH1848,Carla Bozzolo
+AUTH1849,Ezio Ornato
+AUTH1850,Giovanni Cecchini
+AUTH1851,John Willis Clark
+AUTH1852,Philippe Cordez
+AUTH1853,François Dolbeau
+AUTH1854,Kaspar Elm
+AUTH1855,Thomas Falmagne
+AUTH1856,Richard Gameson
+AUTH1857,Monique-Cécile Garand
+AUTH1858,Jean-François Genest
+AUTH1859,Marc Gil
+AUTH1860,Claire Giordanengo
+AUTH1861,Marie-Élisabeth Henneau
+AUTH1862,Alain Marchandisse
+AUTH1863,Xavier Hermand
+AUTH1864,Adolf Hofmeister
+AUTH1865,Henri Lerclercq
+AUTH1866,Dieter Mertens
+AUTH1867,Joseph-François Michaud
+AUTH1868,Auguste Molinier
+AUTH1869,Denis Muzerelle
+AUTH1870,Donatella Nebbiai-Dalla Guarda
+AUTH1871,Stéphane Lecouteux
+AUTH1872,Peter J. Lucas
+AUTH1873,Alessandro Manfredi
+AUTH1874,Richard Hunter Rouse
+AUTH1875,Mary A. Rouse
+AUTH1876,Anne Rouzet
+AUTH1877,Simona Salvo
+AUTH1878,Richard Sharpe
+AUTH1879,Tjamke Snijders
+AUTH1880,Élisabeth Terlinden
+AUTH1881,Benoît-Michel Tock
+AUTH1882,Steven Vanderputten
+AUTH1883,Bernabé Bartolomé Martínez
+AUTH1884,Àngels Creus
+AUTH1885,Reis Fontanals
+AUTH1886,Anna Gudayol
+AUTH1887,Ezio Levi
+AUTH1888,Jaume Massó Carballido
+AUTH1889,Josep Porter
+AUTH1890,Maria Porter Moix
+AUTH1891,Eduard Toda
+AUTH1892,Luigi Blanco
+AUTH1893,Massimo Canella
+AUTH1894,Walter Falgio
+AUTH1895,Filippo Liotta
+AUTH1896,Pietro Martini
+AUTH1897,Pierpaolo Merlin
+AUTH1898,Giancarlo Nonnoi
+AUTH1899,Mariangela Rapetti
+AUTH1900,Marcello Schirru
+AUTH1901,Giancarlo Sorgia
+AUTH1902,Eleonora Todde
+AUTH1903,Robert Black
+AUTH1904,Giovanni Bianchini
+AUTH1905,Gabriele Donnini
+AUTH1906,Elena Fasano Guarini
+AUTH1907,Sergio Fatti
+AUTH1908,Vanna Gazzola Stacchini
+AUTH1909,Raffaele Gesù
+AUTH1910,Susana Gòmez Lòpez
+AUTH1911,Erminio La Vecchia
+AUTH1912,Pier Luigi Licciardello
+AUTH1913,Gustavo Mancini
+AUTH1914,Lorella Mangani
+AUTH1915,Maria Chiara Milighetti
+AUTH1916,Antonella Moriani
+AUTH1917,Sabina Pavone
+AUTH1918,Anna Pincelli
+AUTH1919,Mario Salomone
+AUTH1920,Roberto G. Salvadori
+AUTH1921,Fredson Bowers
+AUTH1922,Walter W. Greg
+AUTH1923,Louise-Noelle Malcles
+AUTH1924,Rino Pensato
+AUTH1925,Jesse H Shera
+AUTH1926,Lee Pierce Butler
+AUTH1927,Hagar Espanha Gomes
+AUTH1928,Gabriel Peignot
+AUTH1929,Nicolas Roubakine
+AUTH1930,Gustavo Saldanha
+AUTH1931,Jesse Shera
+AUTH1932,Fernando Sepúlveda
+AUTH1933,Barbara Weedwood
+AUTH1934,Ludwig Wittgenstein
+AUTH1935,Patrick L. Carr
+AUTH1936,Frances Gretes
+AUTH1937,Feifei Liu
+AUTH1938,Preeti Mahajan
+AUTH1939,Rita Marzoli
+AUTH1940,Peter Pirolli
+AUTH1941,Jakob Nielsen
+AUTH1942,R. Satyanarayana
+AUTH1943,Pramod Kumar Singh
+AUTH1944,John Sargent
+AUTH1945,Walter Bishop
+AUTH1946,Marcia H. Chappell
+AUTH1947,Gianna Del Bono
+AUTH1948,Leopoldo Della Santa
+AUTH1949,Richard Emery
+AUTH1950,Samuel Swett Green
+AUTH1951,Margaret Hutchins
+AUTH1952,Ethel M. Johnson
+AUTH1953,Carla Leonardi
+AUTH1954,Otis Hall Robinson
+AUTH1955,Samuel Rothstein
+AUTH1956,Carol A. Singer
+AUTH1957,Ainsworth Rand Spofford
+AUTH1958,David Tyckoson
+AUTH1959,Bernard F. Vavrek
+AUTH1960,Kenneth Whittaker
+AUTH1961,James Ingersoll Wyer
+AUTH1962,Isidoro Gil-Leiva
+AUTH1963,Pat Riva
+AUTH1964,Richard P. Smiraglia
+AUTH1965,Osma Suominen
+AUTH1966,Manoj Varghese
+AUTH1967,Frederick Adams
+AUTH1968,Pieter Adriaans
+AUTH1969,Corrado Badocco
+AUTH1970,Erik C. Banks
+AUTH1971,Francesco Barone
+AUTH1972,Augusto Guzzo
+AUTH1973,Paolo Parrini
+AUTH1974,Marcia J. Bates
+AUTH1975,Gregory Bateson
+AUTH1976,David Bawden
+AUTH1977,Lyn Robinson
+AUTH1978,John T. Bonner
+AUTH1979,Joseph E. Brenner
+AUTH1980,Søren Brier
+AUTH1981,Alex Broadbent
+AUTH1982,Sarah Broadie
+AUTH1983,Michael K. Buckland
+AUTH1984,Shawn M. Bullock
+AUTH1985,Mark Burgin
+AUTH1986,Rainer Feistel
+AUTH1987,Wolfgang Hofkirchner
+AUTH1988,Terrell Ward Bynum
+AUTH1989,Raffaella Campaner
+AUTH1990,Rafael Capurro
+AUTH1991,Armando Carlini
+AUTH1992,Massimiliano Carrara
+AUTH1993,Ciro De Florio
+AUTH1994,Giorgio Lando
+AUTH1995,Vittorio Morato
+AUTH1996,Fabio Ciotti
+AUTH1997,Vernon W. Cisney
+AUTH1998,Kenneth Clatterbaugh
+AUTH1999,John Collier
+AUTH2000,B. Jack Copeland
+AUTH2001,Carlo Cosmelli
+AUTH2002,Graciela De Pierris
+AUTH2003,Michael Friedman
+AUTH2004,René Descartes
+AUTH2005,Paola Dessì
+AUTH2006,José María Díaz Nafría
+AUTH2007,Rainer E. Zimmermann
+AUTH2008,Frederick Irwin Dretske
+AUTH2009,Charbel Niño El-Hani
+AUTH2010,João Queiroz
+AUTH2011,Claus Emmeche
+AUTH2012,Peter Fleissner
+AUTH2013,Martin Frické
+AUTH2014,Mathias Frisch
+AUTH2015,J. Dmitri Gallow
+AUTH2016,Don Garrett
+AUTH2017,James Gleick
+AUTH2018,Claudio Gnoli
+AUTH2019,Jeanna Hartel
+AUTH2020,Ralph V. L. Hartley
+AUTH2021,N. Katherine Hayles
+AUTH2022,Richard Healey
+AUTH2023,Phyllis Illari
+AUTH2024,Federica Russo
+AUTH2025,Marco Ivaldo
+AUTH2026,László Z. Karvalics
+AUTH2027,Alexandre Kojève
+AUTH2028,Zdeněk Kopal
+AUTH2029,James Ladyman
+AUTH2030,Roberta Lanfredini
+AUTH2031,Federico Laudisa
+AUTH2032,Guowu Li
+AUTH2033,Robert K. Logan
+AUTH2034,Giuseppe O. Longo
+AUTH2035,Andrea Vaccaro
+AUTH2036,Chris M. Lorkowski
+AUTH2037,Robert M. Losee
+AUTH2038,Tao Luo
+AUTH2039,Younghwan Pan
+AUTH2040,Roberto Maiocchi
+AUTH2041,Marco Malvaldi
+AUTH2042,Anna Marmodoro
+AUTH2043,Erasmus Mayr
+AUTH2044,Owen Maroney
+AUTH2045,Carlo Mazzantini
+AUTH2046,Dario Sacchi
+AUTH2047,Yitzhak Melamed
+AUTH2048,Martin Lin
+AUTH2049,Vincenzo Miano
+AUTH2050,Alessio Moneta
+AUTH2051,Pierre-Éric Mounier-Kuhn
+AUTH2052,Maël Pégny
+AUTH2053,Stephen Mumford
+AUTH2054,Rani Lill Anjum
+AUTH2055,George Musser
+AUTH2056,Margaret T. O’Hara
+AUTH2057,Richard T. Watson
+AUTH2058,C. Bruce Kavan
+AUTH2059,Barbara Osimani
+AUTH2060,Ugo Pagallo
+AUTH2061,Michele Paolini Paoletti
+AUTH2062,John Durham Peters
+AUTH2063,Armando Plebe
+AUTH2064,Mariangela Priarolo
+AUTH2065,Alexander R. Pruss
+AUTH2066,Hilary Putnam
+AUTH2067,Elena Rapetti
+AUTH2068,Anthony Reading
+AUTH2069,Paolo Rocchi
+AUTH2070,Andrea Resca
+AUTH2071,Carlo Rovelli
+AUTH2072,Jennifer Rowley
+AUTH2073,Bertrand Russell
+AUTH2074,Carl Safina
+AUTH2075,Mark Sanderson
+AUTH2076,W. Bruce Croft
+AUTH2077,Jonathan Schaffer
+AUTH2078,Arthur Schopenhauer
+AUTH2079,Roger Scruton
+AUTH2080,Sebastian Sequoiah-Grayson
+AUTH2081,Luciano Floridi 2022
+AUTH2082,Claude E. Shannon
+AUTH2083,Fred R. Shapiro
+AUTH2084,Matti Tedre
+AUTH2085,Lucia Urbani Ulivi
+AUTH2086,Carlos Vidales
+AUTH2087,Eric Watkins
+AUTH2088,Kenneth P. Winkler
+AUTH2089,John Peter Wright
+AUTH2090,Kun Wu
+AUTH2091,Tianqi Wu
+AUTH2092,Kaiyan Da
+AUTH2093,Judith Andrews
+AUTH2094,David Bainbridge
+AUTH2095,Nicola Barbuti
+AUTH2096,Piero Bighi
+AUTH2097,Nicola Madonna
+AUTH2098,Mari Wigham
+AUTH2099,Enrico Daga
+AUTH2100,Lucia Giagnolini
+AUTH2101,Edward A. Fox
+AUTH2102,Prashant Chandrasekar
+AUTH2103,Maurizio Lana
+AUTH2104,Ying Zhang
+AUTH2105,Liu Shu
+AUTH2106,Emilee Mathews
+AUTH2107,Elia Samuele Artom
+AUTH2108,Émile Legrand
+AUTH2109,Egisto Bragaglia
+AUTH2110,Giuseppe De Gregorio
+AUTH2111,Angelo Giaccaria
+AUTH2112,Denise Gid
+AUTH2113,Ludwig Hain
+AUTH2114,Evro Layton
+AUTH2115,Antoine-Augustin Renouard
+AUTH2116,Luciano Tamburini
+AUTH2117,Despina Vlassi
+AUTH2118,Elisa Bonacini
+AUTH2119,Giorgia Marangon
+AUTH2120,Luigi Silvestro Camerini
+AUTH2121,Gabriello Chiabrera
+AUTH2122,Valentina Conticelli
+AUTH2123,Raffaello Gualterotti
+AUTH2124,Anna Maria Massinelli
+AUTH2125,Walter Vitzthum
+AUTH2126,Antonio Boselli
+AUTH2127,Louise Colet
+AUTH2128,Louise Fagan
+AUTH2129,Stefano Gambari
+AUTH2130,Carlo Malaspina
+AUTH2131,Franco Neri
+AUTH2132,William Spaggiari
+AUTH2133,Alessio Arena
+AUTH2134,Giulia Barrera
+AUTH2135,Giorgetta Bonfiglio-Dosio
+AUTH2136,Eugenio Casanova
+AUTH2137,Giuseppe Mastrogiovanni Tasca
+AUTH2138,Marina Raffeli
+AUTH2139,Mario Soldati
+AUTH2140,Filippo Valenti
+AUTH2141,Simone Albonico
+AUTH2142,Mara Capraro
+AUTH2143,Nathalie Castagné
+AUTH2144,Francesca Ghersetti
+AUTH2145,Emma Gobbato
+AUTH2146,Angelo Pellegrino
+AUTH2147,Giovanna Providenti
+AUTH2148,Maria Rizzarelli
+AUTH2149,Goliarda Sapienza
+AUTH2150,Myriam Trevisan
+AUTH2151,Monica Venturini
+AUTH2152,Mario Allegri
+AUTH2153,Franca Arduini
+AUTH2154,Luca Bellingeri
+AUTH2155,Desiderio Chilovi
+AUTH2156,Federica De Pasquale
+AUTH2157,Justus Ebhardt
+AUTH2158,Patrizia Ferrara
+AUTH2159,Arnaldo Ganda
+AUTH2160,Tommaso Gar
+AUTH2161,Clemente Lupi
+AUTH2162,Andrea Martinucci
+AUTH2163,Mauro Moretti
+AUTH2164,Anna Nicolò
+AUTH2165,Mauro Tosti Croce
+AUTH2166,Paolo Vian
+AUTH2167,Giogio Agamben
+AUTH2168,Maurice Blanchot
+AUTH2169,Gordon Brotherston
+AUTH2170,Italo Calvino
+AUTH2171,Pierre Clastres
+AUTH2172,Pierre Déléage
+AUTH2173,Gilles Deleuze
+AUTH2174,Félix Guattari
+AUTH2175,Jacques Derrida
+AUTH2176,Philippe Descola
+AUTH2177,Gabriel García Márquez
+AUTH2178,Jack Goody
+AUTH2179,Geir Grenersen
+AUTH2180,Kjell Kemi
+AUTH2181,Steinar Nilsen
+AUTH2182,Ghassan Hage
+AUTH2183,Stephen Hugh-Jones
+AUTH2184,David Kopenawa
+AUTH2185,Bruce Albert
+AUTH2186,Ailton Krenak
+AUTH2187,Els Lagrou
+AUTH2188,Miguel León-Portilha
+AUTH2189,Claude Lévi-Strauss
+AUTH2190,Tânia Stolze Lima
+AUTH2191,Leda Martins
+AUTH2192,Márcio Seligmann-Silva
+AUTH2193,Carlo Severi
+AUTH2194,Marilyn Strathern
+AUTH2195,Frédéric Barbier
+AUTH2196,Claire M. Bolton
+AUTH2197,Martin Boghardt
+AUTH2198,Giovanni Battista Audiffredi (1714-1794)
+AUTH2199,Bibliotheca Desaniana. Catalogue Montaigne
+AUTH2200,Mirjam M. Foot
+AUTH2201,Philip Gaskell
+AUTH2202,Jean François Gilmont
+AUTH2203,Alberto Manguel
+AUTH2204,Brian Richarson
+AUTH2205,Marina Roggero
+AUTH2206,David J. Shaw
+AUTH2207,Yann Sordet
+AUTH2208,Erika Squassina
+AUTH2209,Siegfried Henry Steinberg
+AUTH2210,Pasquale Stoppelli
+AUTH2211,Francesca Turrisi
+AUTH2212,Biblioteca Nacional
+AUTH2213,Fredson Thayer Bowers
+AUTH2214,Dilma Cabral
+AUTH2215,Constitutiones Monachorum Nigrogum Ordinis S.P. Benedict Regnorum Portugalliae
+AUTH2216,Conrad Gesner
+AUTH2217,David Kachlik
+AUTH2218,David Vichnar
+AUTH2219,Dana Kachlikova
+AUTH2220,Vladimir Musil
+AUTH2221,Kristian Szabo
+AUTH2222,Josef Stingl
+AUTH2223,Lisa Longhi
+AUTH2224,Diogo Barbosa Machado
+AUTH2225,Michel Melot
+AUTH2226,Raphaële Mouren
+AUTH2227,Denis Pallier
+AUTH2228,Juan Miguel Palma Peña
+AUTH2229,Paulo Roberto Pereira
+AUTH2230,A. José Mindlin
+AUTH2231,Ana Virgínia Pinheiro
+AUTH2232,Hélène Richard
+AUTH2233,Lilia Moritz Schwarcz
+AUTH2234,Horst Blanck
+AUTH2235,Dario Busolini. Filippo Gesualdi
+AUTH2236,Edward Champlin
+AUTH2237,Nicola Cipani
+AUTH2238,Christianus Curio
+AUTH2239,Anna Lucia Di Lello Finuoli
+AUTH2240,Bibliotheca Universalis
+AUTH2241,Henry Hallam
+AUTH2242,Barbara Keller-Dall’Asta
+AUTH2243,Koji Kuwakino
+AUTH2244,Rosa Maria Piccione
+AUTH2245,Francesco Russo
+AUTH2246,Raphael Bluteau
+AUTH2247,Abraham Bosse
+AUTH2248,César Giuserio Fiosconi
+AUTH2249,Valentin Krauterman. [Hellwig
+AUTH2250,Johannes Kunckel
+AUTH2251,Hugh Miller
+AUTH2252,Philippe Nunes
+AUTH2253,Félix Palacios
+AUTH2254,Louis Rossignol
+AUTH2255,João Stooter
+AUTH2256,Graham Allen
+AUTH2257,Márcia Almada
+AUTH2258,Emanuel Araújo
+AUTH2259,Carolina Sofia Sarrazola Barata
+AUTH2260,Paola Bertucci
+AUTH2261,Beatriz Piccolotto Siqueira Bueno
+AUTH2262,Anne Cayuela
+AUTH2263,António João Cruz
+AUTH2264,Lorraine Daston
+AUTH2265,Ângela Sofia Alves Ferraz
+AUTH2266,Gérard Gennette
+AUTH2267,René Lommez Gome
+AUTH2268,J.F. Meirinhos
+AUTH2269,J. Ferrater Mora
+AUTH2270,Ermelinda Moutinho Pataca
+AUTH2271,Neil Safier
+AUTH2272,Victor Serrão
+AUTH2273,Pamela Smith
+AUTH2274,Emmaenuël Souchier
+AUTH2275,Jan Tschichold
+AUTH2276,Abigail Williams
+AUTH2277,Manuel Castells
+AUTH2278,Jurij Mihajlovic Lotman
+AUTH2279,Richard Sennett
+AUTH2280,Fernanda Maria Melo Alves
+AUTH2281,Judith Butler
+AUTH2282,Raphael Cavalcante
+AUTH2283,Kimberlè Crenshaw
+AUTH2284,Michel Foucault
+AUTH2285,Stuart Hall
+AUTH2286,Adriene Rich
+AUTH2287,Gloria Carrizo Sainero
+AUTH2288,Eve Kosofsky Sedgwick
+AUTH2289,Camila Mariana Aparecida Silva
+AUTH2290,Eliany Alvarenga Araújo
+AUTH2291,Laurence Bardin
+AUTH2292,John W. Creswell
+AUTH2293,Bruno Latour
+AUTH2294,Eduardo José Manzini
+AUTH2295,Wesley Augusto Nogueira
+AUTH2296,Roberto Hernandez Sampieri
+AUTH2297,Alexandra Sánchez
+AUTH2298,Ivete Lara Camargos Walty
+AUTH2299,R. Bagnall
+AUTH2300,E. Berti
+AUTH2301,V. Costa
+AUTH2302,N. L. Collins
+AUTH2303,T. K. Dix
+AUTH2304,I. Düring
+AUTH2305,A. Erskine
+AUTH2306,E. Schütrumpf
+AUTH2307,P. M. Fraser
+AUTH2308,H. B. Gottschalk
+AUTH2309,M. Hatzimichali
+AUTH2310,T. Hendrickson
+AUTH2311,A. Holmes
+AUTH2312,P. Moraux
+AUTH2313,G. Nagy
+AUTH2314,M. Real
+AUTH2315,Ch. Rico
+AUTH2316,F. Schironi
+AUTH2317,R. G. Tanner
+AUTH2318,K. Wendel
+AUTH2319,I. Worthington
+AUTH2320,Jenő Ábel
+AUTH2321,Tivadar Ács
+AUTH2322,Albucasis Abul Kasem Chalaf Ben Abbas Alzahrawi
+AUTH2323,Ildikó Beöthyné Kozocsa
+AUTH2324,Magdolna Beregszászi
+AUTH2325,Ilona Berkovits
+AUTH2326,I. T. Berkovits
+AUTH2327,Nello Bertoletti
+AUTH2328,Csaba Csapodi
+AUTH2329,Flavius Blondus
+AUTH2330,Anna Boreczky
+AUTH2331,István Borzsák
+AUTH2332,Cesare Cenci
+AUTH2333,Cs. Csapodi
+AUTH2334,Csapodi Csaba
+AUTH2335,Csapodiné Gárdonyi Klára
+AUTH2336,Klára Csapodi-Gárdonyi
+AUTH2337,János Csontosi
+AUTH2338,[János Csontosi]
+AUTH2339,Dante Alighieri
+AUTH2340,György Domokos
+AUTH2341,Máté Vida
+AUTH2342,Péter E. Kovács
+AUTH2343,András Emődi
+AUTH2344,Béla Erődi
+AUTH2345,Pavllo Fabri
+AUTH2346,Dávid Falvay
+AUTH2347,Ferenc Földesi
+AUTH2348,Guglielmo Fraknói
+AUTH2349,Giuseppe Fógel
+AUTH2350,Paolo Gulyás
+AUTH2351,Edit Hoffmann
+AUTH2352,Viktória Fridl
+AUTH2353,Gábor Hajnóczi
+AUTH2354,Hajnóczi Gábor
+AUTH2355,Imre Henszlmann
+AUTH2356,Arnold Ipolyi
+AUTH2357,Kazimír Edit
+AUTH2358,Dezső Keresztury
+AUTH2359,Éva Knapp
+AUTH2360,Knapp Éva
+AUTH2361,Szögi László
+AUTH2362,Enikő Liska
+AUTH2363,Edit Madas
+AUTH2364,László Mezey
+AUTH2365,Árpád Mikó
+AUTH2366,István Monok
+AUTH2367,András Németh
+AUTH2368,Júlia Papp
+AUTH2369,Petra Palicsi
+AUTH2370,Ferenc Pulszky
+AUTH2371,Györgyi Szlabey
+AUTH2372,László Szögi
+AUTH2373,Farkas Gábor Farkas
+AUTH2374,Katalin
+AUTH2375,András Tóth
+AUTH2376,Noémi Viskolcz
+AUTH2377,Giovanni Annibaldi
+AUTH2378,Sandro Bertelli
+AUTH2379,Fabio Bettoni
+AUTH2380,Marisa Boschi Rotiroti
+AUTH2381,Andrea Canova
+AUTH2382,Adriano Cappelli
+AUTH2383,Emanuele Casamassima
+AUTH2384,Leonella Coglievina
+AUTH2385,Stefano Cracolici
+AUTH2386,Gabriele D’Annunzio
+AUTH2387,Andrea Del Cornò
+AUTH2388,Michele Faloci Pulignani
+AUTH2389,Federico Frezzi
+AUTH2390,Silvia Fumian
+AUTH2391,Ferdinand Geldner
+AUTH2392,Giovanni Battista Giuliari
+AUTH2393,Isabella Lazzarini
+AUTH2394,Monaldo Leopardi
+AUTH2395,Giorgio Manfré
+AUTH2396,Romina Marcattili
+AUTH2397,Angelo Eugenio Mecca
+AUTH2398,Anna Maria Menichelli
+AUTH2399,Antonio Messini
+AUTH2400,Gabriele Metelli
+AUTH2401,Marco Moroni
+AUTH2402,Paul Needham
+AUTH2403,Laura Pani
+AUTH2404,Cesira Perpolli
+AUTH2405,Luigi Pescasio
+AUTH2406,Giorgio Petrocchi
+AUTH2407,Stefano Ragazzini
+AUTH2408,Giocondo Ricciarelli
+AUTH2409,Adamo Rossi
+AUTH2410,Ennio Sandal
+AUTH2411,Alessandro Scarsella
+AUTH2412,Mario Sensi
+AUTH2413,Rodolfo Signorini
+AUTH2414,Aldo Vallone
+AUTH2415,Eric White
+AUTH2416,Lodovico Zdekauer
+AUTH2417,Stefano Boero
+AUTH2418,Enzo Boschi
+AUTH2419,Alessandro Burgos
+AUTH2420,Attilio Carosi
+AUTH2421,Romano Camassi
+AUTH2422,Viviana Castelli
+AUTH2423,Giuseppe Dato
+AUTH2424,Rodolfo Di Mattei
+AUTH2425,Liliane Dufour
+AUTH2426,Henri Raymond
+AUTH2427,Niccolò Domenico Evola
+AUTH2428,Giovanni Battista Gallizioli
+AUTH2429,Corrado Gallo
+AUTH2430,Lorenzo Giustiniani
+AUTH2431,Domenico Guglielmini (Comeindo Muglielgini)
+AUTH2432,Antonio La Spiana
+AUTH2433,Domenico Ligresti
+AUTH2434,Enrico Mauceri
+AUTH2435,Antonino Mongitore
+AUTH2436,Carmelina Naselli
+AUTH2437,Salvatore Nicolosi
+AUTH2438,Carlo Pastena
+AUTH2439,Francesco Privitera
+AUTH2440,Giuseppe Salonia
+AUTH2441,Carmelo Sciuto Patti
+AUTH2442,John Shower
+AUTH2443,Alberto Blandin Savoia
+AUTH2444,Serena Buzzi
+AUTH2445,Francesco Cancellieri
+AUTH2446,Giovanna Cantoni Alzati
+AUTH2447,Giovanni Battista Audifreddi (1714-1794)
+AUTH2448,Gaudenzio Claretta
+AUTH2449,Paola Manchinu
+AUTH2450,Mario Mattei
+AUTH2451,Giuseppe Francesco Meyranesio
+AUTH2452,Margherita Palumbo
+AUTH2453,Nicolò Premi
+AUTH2454,Giselda Russo
+AUTH2455,Franca Sinopoli
+AUTH2456,Paola Tentori
+AUTH2457,Anne-Marie Turcan-Verkerk
+AUTH2458,Michel Vernus
+AUTH2459,Guglielmo Volpi
+AUTH2460,Italo Zicàri
+AUTH2461,Sara Amato
+AUTH2462,Demetris Antoniades
+AUTH2463,Elias Athanasopoulos
+AUTH2464,Iasonas Polakis
+AUTH2465,Sotiris Ioannidis
+AUTH2466,Thomas Karagiannis
+AUTH2467,Georgios Kontaxis
+AUTH2468,Evangelos P. Markatos
+AUTH2469,Sanjay K. Arora
+AUTH2470,Yin Li
+AUTH2471,Jan Youtie
+AUTH2472,Philip Shapira
+AUTH2473,Peter Boers
+AUTH2474,Robert Diepeveen
+AUTH2475,Mary F. Casserly
+AUTH2476,James E. Bird
+AUTH2477,Daejin Choi
+AUTH2478,Jinyoung Han
+AUTH2479,Selin Chun
+AUTH2480,Efstratios Rappos
+AUTH2481,Stephan Robert
+AUTH2482,Ted Taekyoung Kwon
+AUTH2483,Norman K. Fry
+AUTH2484,Helina Marshall
+AUTH2485,Tasha Mellins-Cohen
+AUTH2486,Camille Ivey
+AUTH2487,Janet Crum
+AUTH2488,Carole J. Lee
+AUTH2489,Cassidy R. Sugimoto
+AUTH2490,Guo Zhang
+AUTH2491,Xia Li
+AUTH2492,Nancy B. Crane
+AUTH2493,Jia Liu
+AUTH2494,Fayaz Ahmad Loan
+AUTH2495,Ufaira Yaseen Shah
+AUTH2496,Nick Nikiforakis
+AUTH2497,Federico Maggi
+AUTH2498,Gianluca Stringhini
+AUTH2499,M. Zubair Rafique
+AUTH2500,Wouter Joosen
+AUTH2501,Christopher Kruegel
+AUTH2502,Frank Piessens
+AUTH2503,Giovanni Vigna
+AUTH2504,Stefano Zanero
+AUTH2505,Norman Paskin
+AUTH2506,Tareek Pattewar
+AUTH2507,Chandrashekhar Mali
+AUTH2508,Shriram Kshire
+AUTH2509,Minal Sadarao
+AUTH2510,Jayesh Salunkhe
+AUTH2511,Mujahid Ali Shah
+AUTH2512,Maria Chiara Pievatolo
+AUTH2513,Carlo Revelli
+AUTH2514,B. T. Sampath Kumar
+AUTH2515,K. R. Prithviraj
+AUTH2516,Roger C. Schonfeld
+AUTH2517,Carmine Sellitto
+AUTH2518,Tom Sheldon
+AUTH2519,Courtney K. Soderberg
+AUTH2520,Timothy M. Errington
+AUTH2521,Brian A. Nosek
+AUTH2522,Serge Bauin
+AUTH2523,Sarah James
+AUTH2524,Juliane Kant
+AUTH2525,Xavier Agenjo-Bullón
+AUTH2526,Stacy Allison-Cassin
+AUTH2527,Tim Berners-Lee
+AUTH2528,British Library
+AUTH2529,L. P. Coladangelo
+AUTH2530,Francesca Maria D’Agnelli
+AUTH2531,Danilo Deana
+AUTH2532,Vojtěch Dostál
+AUTH2533,Gordon Dunsire
+AUTH2534,Gildas Illien
+AUTH2535,Alessandra Moi
+AUTH2536,John Riemer
+AUTH2537,Wikimedia Foundation
+AUTH2538,Paige G. Andrew
+AUTH2539,Susan M. Moore
+AUTH2540,Mary L. Larsgaard
+AUTH2541,Tony Campbell
+AUTH2542,Giuliano Genetasio
+AUTH2543,Ruth Kalf
+AUTH2544,Cornelis Koeman
+AUTH2545,Mary L. Lasgaard
+AUTH2546,Tami Morse
+AUTH2547,Stacie Trail
+AUTH2548,Michela Catto
+AUTH2549,Elizabeth L. Eisenstein
+AUTH2550,Henricus Institoris
+AUTH2551,Jakob Sprenger
+AUTH2552,Andrea Improta
+AUTH2553,Maria Sofia Messana Virga
+AUTH2554,Antonella Orlandi
+AUTH2555,Michaela Valente
+AUTH2556,Ireneo Affò
+AUTH2557,Letizia Arcangeli
+AUTH2558,Gigliola Carmen Maria Barbero
+AUTH2559,Maria Caraci
+AUTH2560,Angelo Ciceri
+AUTH2561,Luciano Migliavacca
+AUTH2562,Maria Nadia Covini
+AUTH2563,Bénedictins Du Bouveret
+AUTH2564,Mirella Ferrari
+AUTH2565,Paul Gwynne
+AUTH2566,James Hankins
+AUTH2567,Michael Hubart
+AUTH2568,Giuseppe Mazzatinti
+AUTH2569,Anna Maria Monterosso Vacchelli
+AUTH2570,Tommaso Mozzati
+AUTH2571,Giorgio Nicodemi
+AUTH2572,Martina Pantarotto
+AUTH2573,Cesare Pasini
+AUTH2574,Marzia Pontone
+AUTH2575,Giulio Porro
+AUTH2576,Simone Riccardi
+AUTH2577,Alessandra Rozzoni
+AUTH2578,Paolo Rusconi
+AUTH2579,Rossana Sacchi
+AUTH2580,Giovanni Seregni
+AUTH2581,Davide Stefani
+AUTH2582,Alessandra Squizzato
+AUTH2583,Alfredo Troiano
+AUTH2584,Marino Viganò
+AUTH2585,Massimo Zaggia
+AUTH2586,Leon Battista Alberti
+AUTH2587,Nicola Aricò
+AUTH2588,Luisa Bertolini
+AUTH2589,Theodore Besterman
+AUTH2590,Marco Biffi
+AUTH2591,Milutine Borissavliévitch
+AUTH2592,Arnaldo Bruschi
+AUTH2593,Jacob Burckhardt
+AUTH2594,James W. P. Campbell
+AUTH2595,Mario Carpo
+AUTH2596,Tommaso Carrafiello
+AUTH2597,Claudio Castelletti
+AUTH2598,Ernst Allen Connally
+AUTH2599,Michael Denis
+AUTH2600,Albrecht Dürer
+AUTH2601,Gino Franceschini
+AUTH2602,Augusto Garneri
+AUTH2603,Lorenzo Ghiberti
+AUTH2604,Vittorio Gregotti
+AUTH2605,Hubertus Günther
+AUTH2606,Silvana Macchioni
+AUTH2607,Anonio Manetti
+AUTH2608,Christian Norberg-Schulz
+AUTH2609,Walter Ong
+AUTH2610,Ulrich Phisterer
+AUTH2611,Antonio Possevino
+AUTH2612,Joseph Rykwert
+AUTH2613,Elisa Romano
+AUTH2614,J. Von Schlosser
+AUTH2615,Josias Simler
+AUTH2616,Francesco Paolo Di Teodoro
+AUTH2617,Luisa Trogu-Rohrich
+AUTH2618,David Armando
+AUTH2619,Alessandro Baroni
+AUTH2620,Paola Benigni
+AUTH2621,Sergio Bertelli
+AUTH2622,Luca Berti
+AUTH2623,Luciano Bertoni
+AUTH2624,Roberto Bizzocchi
+AUTH2625,François Bougard
+AUTH2626,Philippe Boutry
+AUTH2627,Massimo Bray
+AUTH2628,Marta Calleri
+AUTH2629,Giuseppe M. Della Fina
+AUTH2630,Jean Pierre Delumeau
+AUTH2631,Silvia Gallarato
+AUTH2632,Maria Teresa Rizzo
+AUTH2633,Guido Gregorio Fagioli Vercellone
+AUTH2634,Carlo Fantappiè
+AUTH2635,Cosimo Damiano Fonseca
+AUTH2636,Girolamo Imbruglia
+AUTH2637,Pierluigi Licciardello
+AUTH2638,Francesco Margiotta Broglio
+AUTH2639,Riccardo Neri
+AUTH2640,Giovanna Nicolaj
+AUTH2641,Carlo Pazzagli
+AUTH2642,Giuseppe Pignattelli
+AUTH2643,Giovanni Battista Picotti
+AUTH2644,Matteo Sanfilippo
+AUTH2645,Silvano Pieri
+AUTH2646,Mauro Ronzani
+AUTH2647,Mario Rosa
+AUTH2648,Stefano Russo
+AUTH2649,Margherita Gilda Scarpellini Testi
+AUTH2650,Niccolò Scarponio
+AUTH2651,Gian Paolo G. Scharf
+AUTH2652,Angelo Tafi
+AUTH2653,Paola Volpini
+AUTH2654,Francesca D’Agnelli
+AUTH2655,Silvia Tichetti
+AUTH2656,Claudia Guerrieri
+AUTH2657,Giacomo Barzellotti
+AUTH2658,Carlo Cresti
+AUTH2659,Fedele Fedeli
+AUTH2660,Francesco Marmorini
+AUTH2661,Vincenzo Morini
+AUTH2662,Placido Munafò
+AUTH2663,Giovanni Nistri
+AUTH2664,Roberto Pinochi
+AUTH2665,Adam Wandruszka
+AUTH2666,Guido Zucconi
+AUTH2667,Imīl Abī Nādir
+AUTH2668,Kūmīdyā Dāntī Alīġyīrī
+AUTH2669,Dīwān ʿAntar
+AUTH2670,Robert Attal
+AUTH2671,Eros Baldissera
+AUTH2672,Jean Barbier
+AUTH2673,Leyla Bartet
+AUTH2674,Jean-Baptiste Belot
+AUTH2675,Eleazar Birnbaum
+AUTH2676,Salvatore Bono
+AUTH2677,Mirrit Boutros Ghali
+AUTH2678,Carl Brockelmann
+AUTH2679,Jacques Caillé
+AUTH2680,Giuseppe Califano
+AUTH2681,Massimo Campanini
+AUTH2682,Domenico Capolongo
+AUTH2683,Francesco Castro
+AUTH2684,Raffaele Ciasca
+AUTH2685,Roberto Ciccarelli
+AUTH2686,Il Corano
+AUTH2687,L. Costaz
+AUTH2688,Cinzia Dal Maso
+AUTH2689,Rašād Dārġūṯ
+AUTH2690,Kurt De Belder
+AUTH2691,Angelo Del Boca
+AUTH2692,Ed De Moor
+AUTH2693,Simona De Santis
+AUTH2694,Arianna Di Genova
+AUTH2695,Wadīʿ Amīn Dīb
+AUTH2696,Wadīʿ Dīb
+AUTH2697,Gianni Dore
+AUTH2698,Amin Elias
+AUTH2699,Andrea Fama
+AUTH2700,Laurence Fontaine
+AUTH2701,Francesco Gabrieli
+AUTH2702,Nuruddīn ʿAbdurraḥmān Ǧāmī
+AUTH2703,Louis Gardet
+AUTH2704,Carlo Gotti Porcinari
+AUTH2705,René Habachi
+AUTH2706,Yūsif Ḥarfūš
+AUTH2707,Maria Höfner
+AUTH2708,Max Horten
+AUTH2709,Rašīd Salīm Ḫūrī
+AUTH2710,Taha Husein
+AUTH2711,Ḫalīl Ibn Isḥāq
+AUTH2712,Murād Kāmil
+AUTH2713,Giorgio Levi Della Vida
+AUTH2714,Gianfrancesco Lusini
+AUTH2715,Francesco Mafera
+AUTH2716,Chafic Malouf
+AUTH2717,Alessandra Marchi
+AUTH2718,José Maria Millás Vallicrosa
+AUTH2719,Arturo Monaco
+AUTH2720,Martino Mario Moreno
+AUTH2721,William Abraham
+AUTH2722,Jean Rous
+AUTH2723,Youakim Moubarac
+AUTH2724,Mīšāl Asmar
+AUTH2725,Reynold A. Nicholson
+AUTH2726,W. Nikūlz
+AUTH2727,Beatrice Romiti
+AUTH2728,Monica Ruocco
+AUTH2729,Georges Saidah
+AUTH2730,Luwīs Šayḫū
+AUTH2731,Nadim Shehadi
+AUTH2732,Sābā Ǧūrǧ Šibr
+AUTH2733,Henning Sievert
+AUTH2734,Īnyātsyū Sīlūnah
+AUTH2735,R. Strothmann
+AUTH2736,Grazia Tatò
+AUTH2737,Graziano Tavan
+AUTH2738,Fardīnān Tawtil [Ferdinand Taoutel]
+AUTH2739,Maḥmūd Taymūr
+AUTH2740,J. Spencer Trimingham
+AUTH2741,Alberto Ventura
+AUTH2742,W. Montgomery Watt
+AUTH2743,Ǧūrǧī Zaydān
+AUTH2744,Ǧurǧī Zaydān
+AUTH2745,Paola Castellucci
+AUTH2746,Benedetto Conforti
+AUTH2747,Paul Connerton
+AUTH2748,Ennio Di Nolfo
+AUTH2749,Fulvio D’Amoja
+AUTH2750,Jean-Baptiste Duroselle
+AUTH2751,Lawrence Kaplan
+AUTH2752,Nancy Thumin
+AUTH2753,Mario Toscano
+AUTH2754,Arjuna Tuzzi
+AUTH2755,All European Academies
+AUTH2756,Alberto Baccini -
+AUTH2757,Aldis Gedutis
+AUTH2758,Lai Ma
+AUTH2759,Mario Biagioli
+AUTH2760,Alexandra Lippman
+AUTH2761,David Moher
+AUTH2762,Kathleen Shearer
+AUTH2763,Ettore Apollonj
+AUTH2764,Serenella Baldelli Cherubini
+AUTH2765,Eleonora Bellini
+AUTH2766,Giovanni Boccaccio
+AUTH2767,Luisa Chirico
+AUTH2768,Davide Debernardi
+AUTH2769,Antonio Giardullo
+AUTH2770,Teresa Lodi
+AUTH2771,Manfredo Manfredi
+AUTH2772,Berta Maracchi Biagiarelli
+AUTH2773,Anita Mondolfo
+AUTH2774,Andrea Paoli
+AUTH2775,Angelo Poliziano
+AUTH2776,Ida Giovanna Rao
+AUTH2777,Ritratti: Teresa Lodi
+AUTH2778,M. Tesi
+AUTH2779,R. Pintaudi
+AUTH2780,Vincenzo Trombetta
+AUTH2781,Maurizio Calvesi
+AUTH2782,Francesco Colonna
+AUTH2783,Ksenija Muratova
+AUTH2784,Giovanni Pozzi
+AUTH2785,Dan Scott
+AUTH2786,Clifford B. Anderson
+AUTH2787,Phoebe Ayers
+AUTH2788,Charles Matthews
+AUTH2789,Ben Yates
+AUTH2790,Cristian Bacchi
+AUTH2791,Adrian Bielefeldt
+AUTH2792,Julius Gonsior
+AUTH2793,Markus Krötzsch
+AUTH2794,Ivan Heibi
+AUTH2795,David Shotton
+AUTH2796,Quirin Schiermeier
+AUTH2797,Dario Taraborelli
+AUTH2798,Jonathan Dugan
+AUTH2799,Denny Vrandečić
+AUTH2800,David Weinberger
+AUTH2801,Mario Baudino
+AUTH2802,Jorge Luis Borges
+AUTH2803,Albert Cim
+AUTH2804,Simonetta Fiori
+AUTH2805,Massimo Gatta
+AUTH2806,Owen Gingerich
+AUTH2807,Miles Harvey
+AUTH2808,Allison Hoover Bartlett
+AUTH2809,Stuart Kells
+AUTH2810,Francesco Lumachi
+AUTH2811,Sergio Luzzatto
+AUTH2812,Luigi Mascheroni
+AUTH2813,Graciela Mochkofsky
+AUTH2814,Tomaso Montanari
+AUTH2815,Giampiero Mughini
+AUTH2816,Giovanni Ricciardi
+AUTH2817,Gianluigi Simonetti
+AUTH2818,Guido Trombetti
+AUTH2819,Carlo Vulpio
+AUTH2820,Paola Zanuttini
+AUTH2821,Maurizio Di Girolamo
+AUTH2822,Muki Haklay
+AUTH2823,Manuela Montebello
+AUTH2824,Thomas Mann
+AUTH2825,Irena Backus
+AUTH2826,Oxford University Press
+AUTH2827,Adolf Bauer
+AUTH2828,Monica Berti
+AUTH2829,R. Howard Bloch
+AUTH2830,James Elmer Dean
+AUTH2831,Louis Ellies Dupin
+AUTH2832,Humphrey Hody
+AUTH2833,Johann Lange
+AUTH2834,F. Meister
+AUTH2835,Elias D. Moutsoulas
+AUTH2836,Michael Neumann
+AUTH2837,André Pelletier
+AUTH2838,Ernst Friedrich Karl Rosenmüller
+AUTH2839,Michael E. Stone
+AUTH2840,Agostino Ademollo
+AUTH2841,Giuseppe Alberigo
+AUTH2842,Jonathan J. G. Alexander
+AUTH2843,Matteo Al Kalak
+AUTH2844,Marta Lucchi
+AUTH2845,Giancarlo Angelozzi
+AUTH2846,Kathleen Giles Arthur
+AUTH2847,Emilio Bacciotti
+AUTH2848,Rebecca A. Baltzer
+AUTH2849,Federigo Bambi
+AUTH2850,James R. Banker
+AUTH2851,Cyrilla Barr
+AUTH2852,Stefano Bertocci
+AUTH2853,Christopher F. Black
+AUTH2854,Francesco Bocchi
+AUTH2855,Alberto Busignani
+AUTH2856,Raffaello Bencini
+AUTH2857,Francesco Caraballese
+AUTH2858,Franco Cardini
+AUTH2859,Giovanni Battista Casotti
+AUTH2860,Melania Ceccanti
+AUTH2861,Andrew Chen
+AUTH2862,Marco Ciampoltrini
+AUTH2863,Patrizia Turrini
+AUTH2864,Diane Cole Ahl
+AUTH2865,Paolo Cova
+AUTH2866,Matteo Cosimo Cresti
+AUTH2867,Giuseppina De Sandre Gasparini
+AUTH2868,Rosa Maria Dessì
+AUTH2869,Angelika Doerfler Dierken
+AUTH2870,Mark Everist
+AUTH2871,Giovanni Fanelli
+AUTH2872,Mario Fanti
+AUTH2873,Maria Fubini Leuzzi
+AUTH2874,Marina Gazzini
+AUTH2875,John Henderson
+AUTH2876,Lyle Humphrey
+AUTH2877,Bente Klange Addabbo
+AUTH2878,Beda Kleinschmidt
+AUTH2879,Giovanni Lami
+AUTH2880,Placido Landini
+AUTH2881,Enzo Lodi
+AUTH2882,Fabrizio Lollini
+AUTH2883,Mario Lopes-Pegna
+AUTH2884,Renzo Manetti
+AUTH2885,Olga Marinelli
+AUTH2886,Massimo Medica
+AUTH2887,Gilles Gerard Meersseman
+AUTH2888,Enrico Mercani
+AUTH2889,Gaetano Milanesi
+AUTH2890,Gennaro Maria Monti
+AUTH2891,Nerida Newbigin
+AUTH2892,Luciano Orioli
+AUTH2893,Giulia Orofino
+AUTH2894,Tullio Faustino Ossanna
+AUTH2895,Walter Paatz
+AUTH2896,Elisabeth Paatz
+AUTH2897,Lorenza Pamato
+AUTH2898,Antonio Paolucci
+AUTH2899,Massimo D. Papi
+AUTH2900,Michele Poccianti
+AUTH2901,Brunetto Quilici
+AUTH2902,Giuseppe Richa
+AUTH2903,Brian Richardson
+AUTH2904,Ludovica Sebregondi
+AUTH2905,Franek Sznura
+AUTH2906,Marica Susan Tacconi
+AUTH2907,Marica Tacconi
+AUTH2908,Ilaria Taddei
+AUTH2909,Nicholas Terpstra
+AUTH2910,Benedetto Varchi
+AUTH2911,Catherine Vincent
+AUTH2912,Ronald F. E. Weissman
+AUTH2913,Hellmut Wohl
+AUTH2914,Andrea Zorzi
+AUTH2915,Olga Zorzi Pugliese
+AUTH2916,Lew Andrews
+AUTH2917,Lilian Armstrong
+AUTH2918,Raffaella Bentivoglio Ravasio
+AUTH2919,Margery Corbett
+AUTH2920,Lorena Dal Poz
+AUTH2921,Cristina Dondi
+AUTH2922,Paola Errani
+AUTH2923,Alessandro Franchi Verney
+AUTH2924,Nicholas Herman
+AUTH2925,Lucia Catalano
+AUTH2926,Antonietta Iolanda Lima
+AUTH2927,Martin Lowry
+AUTH2928,Debra Pincus
+AUTH2929,Jeannette Power
+AUTH2930,Giovanni Pietro Bellori
+AUTH2931,Giacomo Fuligatti
+AUTH2932,Pietro Lazzari
+AUTH2933,Carlo Bartolomeo Piazza
+AUTH2934,Renata Ago
+AUTH2935,Roberto Bellarmino
+AUTH2936,Luca Curti
+AUTH2937,Robert Danieluk
+AUTH2938,Sylvio Hermann De Franceschi
+AUTH2939,Simona Feci
+AUTH2940,Peter Godman
+AUTH2941,Harry C. Koenig
+AUTH2942,François Xavier Le Bachelet
+AUTH2943,Lorenzo Mancini
+AUTH2944,Franco Motta
+AUTH2945,Stefania Tutino
+AUTH2946,Sebastiaan Peter Cornelis Tromp
+AUTH2947,Laura Usalla
+AUTH2948,Ayşehan Deniz Abik
+AUTH2949,Hilal Oytun Altun
+AUTH2950,Zsuzsa Barbarics-Hermanik
+AUTH2951,Pierre Bayle
+AUTH2952,Stefan Benz
+AUTH2953,E. Berthels
+AUTH2954,1993 = A. Beveridge
+AUTH2955,Beatrice F. Manz
+AUTH2956,Alexander Bevilacqua
+AUTH2957,Philip Bockholt
+AUTH2958,Lucae Holstenii
+AUTH2959,Giampiero Brunelli
+AUTH2960,Charles Burnett
+AUTH2961,Claude Cahen
+AUTH2962,R. G. Coquin
+AUTH2963,Christophorus Crinesius
+AUTH2964,R. Davis
+AUTH2965,Pietro Della Valle
+AUTH2966,David Do Paço
+AUTH2967,Mustafa Erkan
+AUTH2968,Robert Evans
+AUTH2969,Mordechai Feingold
+AUTH2970,Henri Fleisch
+AUTH2971,Gustav Flügel
+AUTH2972,Mercedes García-Arenal
+AUTH2973,Christian Gastgeber
+AUTH2974,E. Geoffroy
+AUTH2975,H. A. R. Gibb
+AUTH2976,Anthony Grafton
+AUTH2977,Jacob Gretser
+AUTH2978,Stanley Lawrence Greenslade
+AUTH2979,Alastair Hamilton
+AUTH2980,Robert Irwin
+AUTH2981,Robert John Jones
+AUTH2982,Petrus Kirstenius
+AUTH2983,H. Ahmet Kırkkılıç
+AUTH2984,Yusuf Sancak
+AUTH2985,L. Kopf
+AUTH2986,Günay Kut
+AUTH2987,Peter Lambeck
+AUTH2988,Daniel Nessel
+AUTH2989,Alfons Lhotsky
+AUTH2990,L. Lockhart
+AUTH2991,Howrd Louthan
+AUTH2992,Suzanne L. Marchand
+AUTH2993,Adeva Martín
+AUTH2994,Peter Miller
+AUTH2995,Leone Modena
+AUTH2996,Franco Mormando
+AUTH2997,Nicolette Mout
+AUTH2998,Martin Mulsow
+AUTH2999,Nil Palabiyik
+AUTH3000,Ch. Pellat
+AUTH3001,Ernst Dieter Petritsch
+AUTH3002,Chiara Petrolini
+AUTH3003,Angelo Michele Piemontese
+AUTH3004,Manja Quakatz
+AUTH3005,Jean-Louis Quantin
+AUTH3006,Peter Rietbergen
+AUTH3007,Cf. H. Ritter
+AUTH3008,A. Bausani
+AUTH3009,J. Robson
+AUTH3010,Claudia Römer
+AUTH3011,Friedrich W. E. Roth
+AUTH3012,Wilhelm Schickard
+AUTH3013,Arthur Zacharias Schwarz
+AUTH3014,Wilhelm Schickard: Briefwechsel
+AUTH3015,Irfān Shahîd
+AUTH3016,C. E. Bosworth
+AUTH3017,Ilona Steimann
+AUTH3018,Michal Sternthal
+AUTH3019,Laurenz Strebl
+AUTH3020,M. E. Subtelny
+AUTH3021,A. Zeki Velidi Togan
+AUTH3022,Gerald J. Toomer
+AUTH3023,Fikret Turan
+AUTH3024,Franz Unterkircher
+AUTH3025,Adem Uzun
+AUTH3026,Ronny Vollandt
+AUTH3027,Arnoud Vrolijk
+AUTH3028,Thomas Wallnig
+AUTH3029,Joanna Weinberg
+AUTH3030,Robert J. Wilkinson
+AUTH3031,Henning Witte
+AUTH3032,Christine Woodhead
+AUTH3033,Loriano Zurli
+AUTH3034,Randolph Greenfield Adams
+AUTH3035,William Loring Andrews
+AUTH3036,Beard Charles A.
+AUTH3037,William Warner Bishop
+AUTH3038,Guido Bruno
+AUTH3039,Carl L. Cannon
+AUTH3040,David Clement
+AUTH3041,William L. Clements
+AUTH3042,George Watson Cole
+AUTH3043,John C. Dann
+AUTH3044,Donald C. Dickinson
+AUTH3045,Edward H. Dodd Jr.
+AUTH3046,Gary A. Donaldson
+AUTH3047,Charles P. Everitt
+AUTH3048,Charles E. Goodspeed
+AUTH3049,J. Kevin Graffagnino
+AUTH3050,L. C. Harper
+AUTH3051,J. Franklin Jameson
+AUTH3052,Maldwyn A. Jones
+AUTH3053,Hans Peter Kraus
+AUTH3054,Hellmut Lehmann-Haupt
+AUTH3055,Margaret Maxwell
+AUTH3056,Wyman W. Parker
+AUTH3057,David Pearson
+AUTH3058,Annette Popel Pozzo
+AUTH3059,W. L. C.
+AUTH3060,Robert Proctor
+AUTH3061,William S. Reese
+AUTH3062,Bernard Rosenthal
+AUTH3063,Henry Stevens
+AUTH3064,Madeleine B. Stern
+AUTH3065,William P. Stoneman
+AUTH3066,James Thorpe
+AUTH3067,George Parker Winship
+AUTH3068,Lawrence C. Wroth
+AUTH3069,Gaspero Barbera
+AUTH3070,Alfredo Barbina
+AUTH3071,Giovanni Bellincioni
+AUTH3072,Giuliana Biagioli
+AUTH3073,Lanfranco Caretti
+AUTH3074,Emilio Cercignani
+AUTH3075,Hans Cools
+AUTH3076,Jolanda De Blasi
+AUTH3077,Riccardo Della Volta
+AUTH3078,Carlo Andrea Fabbricotti
+AUTH3079,Mario Fierli
+AUTH3080,Anna Franchi
+AUTH3081,Pietro Gismondi
+AUTH3082,Corrado Govoni
+AUTH3083,Michele Lessona
+AUTH3084,Fioretta Mazzei
+AUTH3085,Giovanni Papini
+AUTH3086,Giuseppe Prezzolini
+AUTH3087,Carlo Pischedda
+AUTH3088,Luigi Rasi
+AUTH3089,Ermolao Rubieri
+AUTH3090,Guglielmo Salvadori
+AUTH3091,Francesco Scerbo
+AUTH3092,Samuel Smiles
+AUTH3093,Simonetta Soldani
+AUTH3094,Giuseppe Toffanin
+AUTH3095,Attilio Vallecchi
+AUTH3096,Vannuccio Vannucci (Etrusco)
+AUTH3097,Alberto Viviani
+AUTH3098,Florido Zamponi
+AUTH3099,Silvio Branzi
+AUTH3100,Arturo Martini
+AUTH3101,Giorgio Busetto
+AUTH3102,Giorgio Emanuele Ferrari
+AUTH3103,Libreria Canova
+AUTH3104,Giuseppe Mazzariol
+AUTH3105,Stefania Rossi Minutelli
+AUTH3106,Emanuel Swedenborg
+AUTH3107,Ranganathan Yogeshwar
+AUTH3108,Valentino Cecchetti
+AUTH3109,Richard Dellamora
+AUTH3110,Ada Gigli Marchetti
+AUTH3111,Nerina Milletti
+AUTH3112,Hannah Roche
+AUTH3113,Annarita Tarrona
+AUTH3114,Nicola Wilson
+AUTH3115,Claire Battershill
+AUTH3116,Gea Arcella
+AUTH3117,Eliana Arezzo
+AUTH3118,Giovanni Adamo
+AUTH3119,Ugo Bechini
+AUTH3120,Giulia Belardelli
+AUTH3121,Renato Carraffa
+AUTH3122,Eugenio Cau
+AUTH3123,D’Arminio Monforte
+AUTH3124,Alessandro D’Arminio Monforte
+AUTH3125,Mariella Guercio
+AUTH3126,Pietro Jarre
+AUTH3127,Federico Bottino
+AUTH3128,Arturo Maniaci
+AUTH3129,Raffele Simone
+AUTH3130,Simone Vettore
+AUTH3131,Emmanuela Carbè
+AUTH3132,Giovanni Ziccardi
+AUTH3133,Markus Brantl
+AUTH3134,Bill Endres
+AUTH3135,Katrina Fenlon
+AUTH3136,Jacob Jett
+AUTH3137,Carole L. Palmer
+AUTH3138,Julia Flanders
+AUTH3139,Trevor Muñoz
+AUTH3140,Silvia Giannini
+AUTH3141,Stefania Lombardi
+AUTH3142,Anna Molino
+AUTH3143,Michael M. Gorman
+AUTH3144,Peggy Griesinger
+AUTH3145,Mikala Narlock
+AUTH3146,Lauren Magnuson
+AUTH3147,Maria Teresa Natale
+AUTH3148,Mario Panizza
+AUTH3149,Alex H. Poole
+AUTH3150,Paolo Prodi
+AUTH3151,Gianfranco Ravasi
+AUTH3152,Massimo Rodella
+AUTH3153,Stuart Snydman
+AUTH3154,Robert Sanderson
+AUTH3155,Tom Cramer
+AUTH3156,Alessandro Alfier
+AUTH3157,Paola Ciandrini
+AUTH3158,Isabella Zanni Rosiello
+AUTH3159,Roberto Guarasci
+AUTH3160,Gillian Oliver
+AUTH3161,Fiorella Foscarini
+AUTH3162,Giovanni Paoloni
+AUTH3163,Riccardo Pedrini
+AUTH3164,Ilaria Pescini
+AUTH3165,Chiara Veninata
+AUTH3166,Angelo Maria Bandini
+AUTH3167,Alessandro Bichi
+AUTH3168,Biancamaria Brumana
+AUTH3169,Charles Burney
+AUTH3170,Piero Calamandrei
+AUTH3171,Stefania Corsini
+AUTH3172,Nino Criscenti
+AUTH3173,Martina Dei
+AUTH3174,Giacomo Fantuzzi
+AUTH3175,Georg Christoph Martini
+AUTH3176,Leonardo Previero
+AUTH3177,Matilda Romito
+AUTH3178,Giovanni Targioni Tozzetti
+AUTH3179,Paolo Tiezzi Maestri
+AUTH3180,Francis Bacon
+AUTH3181,James Hendler
+AUTH3182,Ora Lassila
+AUTH3183,Giulio Camillo
+AUTH3184,Nicholas Carr
+AUTH3185,Evelina Christillin
+AUTH3186,Christian Greco
+AUTH3187,Gianluca Didino
+AUTH3188,Massimo Durante
+AUTH3189,Mark Fischer
+AUTH3190,Walter Wilson Greg
+AUTH3191,Thomas Kuhn
+AUTH3192,Ted Nelson
+AUTH3193,Robert Pepperel
+AUTH3194,Paolo Rossi
+AUTH3195,Frances Amelia Yates
+AUTH3196,José Augusto Chaves Guimarães
+AUTH3197,Jeannette Marguerite Kremer
+AUTH3198,Felipe Meneses Tello
+AUTH3199,Suzana Machado Pinheiro Mueller
+AUTH3200,Berta Jaqueline Rosa
+AUTH3201,Jussara Pereira Santos
+AUTH3202,Ann M. Blair
+AUTH3203,Frank Campbell
+AUTH3204,Gilbert Varet
+AUTH3205,Frank Webster
+AUTH3206,New York
+AUTH3207,Paul Gabriel Weston
+AUTH3208,Mario Armanni
+AUTH3209,Tommaso Bozza
+AUTH3210,Domenico Fava
+AUTH3211,Elisabetta Francioni
+AUTH3212,Alfonso Gallo
+AUTH3213,Arturo Lancellotti
+AUTH3214,Paolo Nalli
+AUTH3215,Marino Parenti
+AUTH3216,Giada Salerno
+AUTH3217,Ernesto Sestan
+AUTH3218,Tiziana Stagi
+AUTH3219,[Nello Vian]
+AUTH3220,Nello Vian
+AUTH3221,Luigi Zanzi
+AUTH3222,Ivo Biagianti
+AUTH3223,Pier Luigi Cabras
+AUTH3224,Maddalena Carli
+AUTH3225,Giuliano Catoni
+AUTH3226,Silvia Colucci
+AUTH3227,Arnoldo D’Addario
+AUTH3228,Paolo Funaioli
+AUTH3229,Donatella Lippi
+AUTH3230,Graziella Magherini
+AUTH3231,Marta Starnini
+AUTH3232,Fabio Stok
+AUTH3233,Ferdinando Ugolotti
+AUTH3234,Francesca Vannozzi
+AUTH3235,Paola Maddaluno
+AUTH3236,Lamberto Maffei
+AUTH3237,Antonio Teti
+AUTH3238,Ernst Friedrich August Graefenhan
+AUTH3239,Richard Hoche
+AUTH3240,Johann Martin Muller
+AUTH3241,Johann Friedrich Pfeffinger
+AUTH3242,Gottlieb Schwartz
+AUTH3243,Guido Badalamenti
+AUTH3244,Marco Binotto
+AUTH3245,Stefano Nobile
+AUTH3246,Stefano Boffo
+AUTH3247,Stefano Boffo.
+AUTH3248,Andrea Bonaccorsi
+AUTH3249,Paola Borgna
+AUTH3250,Anna Busa
+AUTH3251,Giorgio Chiarelli
+AUTH3252,Massimo De Giuseppe
+AUTH3253,Claire Donovan
+AUTH3254,Henry Etkowitz
+AUTH3255,Loet Leydesdorff
+AUTH3256,Paolo Giovannetti
+AUTH3257,Markus C. Hayden-Martin Weiß-Alice Pechriggl-Daniel Wutti
+AUTH3258,Valentina Martino
+AUTH3259,James Peckham
+AUTH3260,Morris H. Shamos
+AUTH3261,Steven Sloman
+AUTH3262,Philip Fernbach
+AUTH3263,Ruben Vicente-Saez
+AUTH3264,Clara Martinez-Fuentes
+AUTH3265,Vincenzo Zara
+AUTH3266,Emma Zavarrone
+AUTH3267,Carlyle Allyson
+AUTH3268,Thomas Baker
+AUTH3269,Yoose Becky
+AUTH3270,Perkins Jody
+AUTH3271,Steven Bernstein
+AUTH3272,Erik Borglund
+AUTH3273,Tove Engvall
+AUTH3274,Marshall Breeding
+AUTH3275,Allyson Carlyle
+AUTH3276,Timothy W. Cole
+AUTH3277,Myung-Ja Han
+AUTH3278,William Fletcher Weathers
+AUTH3279,Eric Joyner
+AUTH3280,Amanda F. Cossham
+AUTH3281,Karen Coyle
+AUTH3282,Jee-Hyun Davis
+AUTH3283,Gui De Tré
+AUTH3284,Wouter Van Acker
+AUTH3285,Rossella Dini
+AUTH3286,Diane Hillmann
+AUTH3287,Jon Phipps
+AUTH3288,Elena Escolano Rodrìguez
+AUTH3289,Agnese Galeffi
+AUTH3290,Carol Jean Godby
+AUTH3291,Jane Greenberg
+AUTH3292,Michelle L. Halla
+AUTH3293,Kaisa Hypén
+AUTH3294,International Standard Bibliographic Description. Consolidated Edition
+AUTH3295,Quiang Jin
+AUTH3296,Jane A. Sandberg
+AUTH3297,Kerry Kilner
+AUTH3298,Angela Kroeger
+AUTH3299,Corinne M. Laurence
+AUTH3300,Patrick Le Boeuf
+AUTH3301,Thea Lindquist
+AUTH3302,Michael Dulock
+AUTH3303,Juha Törnroos
+AUTH3304,Eero Hyvönen
+AUTH3305,Eetu Mäkelä
+AUTH3306,Valeria Lo Castro
+AUTH3307,Olivia M. A. Madison
+AUTH3308,Eliane Serrão Alves Mey
+AUTH3309,Isabel Arino Grau
+AUTH3310,Fernanda Salgado Biar
+AUTH3311,Erik Mitchell
+AUTH3312,Anthony J. Million
+AUTH3313,Ronald J. Murray
+AUTH3314,Barbara B. Tillett
+AUTH3315,Chris Oliver
+AUTH3316,Jan Pisanski
+AUTH3317,Maja Žumer
+AUTH3318,Michele Seikel
+AUTH3319,Thomas Steele
+AUTH3320,Iryna Solodovnik
+AUTH3321,Shoichi Taniguchi
+AUTH3322,Aalberg Trond
+AUTH3323,Žumer Maja
+AUTH3324,Marlene Van Ballegooie
+AUTH3325,Juliya Borie
+AUTH3326,Jason Vaughan
+AUTH3327,Martha M. Yee
+AUTH3328,Becky Yoose
+AUTH3329,Jody Perkins
+AUTH3330,Boris Bosančić
+AUTH3331,Predrag Perožić
+AUTH3332,Yin Zhang
+AUTH3333,Athena Salaba
+AUTH3334,Tiziana Catarci
+AUTH3335,Giuseppe Santucci
+AUTH3336,Marija Dalbello
+AUTH3337,Leighton Evans
+AUTH3338,Sian Rees
+AUTH3339,Susan Hocke
+AUTH3340,Bernhard Rieder
+AUTH3341,Theo Röhle
+AUTH3342,Chria A. Sula
+AUTH3343,Jacopo Zingoni
+AUTH3344,Micah Vandegrift
+AUTH3345,Giovanna Baldissin Molli
+AUTH3346,Jeanne Bignami Odier
+AUTH3347,Michael Camille
+AUTH3348,Anna De Floriani
+AUTH3349,Albinia De La Mare
+AUTH3350,Laura Nuvoloni
+AUTH3351,Carlo Del Bravo
+AUTH3352,Andrea De Marchi
+AUTH3353,Teresa D’Urso
+AUTH3354,Hans-Joachim Eberhardt
+AUTH3355,Laura Gnaccolini
+AUTH3356,Daniele Guernelli
+AUTH3357,Franz Irsigler
+AUTH3358,Giovanna Lazzi
+AUTH3359,Mirella Levi D’Ancona
+AUTH3360,Dora Liscia Bemporad
+AUTH3361,Roberto Longhi
+AUTH3362,Marta Minnazzato
+AUTH3363,Luigi Montobbio
+AUTH3364,Guglielmo Pacchioni
+AUTH3365,Paola Pallottino
+AUTH3366,Lilian Randall
+AUTH3367,Mario Salmi
+AUTH3368,Elisabeth Schröter
+AUTH3369,Federica Toniolo-Gennaro Toscano
+AUTH3370,Gennaro Toscano
+AUTH3371,Paola Venturelli
+AUTH3372,Laura Barile
+AUTH3373,Maria Cristina Misiti
+AUTH3374,Albenga Mauro
+AUTH3375,Alessandro Armando
+AUTH3376,Giovanni Durbiano
+AUTH3377,Giovanni Giacomo Bonino
+AUTH3378,Pompeo Brambilla
+AUTH3379,Charles-Moïse Briquet
+AUTH3380,Peter Burke
+AUTH3381,Luigi Cibrario
+AUTH3382,Angelo Luigi Camillo Ciribini
+AUTH3383,Eric Garberson
+AUTH3384,Marzia Giuliani
+AUTH3385,Andreina Griseri
+AUTH3386,Anna Maria Bava
+AUTH3387,Alberto Basso
+AUTH3388,Massimiliano Lo Turco
+AUTH3389,Elisabetta Caterina Giovannini
+AUTH3390,Andrea Tomalini
+AUTH3391,Giuliana Lonardi
+AUTH3392,Sergio Mamino
+AUTH3393,Antonio Manno
+AUTH3394,Paolo Messina
+AUTH3395,Gabriella Olivero
+AUTH3396,Alessandra Panzanelli
+AUTH3397,Giovanni Romano
+AUTH3398,Andrea Rossotto
+AUTH3399,Emanuele Tesauro
+AUTH3400,Patrizia Tosini
+AUTH3401,Franca Varallo
+AUTH3402,Maria Carla Visconti
+AUTH3403,Clara Vitulo
+AUTH3404,Eliana Angela Pollone
+AUTH3405,Alberto Aquarone
+AUTH3406,Mario Casalini
+AUTH3407,Armando Cepollaro
+AUTH3408,Claudio Cerreti
+AUTH3409,Cesare Cesari
+AUTH3410,Elisa Cirillo
+AUTH3411,Giotto Dainelli
+AUTH3412,Lorenzo Declich
+AUTH3413,Luigi Federzoni
+AUTH3414,Cesira Filesi
+AUTH3415,Pierina Fontana
+AUTH3416,Lello Gangemi
+AUTH3417,G. B.
+AUTH3418,Carlo Ghezzi
+AUTH3419,Cesare Marinucci
+AUTH3420,Giancarlo Monina
+AUTH3421,Maria Antonietta Mulas
+AUTH3422,Silvana Palma
+AUTH3423,Vincenzo Pellegrini
+AUTH3424,Matteo Pierotti
+AUTH3425,Olga Pinto
+AUTH3426,Carlo Rossetti
+AUTH3427,Alberto Soave
+AUTH3428,Massimo Zaccaria
+AUTH3429,Jacques-Charles Brunet
+AUTH3430,Michele Giuseppe Canale
+AUTH3431,Emanuele Celesia
+AUTH3432,Giorgio Costamagna
+AUTH3433,Vins Gallico
+AUTH3434,Stefano Gardini
+AUTH3435,Giovanni Battista Gervasoni
+AUTH3436,Arnim Gräsel
+AUTH3437,Luigi Grillo
+AUTH3438,Johannes Lomeier
+AUTH3439,Maria Luxoro
+AUTH3440,Laura Malfatto
+AUTH3441,Paolo Maria Paciaudi
+AUTH3442,Rossella Piatti
+AUTH3443,Giuseppe Piersantelli
+AUTH3444,Heinrich Roloff
+AUTH3445,Giuseppe Cipolla
+AUTH3446,Jennifer Cooke
+AUTH3447,Sandra Costa
+AUTH3448,Enrico Decleva
+AUTH3449,Annamaria Ducci
+AUTH3450,Claudio Gamba
+AUTH3451,Maurizio Ghelardi
+AUTH3452,Davide Angelo Grippa
+AUTH3453,Camilla Marraccini
+AUTH3454,Massimo Mastrogregori
+AUTH3455,Susanne Adina Meyer
+AUTH3456,Lucrezia Not
+AUTH3457,Federica Nurchis
+AUTH3458,Emanuele Pellegrini
+AUTH3459,Viviana Pozzoli
+AUTH3460,Stefania Ragaù
+AUTH3461,Valentina Russo
+AUTH3462,Paolo Soddu
+AUTH3463,Marco Testa
+AUTH3464,Giuliana Tomasella
+AUTH3465,Lorenzo Amato
+AUTH3466,Cambrian Archoeological Association
+AUTH3467,Gino Belloni
+AUTH3468,Giuliano Bertuccioli
+AUTH3469,John Burke
+AUTH3470,Fiammetta Cirilli
+AUTH3471,Morag Cross
+AUTH3472,Margaret Leslie Davis
+AUTH3473,Riccardo De Rosa
+AUTH3474,Joshua A. Fogel
+AUTH3475,William Parr Greswell
+AUTH3476,Craig Kallendorf
+AUTH3477,Elizabeth Kerr Coulson
+AUTH3478,Mami Tanaka
+AUTH3479,Marco Limongelli
+AUTH3480,Salvatore Lo Re
+AUTH3481,Daniele Maira
+AUTH3482,Demetrio Marra
+AUTH3483,Richard Maxwell
+AUTH3484,Aldo Menichetti
+AUTH3485,Ezio Raimondi
+AUTH3486,Henry Reveley
+AUTH3487,Ernest Mason Satow
+AUTH3488,Alessandro Vellutello
+AUTH3489,Sabrina Stroppa
+AUTH3490,Giulia Tonelli
+AUTH3491,Giacomo Ventura
+AUTH3492,Fernando Báez
+AUTH3493,Ugo Bellagamba
+AUTH3494,Diane Berrett Brown
+AUTH3495,Emmanuel Carrère
+AUTH3496,Roberto Cattani
+AUTH3497,Marta Ferronato
+AUTH3498,Luigi Firpo
+AUTH3499,Vita Fortunati
+AUTH3500,Hinrich Hudde
+AUTH3501,Dario Ippolito
+AUTH3502,Claude Nicolas Ledoux
+AUTH3503,Louis-Sébastien Mercier
+AUTH3504,Ida Merello
+AUTH3505,Richard Ovenden
+AUTH3506,Charles Renouvier
+AUTH3507,Daniel Rosenberg
+AUTH3508,Raymond Trousson
+AUTH3509,Werner Arnold
+AUTH3510,Mátyás Bél
+AUTH3511,Sidney E. Berger
+AUTH3512,Albano Biondi Curione
+AUTH3513,Harald Bollbuck
+AUTH3514,Emanuela Bufacchi
+AUTH3515,Peter Burschel
+AUTH3516,Augusto Campana
+AUTH3517,Giacinto Cantalamessa Carboni
+AUTH3518,Bibliothecae Augustae
+AUTH3519,Donatella Coppini
+AUTH3520,Giuseppe Crimi
+AUTH3521,Alessandro Daneloni
+AUTH3522,Alberto De Angelis
+AUTH3523,Angela Dillon Bussi
+AUTH3524,Albrecht Eckhardt
+AUTH3525,Edward Edwards
+AUTH3526,Joachim Ehlers
+AUTH3527,Veress Endre
+AUTH3528,John Flood
+AUTH3529,Guglielmo Fraknóy
+AUTH3530,Peter Fuchs
+AUTH3531,Christian Heitzmann
+AUTH3532,Matthias Flacius Illyricus
+AUTH3533,Maurice La Chatre
+AUTH3534,István David Lázár
+AUTH3535,Wolfgang Lent
+AUTH3536,Gregorio Leti
+AUTH3537,Ina Lommatzsch
+AUTH3538,Stefan Manns
+AUTH3539,Wolfgang Milde
+AUTH3540,Wolfgang Milde Georg Ruppelt
+AUTH3541,Ernst Moeller
+AUTH3542,Klara Pajorin
+AUTH3543,Franz Petri
+AUTH3544,Andrew Pettegree
+AUTH3545,Paul Raabe
+AUTH3546,Martyn Rady
+AUTH3547,Roberto Ricciardi
+AUTH3548,Günter Scheel
+AUTH3549,Ulrich Johann Schneider
+AUTH3550,Karl Philipp Christoph Schönemann
+AUTH3551,Hermann Schüssler
+AUTH3552,Michel Sève
+AUTH3553,Ludwig Ferdinand Spehr
+AUTH3554,Oak Knoll Press
+AUTH3555,Francesca Tasca Dirani
+AUTH3556,Adolf Töpfer
+AUTH3557,Caterina Tristano
+AUTH3558,Roberto Valturio
+AUTH3559,Thomas Walker
+AUTH3560,Joëlle Weis
+AUTH3561,Carl Wendel
+AUTH3562,Paul Zimmermann
+AUTH3563,Edina Zsupán
+AUTH3564,Luisa Amenta
+AUTH3565,Giuseppe Antonelli
+AUTH3566,Fabio Caffarena
+AUTH3567,Giorgio Raimondo Cardona
+AUTH3568,Paolo D’Achille
+AUTH3569,Marco Francalanci
+AUTH3570,Enzo Fragapane
+AUTH3571,Rita Fresu
+AUTH3572,Stefano Jacini
+AUTH3573,Clelia Marchi
+AUTH3574,Enrico Meloni
+AUTH3575,David Moss
+AUTH3576,Giovanni Rabito
+AUTH3577,Vincenzo Rabito
+AUTH3578,Luca Ricci
+AUTH3579,Giovanni Ruffino
+AUTH3580,Domenico Scarpa
+AUTH3581,Sara Sorrentino
+AUTH3582,Enrico Testa
+AUTH3583,Saverio Tutino
+AUTH3584,Giuseppe Ungaretti
+AUTH3585,Saverio Vita
+AUTH3586,Laura Tita Farinella
+AUTH3587,The Getty Research Institute
+AUTH3588,Bibliotheca Scriptorum Ordinis Minorum S. Francisci Capucinorum
+AUTH3589,Giovanni Casati
+AUTH3590,Giovanni Nicolò Cavana
+AUTH3591,Fabienne Henryot
+AUTH3592,Giovanni Maria Mazzuchelli
+AUTH3593,Antonio Nicolas
+AUTH3594,Agostino Oldoini
+AUTH3595,Giuseppe Pignatelli
+AUTH3596,Allgemeine Deutsche Biographie. Berlin
+AUTH3597,Eran Almagor
+AUTH3598,Balbina Bäbler
+AUTH3599,Roger S. Bagnall
+AUTH3600,Rudolph Blum
+AUTH3601,Alfred Joshua Butler
+AUTH3602,Lucino Canfora
+AUTH3603,Giuseppe Carlucci
+AUTH3604,Lionel Casson
+AUTH3605,Catholic Encyclopedia. New York
+AUTH3606,William F. Cherf
+AUTH3607,Diana Delia
+AUTH3608,Tiziano Dorandi
+AUTH3609,Peter M. Fraser
+AUTH3610,Johannes Hahn
+AUTH3611,Daniel Heller-Roazen
+AUTH3612,Bertrand Hemmerdinger
+AUTH3613,Heinz-Günther Nesserath
+AUTH3614,Cécile Orrù
+AUTH3615,Gustav Parthey
+AUTH3616,Christophe Rico
+AUTH3617,Claudio Schiano
+AUTH3618,Frederick J. Teggart
+AUTH3619,Gilberto Aquini
+AUTH3620,Kathleen G. Arthur
+AUTH3621,Marco Bartoli
+AUTH3622,Cristina Campo
+AUTH3623,Francesca Cocchiara
+AUTH3624,Caterina Vigri
+AUTH3625,Antonella Dejure
+AUTH3626,Giuseppe Dalla Torre
+AUTH3627,Mariafiamma Faberi
+AUTH3628,Caterina Vegri
+AUTH3629,Vera Fortunati
+AUTH3630,Claudio Leonardi
+AUTH3631,Nicoletta Giovè Marchioli
+AUTH3632,Irene Graziani
+AUTH3633,Elisabetta Graziosi
+AUTH3634,T. Lombardi
+AUTH3635,Illuminata Bembo
+AUTH3636,Silvia Mostaccio
+AUTH3637,Enrico Peverada
+AUTH3638,Antonio Piromalli
+AUTH3639,Francesco Santi
+AUTH3640,Francesco Sberlati
+AUTH3641,Silvia Serventi
+AUTH3642,Serena Spanò
+AUTH3643,Serena Spanò Martinelli
+AUTH3644,Paola Tosetti Grandi
+AUTH3645,David Woodward
+AUTH3646,Paola Bertolucci
+AUTH3647,Tonino Cabizzosu
+AUTH3648,Enzo Cadoni
+AUTH3649,Franco Coni
+AUTH3650,Carla Contini
+AUTH3651,Anselmo Dalbesio
+AUTH3652,Fiorenzo Fiore
+AUTH3653,Fabio Grammatico
+AUTH3654,Maria Bonaria Lai
+AUTH3655,Giuseppe Lipari
+AUTH3656,Silvio Lippi
+AUTH3657,Alessandra Pasolini
+AUTH3658,Rosa Maria Pinna
+AUTH3659,Giovanni Secchi
+AUTH3660,M. Paola Serra
+AUTH3661,Marie-Christine Budischovsky
+AUTH3662,Chiara Cassiani
+AUTH3663,G. Cipriani
+AUTH3664,Boris De Rachewiltz
+AUTH3665,Massimo Danzi
+AUTH3666,S. Donadoni
+AUTH3667,Massimo Donattini
+AUTH3668,Paula Findlen
+AUTH3669,John Edward Fletcher
+AUTH3670,Valentino Gasparini
+AUTH3671,Michael Hewson Crawford
+AUTH3672,Oro Apolline Niliaco
+AUTH3673,Erik Iversen
+AUTH3674,Lorenzo Legati
+AUTH3675,Enrica Leospo
+AUTH3676,Sonia Maffei
+AUTH3677,Carlo Cesare Malvasia
+AUTH3678,Peter Parshall
+AUTH3679,Lorenzo Pignoria
+AUTH3680,Daniela Picchi
+AUTH3681,Orietta Rossi Pinelli
+AUTH3682,Cristiana Scappini
+AUTH3683,Sandra Sider
+AUTH3684,Giancarlo Susini
+AUTH3685,Isabella Rossi
+AUTH3686,Francesco Tiradritti
+AUTH3687,Eleni Vassilika
+AUTH3688,Christopher L.C.E. Witcombe
+AUTH3689,Bibliopolium Königianum
+AUTH3690,Giuseppe Boffito
+AUTH3691,Horatio Brown
+AUTH3692,Laura Carnelos
+AUTH3693,F. Cocchiara
+AUTH3694,Giuseppe De Luca
+AUTH3695,Jacopo Facciolati
+AUTH3696,Lucia Nadin
+AUTH3697,Giuseppe Tassini
+AUTH3698,Luca Trevisan
+AUTH3699,Giulio Zavatta
+AUTH3700,Mauro Albenga
+AUTH3701,Stelio Bassi
+AUTH3702,Hans Bots
+AUTH3703,François Waquet
+AUTH3704,Dario Busolini
+AUTH3705,Jean Michel Gardair
+AUTH3706,Enrico Francese
+AUTH3707,Aurora González-Teruel
+AUTH3708,Rajinder Kumar
+AUTH3709,Simonetta Righi
+AUTH3710,Reddy B. Subhash
+AUTH3711,Giulio Carlo Argan
+AUTH3712,Elena Boldoni
+AUTH3713,Achille Bonito Oliva
+AUTH3714,Cennino Cennini
+AUTH3715,Nicola Ciarletta
+AUTH3716,Alberto Cuomo
+AUTH3717,Paolo D’Ancona
+AUTH3718,Giovanni De Crescenzo
+AUTH3719,Alfredo De Paz
+AUTH3720,Eva Fabbris
+AUTH3721,Arnold Hauser
+AUTH3722,Filiberto Menna
+AUTH3723,Maurizio Messina
+AUTH3724,Julius Von Schlosser
+AUTH3725,Adolfo Venturi
+AUTH3726,Viani Vive
+AUTH3727,Costanzo Cargnoni
+AUTH3728,Marc Dykmans (1986)
+AUTH3729,Vittorio Frajese (2006)
+AUTH3730,Antonella Grassi
+AUTH3731,Marie-Madeleine Lebreton
+AUTH3732,Antonio Cestaro
+AUTH3733,Raffaele Giura Longo
+AUTH3734,Pietro Manzi
+AUTH3735,Giovanni Petrocelli
+AUTH3736,Giovanni Antonazzi
+AUTH3737,Riccardo Battocchio
+AUTH3738,Lorenzo Bedeschi
+AUTH3739,Ruggero Benericetti
+AUTH3740,Carlo Chenis
+AUTH3741,Giuseppe Donati
+AUTH3742,Giulio Foschini
+AUTH3743,Roberto Gherbaz
+AUTH3744,Ferdinando Giglio
+AUTH3745,Gian Domenico Gordini
+AUTH3746,Franco Gualdrini
+AUTH3747,Romana Guarnieri
+AUTH3748,Italia Nostra
+AUTH3749,Mauro Lanfranchi
+AUTH3750,Francesco Lanzoni
+AUTH3751,Giovanni Lucchesi
+AUTH3752,Mario Mazzotti
+AUTH3753,Angelo Melandri
+AUTH3754,Alberto Melloni
+AUTH3755,Michele Pennisi
+AUTH3756,Antonio Savioli
+AUTH3757,Lucia Sebastiani
+AUTH3758,Paola Sverzellati
+AUTH3759,Stefano Tabacchi
+AUTH3760,Maurizio Tagliaferri
+AUTH3761,Dionigi Tettamanzi
+AUTH3762,Yves Alix
+AUTH3763,Abdelwahed Allouche
+AUTH3764,Olivier Churrot
+AUTH3765,François Colbert
+AUTH3766,Angélique Del Rey
+AUTH3767,Carlotta Di Filpo
+AUTH3768,Ryan Dowd
+AUTH3769,Alessandra Federici
+AUTH3770,Massimo Gaggi
+AUTH3771,Michael Harris
+AUTH3772,Denis Merklen
+AUTH3773,Richard A. Musgrave
+AUTH3774,Christie Nieman
+AUTH3775,Ray Oldenburg
+AUTH3776,Serge Paugam
+AUTH3777,Camila Giorgetti
+AUTH3778,Mariangela Roselli
+AUTH3779,Rebecca Stavick
+AUTH3780,Taru Virtanen
+AUTH3781,Lawrence J. White
+AUTH3782,Acta Apostolicae Sedis
+AUTH3783,Carlos Albertos Moreira Azevedo
+AUTH3784,Gino Badini
+AUTH3785,Franco Bartoloni
+AUTH3786,Emanuele Boaga
+AUTH3787,Gaetano Zito
+AUTH3788,Elisabetta Bogini
+AUTH3789,Luca Carbone
+AUTH3790,Simeone Della Sacra Famiglia
+AUTH3791,Ugo Dovere
+AUTH3792,Simeone Duca
+AUTH3793,Basilio Pandzic
+AUTH3794,Giorgio Feliciani
+AUTH3795,Andrea Foglia
+AUTH3796,Laura Giambastiani
+AUTH3797,Martino Giusti
+AUTH3798,Alfonso Li Vecchi
+AUTH3799,Ermanno. Loevinson
+AUTH3800,Johannes Dominicus Mansi
+AUTH3801,Vincenzo Monachino
+AUTH3802,Luciano Osbat
+AUTH3803,Salvatore Palese
+AUTH3804,Ambrogio Palestra
+AUTH3805,Aristide Sala
+AUTH3806,Leopoldo Sandri
+AUTH3807,Raffaele Santoro
+AUTH3808,Pasqualino Avigliano
+AUTH3809,Carla Frova
+AUTH3810,Massimo Miglio
+AUTH3811,Marcella Leembruggen
+AUTH3812,Nella Santovito Vichi
+AUTH3813,Paolo Veneziani
+AUTH3814,Enrico Angiolini
+AUTH3815,Maria Cecilia Antoni
+AUTH3816,Alberto Brambilla
+AUTH3817,Paola Del Bianco
+AUTH3818,Carlo Lucchesi
+AUTH3819,Nevio Matteini
+AUTH3820,Elisabetta Bianchi Tonizzi
+AUTH3821,Franco Di Tizio
+AUTH3822,Virginia Minoletti Quarello
+AUTH3823,Benedict Anderson
+AUTH3824,Sandra Braman
+AUTH3825,Raphael Diego Greenhalgh
+AUTH3826,Karen Maeda
+AUTH3827,Simon Schwartzman
+AUTH3828,Miguel Rendon
+AUTH3829,Georg Schneider
+AUTH3830,Jonathan Beecher
+AUTH3831,Fernand Drujon
+AUTH3832,Jacques Gans
+AUTH3833,Jules Gay
+AUTH3834,Patrick J. Kearney
+AUTH3835,Paul Lacroix
+AUTH3836,Michèle Riot-Sarcey
+AUTH3837,Eduardo Alentejo
+AUTH3838,Rosalind Brown-Grant
+AUTH3839,Patrizia Caraffi
+AUTH3840,Marcos Roberto Nunes Costa
+AUTH3841,Rafael Ferreira Costa
+AUTH3842,Christia Mercer
+AUTH3843,Michelle Perrot
+AUTH3844,Oxford Bibliographies
+AUTH3845,Ana Rieger Schmidt
+AUTH3846,Karine Simoni
+AUTH3847,Michelle Louise Guimarães
+AUTH3848,Annalisa Bardelli
+AUTH3849,Rachael A. Cohen
+AUTH3850,Rachel K. Fischer
+AUTH3851,Susanne Friese
+AUTH3852,Camilla Fusetti
+AUTH3853,Clarissa Machetti
+AUTH3854,Kate Marek
+AUTH3855,Patrizia Milesi
+AUTH3856,W. Arnold
+AUTH3857,C. Baum-T. Steyer
+AUTH3858,Bayerische Staatsbibliothek: Jahresbericht 2020
+AUTH3859,M. Brantl-F. Horn
+AUTH3860,M. Brawn
+AUTH3861,H. Bredekamp
+AUTH3862,M. Brederecke-M. Wehry
+AUTH3863,B.H. Breslauer
+AUTH3864,H. Burda
+AUTH3865,L. Buzas
+AUTH3866,H. Carius-G. Fackler
+AUTH3867,K. Ceynowa
+AUTH3868,C. Consonni
+AUTH3869,P. G. Weston
+AUTH3870,P. Csendes
+AUTH3871,K. Dachs
+AUTH3872,C. Eidloth
+AUTH3873,W. Enderle
+AUTH3874,C. Fabian
+AUTH3875,E. Garberson
+AUTH3876,R. Griebel
+AUTH3877,P.R. Harris
+AUTH3878,B. Hernard
+AUTH3879,S. Jacobs
+AUTH3880,C. Jahn
+AUTH3881,D. Kudorfer
+AUTH3882,U. Jochum
+AUTH3883,F. G. Kaltwasser
+AUTH3884,S. Kellner
+AUTH3885,S. Kellner-K. Kempf
+AUTH3886,K. Kempf
+AUTH3887,H.-O. Keunecke
+AUTH3888,C. Kind-Doerne
+AUTH3889,S. Kuttner
+AUTH3890,M. Lanzinger
+AUTH3891,R. Lester
+AUTH3892,B. Luebbers
+AUTH3893,K. Minges
+AUTH3894,E. Mittler
+AUTH3895,M. Muscogiuri
+AUTH3896,C. Nativel
+AUTH3897,G. Naudé
+AUTH3898,W. Oechslin
+AUTH3899,I. Philip
+AUTH3900,E. Plassmann
+AUTH3901,K. Pomian
+AUTH3902,R. Rorty
+AUTH3903,J. Schlosser
+AUTH3904,A. Schmid
+AUTH3905,K. Selmigkeit
+AUTH3906,F. Sepp
+AUTH3907,S.J. Wimmer
+AUTH3908,H. Zedelmaier
+AUTH3909,Arjun Appadurai
+AUTH3910,Jan Assman
+AUTH3911,Arnaldo Bagnasco
+AUTH3912,Paolo Bertella Farnetti
+AUTH3913,Jane Birkin
+AUTH3914,Axel Burns
+AUTH3915,David Carlin
+AUTH3916,Louise Curham
+AUTH3917,Piergiorgio Degli Esposti
+AUTH3918,Mike Featherstone
+AUTH3919,Michael Foucault
+AUTH3920,Ekaterina Haskin
+AUTH3921,Eric Ketelaar
+AUTH3922,Dominik Lukas
+AUTH3923,Deborah Lupton
+AUTH3924,Luca Piero Marescotti
+AUTH3925,Serge Noiret
+AUTH3926,Adrian Palka
+AUTH3927,Luisa Passerini
+AUTH3928,Giulia Pistone
+AUTH3929,Liana Psarologaki
+AUTH3930,Tamara Rhodes
+AUTH3931,George Ritzer
+AUTH3932,Amalia Sabiescu
+AUTH3933,Mauro Salvador
+AUTH3934,David Scott
+AUTH3935,Marquard Smith
+AUTH3936,Alvin Toffler
+AUTH3937,Sara Whatley

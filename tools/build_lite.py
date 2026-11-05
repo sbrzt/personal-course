@@ -26,7 +26,7 @@ def main() -> int:
     stage.mkdir(parents=True)
 
     shutil.copytree(ROOT / "lessons", stage / "lessons",
-                    ignore=shutil.ignore_patterns("private", ".ipynb_checkpoints", "*.md"))
+                    ignore=shutil.ignore_patterns("private", "first-draft", ".ipynb_checkpoints", "*.md"))
     (stage / "data").mkdir()
     shutil.copy(ROOT / "data" / "README.md", stage / "data" / "README.md")
 

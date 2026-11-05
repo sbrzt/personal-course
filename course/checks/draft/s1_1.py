@@ -4,8 +4,8 @@ import sys
 
 import numpy as np
 
-from .. import data, stats
-from ..checking import Wrong, describe, exercise, progress
+from ... import data, stats
+from ...checking import Wrong, describe, exercise, progress
 
 LESSON = "S1.1"
 

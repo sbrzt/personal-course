@@ -10,9 +10,9 @@ import sys
 import numpy as np
 import pandas as pd
 
-from .. import bibliothecae as bib
-from .. import stats
-from ..checking import describe, exercise, progress, quiet
+from ... import bibliothecae as bib
+from ... import stats
+from ...checking import describe, exercise, progress, quiet
 
 LESSON = "S1.4"
 

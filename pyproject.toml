@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "personal-course"
-version = "0.1.0"
+version = "0.2.0"
 description = "Helpers, datasets and self-checking exercises for the course 'AI in digital humanities research'"
 readme = "README.md"
 license = "MIT"
@@ -17,6 +17,7 @@ dependencies = [
     "matplotlib>=3.7",
     "scipy>=1.10",
     "powerlaw>=1.5",
+    "ipywidgets>=7.6",
 ]
 
 [project.optional-dependencies]
@@ -40,10 +41,10 @@ Homepage = "https://sbrzt.github.io/personal-course/"
 Repository = "https://github.com/sbrzt/personal-course"
 
 [tool.setuptools]
-packages = ["course", "course.checks"]
+packages = ["course", "course.checks", "course.checks.draft"]
 
 [tool.setuptools.package-data]
-course = ["resources/*.txt", "resources/*.md"]
+course = ["resources/*.txt", "resources/*.md", "resources/bibliothecae/*.csv", "resources/bibliothecae/*.md"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

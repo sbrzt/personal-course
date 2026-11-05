@@ -5,8 +5,8 @@ import sys
 import numpy as np
 import pandas as pd
 
-from .. import data, stats
-from ..checking import Wrong, describe, exercise, progress
+from ... import data, stats
+from ...checking import Wrong, describe, exercise, progress
 
 LESSON = "S1.2"
 

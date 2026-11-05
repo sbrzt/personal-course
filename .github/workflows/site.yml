@@ -24,6 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       BASE_URL: /${{ github.event.repository.name }}
+      COURSE_STATIC: "1"        # sliders render as still frames on the site
     steps:
       - uses: actions/checkout@v7
 

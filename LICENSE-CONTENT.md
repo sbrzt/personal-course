@@ -6,4 +6,6 @@ The text of the lessons, the Markdown pages of the site and the figures are lice
 
 Code is licensed separately under the MIT licence (see `LICENSE`): the `course` package, the files in `tools/` and `tests/`, and the code cells of the notebooks.
 
+The Bibliothecae.it tables in `course/resources/bibliothecae/` are shared under CC BY 4.0: credit Bibliothecae.it for the reference lists and Wikidata (CC0) for the article metadata.
+
 The text of Dante Alighieri's *La Divina Commedia* in `course/resources/commedia.txt` is in the public domain.

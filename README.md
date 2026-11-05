@@ -8,10 +8,10 @@ A project-based course on working with, talking about and reasoning about AI, fo
 
 | Folder | What it holds |
 | --- | --- |
-| `lessons/` | The lessons, one folder per phase. Phase S (statistics and probability) comes first. |
-| `course/` | The Python package the lessons import: datasets, reference statistics, simulations, plotting helpers and the exercise checks. |
+| `lessons/` | The lessons, one folder per phase. Phase S (statistics and probability, from zero) comes first; `lessons/phase-s/first-draft/` keeps the superseded first version of S1. |
+| `course/` | The Python package the lessons import: datasets (including the Bibliothecae\.it tables, in `course/resources/bibliothecae/`), reference statistics, simulations, plotting helpers, sliders and the exercise checks. |
 | `answers/` | Your worked copies of the lessons. A GitHub Action grades them on every push. |
-| `data/` | Your private data (ignored by git). See `data/README.md`. |
+| `data/` | Local data you do not want to commit (ignored by git). |
 | `tools/` | `solve.py` verifies the lessons, `grade.py` grades answers, `build_lite.py` builds the in-browser version. |
 | `tests/` | Tests for the `course` package. |
 
@@ -43,6 +43,6 @@ On every push to `main`, the `Site` workflow runs these steps and publishes the 
 
 ## Licences and AI assistance
 
-Lesson text and figures are under [CC BY 4.0](LICENSE-CONTENT.md); code is under the [MIT licence](LICENSE). The text of Dante's *Commedia* in `course/resources/` is in the public domain.
+Lesson text and figures are under [CC BY 4.0](LICENSE-CONTENT.md); code is under the [MIT licence](LICENSE). The Bibliothecae\.it tables in `course/resources/bibliothecae/` are shared under CC BY 4.0 (see their README). The text of Dante's *Commedia* in `course/resources/` is in the public domain.
 
 The materials were drafted with Claude (Anthropic) and are reviewed and revised by the author, Sebastian Barzaghi. See `CITATION.cff` to cite them.
