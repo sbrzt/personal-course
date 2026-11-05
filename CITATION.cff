@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them using the metadata below."
+title: "AI in digital humanities research: a project-based course"
+abstract: "Interactive Jupyter lessons with self-checking exercises on statistics, machine learning and language models, for research in the digital humanities, metascience and bibliographic data."
+authors:
+  - family-names: Barzaghi
+    given-names: Sebastian
+    affiliation: University of Bologna
+version: 0.1.0
+license:
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/sbrzt/personal-course"
+url: "https://sbrzt.github.io/personal-course/"
+keywords:
+  - digital humanities
+  - artificial intelligence
+  - statistics
+  - bibliometrics
+  - metascience
+  - open educational resources
