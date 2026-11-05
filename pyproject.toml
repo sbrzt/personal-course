@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "personal-course"
+version = "0.1.0"
+description = "Helpers, datasets and self-checking exercises for the course 'AI in digital humanities research'"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Sebastian Barzaghi" }]
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+    "scipy>=1.10",
+    "powerlaw>=1.5",
+]
+
+[project.optional-dependencies]
+# to work through the lessons on your own computer
+lab = ["jupyterlab>=4"]
+# to run tools/grade.py
+grade = ["nbclient>=0.10", "nbformat>=5.10", "ipykernel>=6"]
+# to test, verify and build the site
+dev = [
+    "pytest>=8",
+    "nbclient>=0.10",
+    "nbformat>=5.10",
+    "ipykernel>=6",
+    "jupyter-book==2.1.7",
+    "jupyterlite-core==0.8.7",
+    "jupyterlite-pyodide-kernel==0.8.6",
+]
+
+[project.urls]
+Homepage = "https://sbrzt.github.io/personal-course/"
+Repository = "https://github.com/sbrzt/personal-course"
+
+[tool.setuptools]
+packages = ["course", "course.checks"]
+
+[tool.setuptools.package-data]
+course = ["resources/*.txt", "resources/*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

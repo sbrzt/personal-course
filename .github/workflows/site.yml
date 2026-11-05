@@ -1,0 +1,77 @@
+name: Site
+
+# Tests the course package, verifies every lesson, builds the book and the
+# in-browser version, and publishes both to GitHub Pages from main.
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["answers/**"]
+  pull_request:
+    paths-ignore: ["answers/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BASE_URL: /${{ github.event.repository.name }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24.x
+
+      - name: Install the course package and the build tools
+        run: pip install -e ".[dev]"
+
+      - name: Test the course package
+        run: pytest -q
+
+      - name: Verify the lessons (solutions pass, blank exercises run)
+        run: python tools/solve.py lessons/*/*.ipynb
+
+      - name: Build the book, executing the lessons
+        run: jupyter-book build --html --execute
+
+      - name: Build the in-browser version (JupyterLite)
+        run: python tools/build_lite.py
+
+      - name: Set up Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v6
+
+      - name: Upload the site
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _build/html
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

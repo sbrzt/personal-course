@@ -1,0 +1,39 @@
+name: Grade answers
+
+# Runs the notebooks in answers/ and writes a table of exercise checks to the
+# run's summary page. Grading informs; it never fails the run because an
+# exercise is wrong.
+on:
+  push:
+    paths: ["answers/**.ipynb"]
+  pull_request:
+    paths: ["answers/**.ipynb"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install the course package and the grader
+        run: pip install -e ".[grade]"
+
+      - name: Grade the answers
+        run: python tools/grade.py
+
+      - name: Keep the executed notebooks
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: graded-notebooks
+          path: _build/graded/
+          if-no-files-found: ignore
