@@ -11,7 +11,7 @@ The lessons are being written in order. Those not yet written are listed so that
 | Lesson | What you learn | Status |
 | --- | --- | --- |
 | [S0.1 · Reading formulas](s0-1-reading-formulas.ipynb) | Subscripts, the Σ and Π signs, long formulas read from the inside out, indicators, proportions, percentages and percentage points | ready (1.5 h) |
-| S0.2 · Powers, exponentials and logarithms | Exponential growth, logarithms and their rules, orders of magnitude, log axes | planned (2 h) |
+| [S0.2 · Powers, exponentials and logarithms](s0-2-powers-and-logarithms.ipynb) | Powers and roots, exponential growth and decay, logarithms and their rules, orders of magnitude, log axes | ready (2.5 h) |
 | S0.3 · Functions and graphs | Linear, power and exponential functions; reading a graph; straight lines on log axes | planned (1.5 h) |
 
 ## Part 1 · Describing data

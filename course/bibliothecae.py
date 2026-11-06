@@ -37,11 +37,22 @@ def refs_per_article(c) -> pd.Series:
     return citation_links(c).groupby("id").size().rename("references")
 
 
+def _valid_years(links: pd.DataFrame) -> pd.Series:
+    """True for the citations whose cited year is valid (1400 to the citing year)."""
+    return (links["cited_year"] >= 1400) & (links["cited_year"] <= links["citing_year"])
+
+
 def citation_ages(c) -> pd.Series:
     """Citing year minus cited year, for citations with a valid cited year."""
     links = citation_links(c)
-    ok = (links["cited_year"] >= 1400) & (links["cited_year"] <= links["citing_year"])
+    ok = _valid_years(links)
     return (links.loc[ok, "citing_year"] - links.loc[ok, "cited_year"]).rename("age")
+
+
+def cited_years(c) -> pd.Series:
+    """Publication year of the cited work, for citations with a valid cited year."""
+    links = citation_links(c)
+    return links.loc[_valid_years(links), "cited_year"].astype(int).rename("cited_year")
 
 
 def cited_author_counts(c) -> pd.Series:
