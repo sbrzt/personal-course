@@ -38,6 +38,7 @@ project:
         - title: Part 0 · The maths toolkit
           children:
             - file: lessons/phase-s/s0-1-reading-formulas.ipynb
+            - file: lessons/phase-s/s0-2-powers-and-logarithms.ipynb
     - file: about.md
 site:
   template: book-theme

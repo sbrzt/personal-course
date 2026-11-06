@@ -13,7 +13,7 @@ The lessons are Jupyter notebooks with exercises that check themselves. Every le
 
 | Part | Status |
 | --- | --- |
-| **Phase S · Statistics and probability**, from zero | being rewritten: S0.1 ready, 41 more lessons to follow |
+| **Phase S · Statistics and probability**, from zero | being rewritten: S0.1 and S0.2 ready, 40 more lessons to follow |
 | Machine learning, deep learning, language models and the rest of the curriculum | to follow, phase by phase |
 
 Lessons are added in the order of the curriculum. Each one is checked automatically before it is published: every solution must pass its checks, and every blank exercise must run without errors.

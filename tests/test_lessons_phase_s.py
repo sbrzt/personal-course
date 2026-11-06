@@ -4,7 +4,7 @@ import numpy as np
 
 from course import data, widgets
 from course.checking import RESULTS
-from course.checks import s0_1
+from course.checks import s0_1, s0_2
 
 
 def status(lesson, n):
@@ -63,3 +63,57 @@ def test_s0_1_typical_mistakes_get_hints(capsys):
     assert status("S0.1", 3) == "fail"
     s0_1.ex7(..., ..., ..., ...)
     assert status("S0.1", 7) == "todo"
+
+
+def test_s0_2_known_numbers():
+    p_line, p_canto = s0_2.canto_chances()
+    assert len(p_line) == 7 and len(p_canto) == 993
+    assert np.prod(p_canto) == 0.0
+    assert round(np.log10(p_canto).sum()) == -2947
+    d = s0_2.cited_decades()
+    assert (d[1950], d[2010]) == (131, 1766)
+    assert s0_2.corpus_sizes().tolist() == [30, 321, 4036, 7507, 101603, 529896]
+
+
+def test_s0_2_right_answers_pass():
+    s0_2.ex1(2 ** 10, 10 ** -3, 81 ** (1 / 2), 1000 ** (1 / 3), 440 * 2 ** (7 / 12))
+    t = np.arange(0, 31)
+    added, multiplied = 1000 + 500 * t, 1000 * 1.2 ** t
+    s0_2.ex2(added, multiplied, t[multiplied > added][0])
+    s0_2.ex3(np.log10(10_000), np.log2(1 / 8), np.log(np.exp(5)), np.log(81) / np.log(3),
+             np.ceil(np.log2(321)))
+    s0_2.ex4("ACEF")
+    p_line, p_canto = s0_2.canto_chances()
+    s0_2.ex5(np.prod(p_line), np.prod(p_canto), np.log10(p_canto).sum())
+    logs = np.log10(s0_2.corpus_sizes())
+    s0_2.ex6(logs, np.floor(logs), logs["words of the Commedia"] - logs["references, median article"])
+    s0_2.ex7(10 ** 2.5, 10 ** ((np.log10(20) + np.log10(80)) / 2), (20 + 80) / 2)
+    d = s0_2.cited_decades()
+    f = d[2010] / d[1950]
+    s0_2.ex8(f, f ** (1 / 60), np.log(2) / np.log(f ** (1 / 60)))
+    assert [status("S0.2", k) for k in range(1, 9)] == ["pass"] * 8
+
+
+def test_s0_2_typical_mistakes_get_hints(capsys):
+    s0_2.ex1(2 ^ 10, 10 ** -3, 81 ** 1 / 2, 1000 ** 1 / 3, 440 * 2 ** 7 / 12)
+    out = capsys.readouterr().out
+    assert "use **" in out and "brackets" in out
+    t = np.arange(0, 31)
+    s0_2.ex2(1000 + 500 * t, 1000 * 0.2 ** t, 0)
+    out = capsys.readouterr().out
+    assert "1.2, not 0.2" in out and "more (>)" in out
+    s0_2.ex3(np.log(10_000), 3, 5, 4, np.log2(321))
+    out = capsys.readouterr().out
+    assert "natural log" in out and "negative" in out and "round up" in out
+    s0_2.ex4("AB")
+    out = capsys.readouterr().out
+    assert status("S0.2", 4) == "fail" and "no rule for the log of a sum" in out
+    p_line, p_canto = s0_2.canto_chances()
+    with np.errstate(divide="ignore"):
+        s0_2.ex5(np.prod(p_line), np.prod(p_canto), np.log10(np.prod(p_canto)))
+    assert "log of 0.0" in capsys.readouterr().out
+    s0_2.ex6(np.log10(s0_2.corpus_sizes()), np.round(np.log10(s0_2.corpus_sizes())), 4)
+    out = capsys.readouterr().out
+    assert "np.floor" in out and "rounded orders" in out
+    s0_2.ex8(..., ..., ...)
+    assert status("S0.2", 8) == "todo"
