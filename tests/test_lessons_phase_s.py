@@ -4,7 +4,7 @@ import numpy as np
 
 from course import data, widgets
 from course.checking import RESULTS
-from course.checks import s0_1, s0_2
+from course.checks import s0_1, s0_2, s0_3
 
 
 def status(lesson, n):
@@ -117,3 +117,50 @@ def test_s0_2_typical_mistakes_get_hints(capsys):
     assert "np.floor" in out and "rounded orders" in out
     s0_2.ex8(..., ..., ...)
     assert status("S0.2", 8) == "todo"
+
+
+def test_s0_3_known_numbers():
+    f = s0_3.zipf_counts()
+    assert (f[9], f[999]) == (1100, 10)
+    s = s0_3.journal_so_far()
+    assert (s[2012], s[2013], s[2024]) == (9, 32, 314)
+
+
+def test_s0_3_right_answers_pass():
+    s0_3.ex1(lambda p: 2 + 0.35 * p, np.floor((20 - 2) / 0.35))
+    s0_3.ex2(-2, 9, -11)
+    s = s0_3.journal_so_far()
+    b = (s[2024] - s[2013]) / 11
+    s0_3.ex3(b, s[2013] - b, s[2013] - b + 18 * b)
+    s0_3.ex4("LPEPEP")
+    k = (np.log10(5) - np.log10(500)) / (np.log10(1000) - np.log10(10))
+    s0_3.ex5(k, 500 / 10 ** k, 500 / 10 ** k * 100 ** k)
+    f = s0_3.zipf_counts()
+    s0_3.ex6(f[9] / f[999], 100, np.log10(f[9] / f[999]) / 2)
+    x, curves = s0_3.mystery_curves()
+    y = curves["A"]
+    s0_3.ex7("PLE", (np.log10(y[-1]) - np.log10(y[0])) / (np.log10(x[-1]) - np.log10(x[0])))
+    assert [status("S0.3", k) for k in range(1, 8)] == ["pass"] * 7
+
+
+def test_s0_3_typical_mistakes_get_hints(capsys):
+    def unfinished(pages):
+        return ...
+    s0_3.ex1(unfinished, ...)
+    assert status("S0.3", 1) == "todo"
+    s0_3.ex1(lambda p: 2 * 0.35 * p, 18 / 0.35)
+    out = capsys.readouterr().out
+    assert "don't multiply" in out and "round down" in out
+    s0_3.ex2(2, 5, -20)
+    out = capsys.readouterr().out
+    assert "same order" in out and "y minus slope" in out
+    s0_3.ex4("LPEEEP")
+    assert "x to the power −1" in capsys.readouterr().out
+    s0_3.ex4(42)
+    assert status("S0.3", 4) == "fail"
+    f = s0_3.zipf_counts()
+    s0_3.ex6(f[10] / f[1000], 100, 1.1)
+    assert "counts from 0" in capsys.readouterr().out
+    s0_3.ex7("PEL", 0.75)
+    out = capsys.readouterr().out
+    assert "not straight on semi-log" in out and "negative" in out
