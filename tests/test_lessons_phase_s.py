@@ -1,10 +1,11 @@
-"""Tests for the rewritten Phase S: bundled data, sliders and the S0.1 checks."""
+"""Tests for the rewritten Phase S: bundled data, sliders and the lesson checks."""
 
 import numpy as np
+import pandas as pd
 
 from course import data, widgets
 from course.checking import RESULTS
-from course.checks import s0_1, s0_2, s0_3
+from course.checks import s0_1, s0_2, s0_3, s1_1
 
 
 def status(lesson, n):
@@ -164,3 +165,55 @@ def test_s0_3_typical_mistakes_get_hints(capsys):
     s0_3.ex7("PEL", 0.75)
     out = capsys.readouterr().out
     assert "not straight on semi-log" in out and "negative" in out
+
+
+def test_s1_1_known_numbers():
+    assert s1_1.page_counts().sum() == 9045
+    kw = s1_1.keyword_pairs()
+    assert (len(kw), kw.nunique(), kw.value_counts().index[0]) == (1062, 515, "library history")
+
+
+def test_s1_1_right_answers_pass():
+    bib = data.bibliothecae()
+    t = bib.article_reference
+    s1_1.ex1(len(t), len(t.drop_duplicates()), t["id"].nunique())
+    s1_1.ex2("NIORNRRO")
+    vol = bib.articles["volume"]
+    pc = s1_1.page_counts()
+    s1_1.ex3(vol.max(), vol.astype(int).max(), pc, pc.sum())
+    kw = s1_1.keyword_pairs()
+    s1_1.ex4(len(kw), kw.nunique(), kw.value_counts().index[0])
+    s1_1.ex5("PSSP")
+    r = bib.references
+    y = pd.to_numeric(r["date"], errors="coerce")
+    miss, bad = (r["date"] == "").sum(), ((y < 1400) | (y > 2025)).sum()
+    s1_1.ex6(miss, bad, (miss + bad) / len(r))
+    no_year, has_author = r["date"] == "", r["author"] != ""
+    w, wo = no_year[has_author].mean(), no_year[~has_author].mean()
+    s1_1.ex7(w, wo, wo / w)
+    assert [status("S1.1", k) for k in range(1, 8)] == ["pass"] * 7
+    assert (miss, bad) == (503, 403)
+
+
+def test_s1_1_typical_mistakes_get_hints(capsys):
+    bib = data.bibliothecae()
+    pc = s1_1.page_counts()
+    s1_1.ex3(14, 9, pc - 1, pc.sum() - len(pc))
+    out = capsys.readouterr().out
+    assert "before any conversion" in out and "add 1" in out and "one page short" in out
+    s1_1.ex2("NIORNRRR")
+    assert "H, first or second issue" in capsys.readouterr().out
+    s1_1.ex4(1062, 514, "Library history")
+    assert status("S1.1", 4) == "pass"
+    s1_1.ex4(1062, 515, 98)
+    assert "the keyword itself" in capsys.readouterr().out
+    s1_1.ex5("PPPP")
+    assert status("S1.1", 5) == "fail"
+    r = bib.references
+    no_year, has_author = r["date"] == "", r["author"] != ""
+    w, wo = no_year[has_author].mean(), no_year[~has_author].mean()
+    s1_1.ex7(wo, w, w / wo)
+    out = capsys.readouterr().out
+    assert "swapped" in out and "larger share" in out
+    s1_1.ex6(..., ..., ...)
+    assert status("S1.1", 6) == "todo"

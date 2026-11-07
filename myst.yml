@@ -40,6 +40,9 @@ project:
             - file: lessons/phase-s/s0-1-reading-formulas.ipynb
             - file: lessons/phase-s/s0-2-powers-and-logarithms.ipynb
             - file: lessons/phase-s/s0-3-functions-and-graphs.ipynb
+        - title: Part 1 · Describing data
+          children:
+            - file: lessons/phase-s/s1-1-data-variables-measurement.ipynb
     - file: about.md
 site:
   template: book-theme
