@@ -39,6 +39,7 @@ project:
           children:
             - file: lessons/phase-s/s0-1-reading-formulas.ipynb
             - file: lessons/phase-s/s0-2-powers-and-logarithms.ipynb
+            - file: lessons/phase-s/s0-3-functions-and-graphs.ipynb
     - file: about.md
 site:
   template: book-theme
