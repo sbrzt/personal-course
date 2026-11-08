@@ -5,7 +5,7 @@ import pandas as pd
 
 from course import data, widgets
 from course.checking import RESULTS
-from course.checks import s0_1, s0_2, s0_3, s1_1
+from course.checks import s0_1, s0_2, s0_3, s1_1, s1_2
 
 
 def status(lesson, n):
@@ -217,3 +217,54 @@ def test_s1_1_typical_mistakes_get_hints(capsys):
     assert "swapped" in out and "larger share" in out
     s1_1.ex6(..., ..., ...)
     assert status("S1.1", 6) == "todo"
+
+
+def test_s1_2_known_numbers():
+    t = s1_2.reference_types().value_counts()
+    assert t.to_dict() == {"book or other": 3994, "periodical": 1812, "chapter": 1378, "web": 323}
+    bp = s1_2.type_by_period()
+    assert round(bp.loc["chapter", "2021-2025"] - bp.loc["chapter", "2016-2020"], 2) == 3.01
+
+
+def test_s1_2_right_answers_pass():
+    bib = data.bibliothecae()
+    s = bib.articles["section"]
+    s1_2.ex1(s.value_counts(), s.value_counts(normalize=True), s.value_counts(normalize=True).iloc[:3].sum())
+    y = s1_2.years()
+    py = y.value_counts().sort_index()
+    cs = py.cumsum() / py.sum()
+    s1_2.ex2(py, cs, cs[cs >= 0.5].index[0])
+    pc = s1_2.page_counts()
+    s1_2.ex3(y.value_counts().idxmax(), y.value_counts().max(), pc.value_counts().idxmax(), pc.value_counts().max())
+    period = pd.Series(np.where(y <= 2018, "2012-2018", "2019-2025"), index=y.index, name="period")
+    table = pd.crosstab(s, period, margins=True)
+    s1_2.ex4(table, table.loc["Essays", "2019-2025"], table.loc["All", "2019-2025"])
+    essay, other = s == "Essays", bib.articles["langLabel"] != "Italian"
+    s1_2.ex5(essay[other].mean(), other[essay].mean(), essay[~other].mean())
+    t = s1_2.reference_types()
+    bp = s1_2.type_by_period()
+    e, l = bp.loc["chapter", "2016-2020"], bp.loc["chapter", "2021-2025"]
+    s1_2.ex6(t.value_counts(normalize=True)["web"], e, l, l - e)
+    assert [status("S1.2", k) for k in range(1, 7)] == ["pass"] * 6
+    assert (cs[cs >= 0.5].index[0], y.value_counts().idxmax(), pc.value_counts().idxmax()) == (2019, 2020, 6)
+
+
+def test_s1_2_typical_mistakes_get_hints(capsys):
+    bib = data.bibliothecae()
+    s = bib.articles["section"]
+    s1_2.ex1(s.value_counts(normalize=True), s.value_counts(), 286)
+    out = capsys.readouterr().out
+    assert "these are shares" in out and "these are counts" in out and "divide by the 321" in out
+    y = s1_2.years()
+    s1_2.ex2(y.value_counts(), y.value_counts().cumsum() / len(y), 2018)
+    out = capsys.readouterr().out
+    assert "time order" in out and "only" in out
+    period = pd.Series(np.where(y <= 2018, "2012-2018", "2019-2025"), index=y.index, name="period")
+    s1_2.ex4(pd.crosstab(s, period), 55, 321)
+    out = capsys.readouterr().out
+    assert "margins=True" in out and "earlier period" in out and "every article" in out
+    essay, other = s == "Essays", bib.articles["langLabel"] != "Italian"
+    s1_2.ex5(other[essay].mean(), essay[other].mean(), essay[~other].mean())
+    assert "other direction" in capsys.readouterr().out
+    s1_2.ex6(..., ..., ..., ...)
+    assert status("S1.2", 6) == "todo"
