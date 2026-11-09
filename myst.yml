@@ -44,6 +44,7 @@ project:
           children:
             - file: lessons/phase-s/s1-1-data-variables-measurement.ipynb
             - file: lessons/phase-s/s1-2-counting-and-tables.ipynb
+            - file: lessons/phase-s/s1-3-distributions-and-shape.ipynb
     - file: about.md
 site:
   template: book-theme
