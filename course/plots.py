@@ -74,6 +74,22 @@ def lorenz(x, ax=None, label=None, color=None, equality=True):
     return ax
 
 
+def _mpl_version() -> tuple[int, int]:
+    major, minor = mpl.__version__.split(".")[:2]
+    return int(major), int("".join(ch for ch in minor if ch.isdigit()) or 0)
+
+
+def boxplot(ax, data, **kwargs):
+    """Box plots laid on their side, with `ax.boxplot`, on any matplotlib version.
+
+    matplotlib 3.10 replaced the option `vert=False` with `orientation="horizontal"`,
+    and the browser (JupyterLite) may run an older version than your computer.
+    """
+    if _mpl_version() >= (3, 10):
+        return ax.boxplot(data, orientation="horizontal", **kwargs)
+    return ax.boxplot(data, vert=False, **kwargs)
+
+
 def log_histogram(x, ax=None, bins=30, label=None, color=None):
     """Histogram of positive values with logarithmically spaced bins, as a density."""
     ax = _ax(ax)

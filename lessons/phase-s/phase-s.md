@@ -20,7 +20,7 @@ The lessons are being written in order. Those not yet written are listed so that
 | --- | --- | --- |
 | [S1.1 · Data, variables and measurement](s1-1-data-variables-measurement.ipynb) | Units, observations and variables; variable types; tidy tables; population and sample; validity, reliability and missing values | ready (2.5 h) |
 | [S1.2 · Counting and tables](s1-2-counting-and-tables.ipynb) | Frequency tables, the mode, bar charts, two-way tables, row and column percentages | ready (2 h) |
-| S1.3 · Distributions and their shape | Histograms, density, skew, outliers, box plots, the ECDF | planned (2.5 h) |
+| [S1.3 · Distributions and their shape](s1-3-distributions-and-shape.ipynb) | Histograms, density, skew, outliers, box plots, the ECDF | ready (2.5 h) |
 | S1.4 · The centre: mean, median and mode | Weighted and trimmed means; robustness and the breakdown point | planned (2.5 h) |
 | S1.5 · Spread and position | Variance and standard deviation, IQR, MAD, percentiles, z-scores | planned (2.5 h) |
 | S1.6 · Skew, heavy tails and log scales | Log transforms, log-spaced histograms, the CCDF on log–log axes | planned (2.5 h) |

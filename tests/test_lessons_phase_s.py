@@ -3,9 +3,9 @@
 import numpy as np
 import pandas as pd
 
-from course import data, widgets
+from course import data, stats, widgets
 from course.checking import RESULTS
-from course.checks import s0_1, s0_2, s0_3, s1_1, s1_2
+from course.checks import s0_1, s0_2, s0_3, s1_1, s1_2, s1_3
 
 
 def status(lesson, n):
@@ -268,3 +268,90 @@ def test_s1_2_typical_mistakes_get_hints(capsys):
     assert "other direction" in capsys.readouterr().out
     s1_2.ex6(..., ..., ..., ...)
     assert status("S1.2", 6) == "todo"
+
+
+def test_s1_3_known_numbers():
+    r = s1_3.refs()
+    assert (len(r), r.nunique(), r.min(), r.max()) == (201, 76, 1, 234)
+    assert np.histogram(r, bins=np.arange(0, 250, 10))[0][:4].tolist() == [25, 37, 32, 38]
+    assert r.quantile([0.25, 0.5, 0.75]).tolist() == [16, 30, 48]
+    z = s1_3.refs_since_2016()
+    assert (len(z), (z == 0).sum()) == (257, 56)
+    assert pd.Series(s1_3.WAITS).quantile([0.25, 0.5, 0.75]).tolist() == [8, 12, 20]
+
+
+def test_s1_3_right_answers_pass():
+    r, p = s1_3.refs(), s1_3.page_counts()
+    edges = np.arange(0, 250, 10)
+    counts = np.histogram(r, bins=edges)[0]
+    s1_3.ex1(edges, counts, counts[:2].sum(), edges[counts.argmax()])
+    k = int(np.ceil(1 + np.log2(len(r))))
+    s1_3.ex2(k, (r.max() - r.min()) / k, int(np.ceil(1 + np.log2(len(p)))))
+    uneven = [0, 10, 20, 30, 50, 100, 250]
+    c, w = np.histogram(r, bins=uneven)[0], np.diff(uneven)
+    d = c / (len(r) * w)
+    s1_3.ex3(c, w, d, uneven[d.argmax()])
+    s1_3.ex4("right-skewed", "Left skewed", "bimodal")
+    q1, q3 = r.quantile(0.25), r.quantile(0.75)
+    upper = q3 + 1.5 * (q3 - q1)
+    s1_3.ex5(q1, q3, upper, (r > upper).sum())
+    values, shares = stats.ecdf(r)
+    s1_3.ex6(lambda x, t: np.mean(np.asarray(x) <= t), (r <= 30).mean(), values[shares >= 0.9][0])
+    assert [status("S1.3", k) for k in range(1, 7)] == ["pass"] * 6
+    assert (edges[counts.argmax()], k, uneven[d.argmax()], upper, values[shares >= 0.9][0]) == (30, 9, 10, 96, 69)
+
+
+def test_s1_3_typical_mistakes_get_hints(capsys):
+    r = s1_3.refs()
+    short = np.arange(0, 240, 10)
+    s1_3.ex1(short, np.histogram(r, bins=short), (r <= 20).sum(), 38)
+    out = capsys.readouterr().out
+    assert "stops before" in out and "keep the counts" in out and "exactly 20" in out and "how many" in out
+    s1_3.ex2(1 + np.log2(len(r)), r.max() / 9, 9)
+    out = capsys.readouterr().out
+    assert "round up" in out and "range" in out and "rounds up, not down" in out
+    uneven = [0, 10, 20, 30, 50, 100, 250]
+    c = np.histogram(r, bins=uneven)[0]
+    s1_3.ex3(c, np.diff(uneven), c / len(r), 30)
+    out = capsys.readouterr().out
+    assert "these are shares" in out and "largest count" in out
+    s1_3.ex4("left-skewed", "right skewed", "right-skewed")
+    out = capsys.readouterr().out
+    assert out.count("named after the side of its tail") == 2 and "bar at zero" in out
+    s1_3.ex4("skewed", ..., 3)
+    out = capsys.readouterr().out
+    assert "write one of" in out and "should be a string" in out
+    q1, q3 = r.quantile(0.25), r.quantile(0.75)
+    s1_3.ex5(q3, q1, 1.5 * q3, (r >= q3 + 1.5 * (q3 - q1)).sum())
+    out = capsys.readouterr().out
+    assert "third quartile" in out and "not 1.5 times Q3" in out and "exactly on the fence" in out
+    s1_3.ex6(lambda x, t: np.mean(np.asarray(x) < t), (r <= 30).sum(), 0.9)
+    out = capsys.readouterr().out
+    assert "use <= rather than <" in out and "that is a count" in out and "that is the share" in out
+
+
+def test_s1_3_unfinished_and_broken_functions_are_handled(capsys):
+    def ecdf_at(x, t):
+        return ...
+    s1_3.ex6(ecdf_at, ..., ...)
+    assert status("S1.3", 6) == "todo"
+    s1_3.ex6(lambda x, t: 1 / 0, (s1_3.refs() <= 30).mean(), 69)
+    out = capsys.readouterr().out
+    assert "ZeroDivisionError" in out and status("S1.3", 6) == "fail"
+
+
+def test_boxplot_helper_draws_sideways_without_warnings():
+    import warnings
+
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+
+    from course import plots
+    fig, ax = plt.subplots()
+    with warnings.catch_warnings():
+        warnings.simplefilter("error")
+        out = plots.boxplot(ax, [1, 2, 3, 10], widths=0.5)
+    assert len(out["boxes"]) == 1
+    assert out["boxes"][0].get_path().vertices[:, 0].max() > 2      # the box spans x, not y
+    plt.close(fig)
